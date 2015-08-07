@@ -2,7 +2,9 @@
 layout: page
 title: Lunch
 permalink: /lunch/
+published: true
 ---
+
 
 We have lunch ever day.
 
@@ -13,8 +15,10 @@ Mån - Fre: 11:00 - 14:00
 Alla rätter: 75:- Take way: 55:-
 
 Måndag
+
 * Gulaschgryta med sallad och kokt potatis.
 * Köttbullar med potatismos, gräddsås och inlagd gurka.
+
 Tisdag
 * Raggmunkar med stekt fläsk och lingonsylt.
 * Biff A LA Lindström med rödvinssky, grönsaker och kokt potatis.
