@@ -1,1 +1,7 @@
 .DS_Store
+
+# Just in case default destination folder name is used.
+_site/
+
+# created when building with jekyll
+.sass-cache/
