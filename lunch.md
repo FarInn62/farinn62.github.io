@@ -6,7 +6,7 @@ published: true
 ---
 
 
-We have lunch ever day.
+We have lunch every day.
 
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
