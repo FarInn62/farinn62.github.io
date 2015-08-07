@@ -6,8 +6,6 @@ published: true
 ---
 
 
-We have lunch every day.
-
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:
