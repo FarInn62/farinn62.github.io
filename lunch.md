@@ -20,16 +20,24 @@ Måndag
 * Köttbullar med potatismos, gräddsås och inlagd gurka.
 
 Tisdag
+
 * Raggmunkar med stekt fläsk och lingonsylt.
 * Biff A LA Lindström med rödvinssky, grönsaker och kokt potatis.
+
 Onsdag
+
 * Ostpanerad schnitzel med rosépepparsås och stekt potatis.
 * Smörstekt rödspätta med sås Verte, räksallad och kokt potatis.
+
 Torsdag
+
 * Ärtsoppa samt tunna pannkakor med sylt och grädde.
 * Fransk köttgryta med bacon och champinjoner och kokt potatis.
+
 Fredag
+
 * Helstekt fläskytterfilé med grönpepparsås, stekta grönsaker och kokt potatis.
 * Fiskarens frestelse med hummersås, kaviarsmör och räkor.
+
 Lördag & Söndag
 * Á la Carte
