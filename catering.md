@@ -8,8 +8,11 @@ published: true
 
 
 Till följande bufféer ingår potatisgratäng eller potatissallad samt sallader.
+
 Minsta antal personer är 15.
+
 Observera att det tillkommer 55 kr pp för alla bufféer om beställningen intas i vår restaurang. Alla priser gäller endast mat och transport.
+
 Obsevera att servis (tallrikar, glas, bestick, dukar) ej ingår. För komplett catering tilkommer 35:- pp.
 
 Välkommen att ringa 0563-50007 för bokning eller maila till info@farinn62.com
@@ -18,7 +21,7 @@ __Menyn gäller följande tider:__
 Mån - Fre: 07:00 - 19:00  
 Lör - Sön: 11:00 - 19:00
 
-1. Klarälvsbuffé, 195:-  
+__1. Klarälvsbuffé, 195:-__    
 Husets Lax med krämig sås, Räk-o tonfisksallad med fransk vinigrette. Tjälknöl med Lingoncreme, Ugnsbakad kalkonbröst, Grönsallad, dansk Brieost. Kex och hembakat Bröd.
 
 2. Mäster Fällings Heta Buffé, 235:-  
