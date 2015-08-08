@@ -1,7 +1,7 @@
 ---
 layout: foodmenu
-title: Lunch v32
-permalink: /lunch/
+title: Catering Meny
+permalink: /catering/
 published: true
 ---
 
