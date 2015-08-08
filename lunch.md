@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: foodmenu
 title: Lunch
 permalink: /lunch/
 published: true
