@@ -1,10 +1,9 @@
 ---
 layout: foodmenu
-title: Lunch v32
+title: Lunch v33
 permalink: /lunch/
 published: true
 ---
-
 
 
 
@@ -16,29 +15,30 @@ Alla rätter: 75:- Take way: 55:-
 
 ### Måndag
 
-* Gulaschgryta med sallad och kokt potatis.
-* Köttbullar med potatismos, gräddsås och inlagd gurka.
+1. Dansk sjömansbiff med ölkokta skivad potatis och gurka
+2. Chili con carne med ris och sallad
 
 ### Tisdag
 
-* Raggmunkar  med stekt fläsk och lingonsylt.
-* Biff A LA Lindström med rödvinssky, grönsaker och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt
+2. Kålpudding med gräddsås, lingonsylt och kokt potatis
 
 ### Onsdag
 
-* Ostpanerad schnitzel med rosépepparsås och stekt potatis.
-* Smörstekt rödspätta med sås Verte, räksallad och kokt potatis.   
+1. Baselschitzel med äpplecidersås, äpplemos och rostad potatis
+2. Ungstekt falukorv med potatismos, Bostongurka och ostsås
 
 ### Torsdag
 
-* Ärtsoppa  samt tunna pannkakor med sylt och grädde.
-* Fransk köttgryta med bacon och champinjoner och kokt potatis.
+1. Spenatsoppa med ägghalva + tunna pannkakor med sylt och grädde
+2. Oxbringa med rotmos, senapssås och rödbetor
 
 ### Fredag
 
-* Helstekt fläskytterfilé med grönpepparsås, stekta grönsaker och kokt potatis.
-* Fiskarens frestelse med hummersås, kaviarsmör och räkor.
+1. Oxryggsbiff med Bearnaissås, grönsaker och stekt potatis
+2. Smörstekt laxschnitzel med sås Amore och kokt potatis
 
 ### Lördag & Söndag
 
-* Á la Carte
+
+**Á la Carte**
