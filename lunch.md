@@ -1,9 +1,10 @@
 ---
 layout: foodmenu
-title: Lunch v33
+title: Lunch v34
 permalink: /lunch/
 published: true
 ---
+
 
 
 
@@ -15,28 +16,29 @@ Alla rätter: 75:- Take way: 55:-
 
 ### Måndag
 
-1. Dansk sjömansbiff med ölkokta skivad potatis och gurka
-2. Chili con carne med ris och sallad
+1. Baconinbakad kycklingfilé med smörkokt spenat med ädelost sås och stekt potatis.
+2. Ångad torskfilé med krabbsås och kokt potatis
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt
-2. Kålpudding med gräddsås, lingonsylt och kokt potatis
+2. Köttfärsgratäng sås Vaule och kokt potatis
 
 ### Onsdag
 
-1. Baselschitzel med äpplecidersås, äpplemos och rostad potatis
-2. Ungstekt falukorv med potatismos, Bostongurka och ostsås
+1. Marinerad karréstek med vilt sås, grönsaker och kokt potatis
+2. Panerad kummel filé med vitvinsås med räkor och kokt potatis
 
 ### Torsdag
 
-1. Spenatsoppa med ägghalva + tunna pannkakor med sylt och grädde
-2. Oxbringa med rotmos, senapssås och rödbetor
+1. Ärtsoppa samt pannkakor med sylt o grädde
+2. Biff A La stroganoff med ris och inlagd gurka
+3. Levergryta med ris o lingon
 
 ### Fredag
 
-1. Oxryggsbiff med Bearnaissås, grönsaker och stekt potatis
-2. Smörstekt laxschnitzel med sås Amore och kokt potatis
+1. Kalvfärsbiff med murkelsås, lingon pure och gröna ärtor med potatismos
+2. Äggpanerad Schnitzel med tomat concarsé the cafe de Paris. Med stekt potatis
 
 ### Lördag & Söndag
 
