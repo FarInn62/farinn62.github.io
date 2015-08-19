@@ -8,10 +8,11 @@ published: true
 
 
 
+
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
-Mån - Fre: 11:00 - 14:00  
+Mån - Fre: 11:00 - 15:00  
 Alla rätter: 75:- Take way: 55:-
 
 ### Måndag
