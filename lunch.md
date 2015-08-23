@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v34
+title: Lunch v35
 permalink: /lunch/
 published: true
 ---
