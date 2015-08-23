@@ -12,6 +12,7 @@ published: true
 
 
 
+
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
@@ -30,7 +31,7 @@ Alla rätter: 80:- Take way: 55:-
 
 ### Onsdag
 
-1. Helstekt fläskyterfile, kantarelsås, lingon, grönsaker och kokt potatis.
+1. Helstekt fläskyterfile, kantarellsås, lingon, grönsaker och kokt potatis.
 2. Kokt säjfile med vinkokta champinjoner, skagensalad och kokt potatis.
 
 ### Torsdag
