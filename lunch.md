@@ -14,6 +14,7 @@ published: true
 
 
 
+
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
@@ -22,17 +23,17 @@ Alla rätter: 80:- Take way: 55:-
 
 ### Måndag
 
-1. Kycklinggryta (Indiana) med curry ris och anannas sallad.
-2. Smörstekt Rödspätta med cremsås, räkor och kokt potatis.
+1. Kycklinggryta (Indiana) med curryris och anannas sallad.
+2. Smörstekt Rödspätta med cremesås, räkor och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Bacon inbakad köttfärslimpa med sås espaniole,grönsaker och kokpotatis.
+2. Bacon inbakad köttfärslimpa med sås espaniole,grönsaker och koktpotatis.
 
 ### Onsdag
 
-1. Mexcikansk köttgryta med provancal potatis.
+1. Mexikansk köttgryta med provancal potatis.
 2. Hummersås gratinerad Torskfile med heta räkor och potatispure.
 
 ### Torsdag
@@ -43,8 +44,8 @@ Alla rätter: 80:- Take way: 55:-
 
 ### Fredag
 
-1. Älgfärsbiff med viltsås (Far Inns Enbärg vodkasås)wokade grönsaker,rönbergsgele och kokt potatis.
-2. lax freästelse med såshollandaise och kräftsjärtar.
+1. Älgfärsbiff med viltsås (Far Inns Enbär och vodkasås) wokade grönsaker,rönnbärgsgele och kokt potatis.
+2. lax frestelse med såshollandaise och kräftsjärtar.
 
 ### Lördag & Söndag
 
