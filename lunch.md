@@ -24,8 +24,8 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. 1.	Oxbringa med rotmos, rödbetor och pepparrots crème.
-2. 2.	Lasagne med sallad.
+1. Oxbringa med rotmos, rödbetor och pepparrots crème.
+2. Lasagne med sallad.
 
 ### Tisdag
 
@@ -35,19 +35,19 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Onsdag
 
-1. Mexikansk köttgryta med provancal potatis.
-2. Hummersås gratinerad Torskfile med heta räkor och potatispure.
+1. Panerad schnitzel med paprika - gräddsås, ärter och stekt potatiss.
+2. Pannbiff med löksky, lingonsylt och potatismos.
 
 ### Torsdag
 
-1. Mattis hemgjorda Ärtsoppa samt pannkakor med sylt o grädde
-2. Jägarnoisett med pepparsås,broccoli och stekt potatis.
+1. Köttsoppa med frikadeller samt tunna pannkakor med sylt och grädde.
+2. Kycklingfilé med ädelostsås, spenat och stekt potatis.
 
 
 ### Fredag
 
-1. Älgfärsbiff med viltsås (Far Inns Enbär och vodkasås) wokade grönsaker,rönnbärgsgele och kokt potatis.
-2. lax frestelse med såshollandaise och kräftsjärtar.
+1. Lövbiff med Madeira o Bearnaisesås, grönsaker och stekt potatis.
+2. Smörstekt spättafilé med Skagensås och kokt potatis.
 
 ### Lördag & Söndag
 
