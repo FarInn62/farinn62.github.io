@@ -1,9 +1,10 @@
 ---
 layout: foodmenu
-title: Lunch v36
+title: Lunch v37
 permalink: /lunch/
 published: true
 ---
+
 
 
 
@@ -19,17 +20,18 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
 Mån - Fre: 11:00 - 15:00  
-Alla rätter: 80:- Take way: 55:-
+Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Kycklinggryta (Indiana) med curryris och anannas sallad.
-2. Smörstekt Rödspätta med cremesås, räkor och kokt potatis.
+1. 1.	Oxbringa med rotmos, rödbetor och pepparrots crème.
+2. 2.	Lasagne med sallad.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Bacon inbakad köttfärslimpa med sås espaniole,grönsaker och koktpotatis.
+2.2.	Bruna bönor med stekt fläsk och kokt potatis
+3. 3.	Pasta Carbonara (Bacon och ostsås).
 
 ### Onsdag
 
