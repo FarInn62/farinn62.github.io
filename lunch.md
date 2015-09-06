@@ -30,8 +30,8 @@ Alla rätter: 80:- Take way: 60:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2.2.	Bruna bönor med stekt fläsk och kokt potatis
-3. 3.	Pasta Carbonara (Bacon och ostsås).
+2. Bruna bönor med stekt fläsk och kokt potatis
+3. Pasta Carbonara (Bacon och ostsås).
 
 ### Onsdag
 
