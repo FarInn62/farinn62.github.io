@@ -16,6 +16,7 @@ published: true
 
 
 
+
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
@@ -40,7 +41,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Torsdag
 
-1. Köttsoppa med frikadeller samt tunna pannkakor med sylt och grädde.
+1. Kålsoppa med frikadeller samt tunna pannkakor med sylt och grädde.
 2. Kycklingfilé med ädelostsås, spenat och stekt potatis.
 
 
