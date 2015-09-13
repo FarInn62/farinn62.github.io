@@ -1,9 +1,10 @@
 ---
 layout: foodmenu
-title: Lunch v37
+title: Lunch v38
 permalink: /lunch/
 published: true
 ---
+
 
 
 
@@ -25,30 +26,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Oxbringa med rotmos, rödbetor och pepparrots crème.
-2. Lasagne med sallad.
+1. Skånsk kalops med rödbetor och kokt potatis.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Bruna bönor med stekt fläsk och kokt potatis
-3. Pasta Carbonara (Bacon och ostsås).
+2. Kebabgryta med ris.
 
 ### Onsdag
 
-1. Panerad schnitzel med paprika - gräddsås, ärter och stekt potatiss.
-2. Pannbiff med löksky, lingonsylt och potatismos.
+1. Grillbiff med potatisgratäng, sallad och salsadressing.
+2. Kokt torskfile med ägg-persiljasås och kokt potatis.
 
 ### Torsdag
 
-1. Kålsoppa med frikadeller samt tunna pannkakor med sylt och grädde.
-2. Kycklingfilé med ädelostsås, spenat och stekt potatis.
+1. Räksoppa med frikadeller samt tunna pannkakor med sylt och grädde.
+2. Helstekt fläskuterfile, kantarellsås, lingonsylt och stekt potatis.
 
 
 ### Fredag
 
-1. Lövbiff med Madeira o Bearnaisesås, grönsaker och stekt potatis.
-2. Smörstekt spättafilé med Skagensås och kokt potatis.
+1. Värmlands stek med körsbärs sås,kanelstekta äpple och mango samt kokt potatis.
+2. Köttbullar med inlagd gurka,lingonsylt,gräddsås och potatismos.
 
 ### Lördag & Söndag
 
