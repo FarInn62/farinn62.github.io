@@ -18,6 +18,7 @@ published: true
 
 
 
+
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
@@ -41,7 +42,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Torsdag
 
-1. Räksoppa med frikadeller samt tunna pannkakor med sylt och grädde.
+1. Räksoppa med samt tunna pannkakor med sylt och grädde.
 2. Helstekt fläskuterfile, kantarellsås, lingonsylt och stekt potatis.
 
 
