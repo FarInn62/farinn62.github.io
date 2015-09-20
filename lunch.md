@@ -1,23 +1,9 @@
 ---
 layout: foodmenu
-title: Lunch v38
+title: Lunch v39
 permalink: /lunch/
 published: true
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
@@ -28,13 +14,13 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Skånsk kalops med rödbetor och kokt potatis.
-2. Stekt falukorv med stuvade makaroner.
+1. Hackad peppar biff med grönpepparsås, rödvin gele och stekt potatis.
+2. Senap marinerade strömming flundra med smörjsås,räkor,lingon och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kebabgryta med ris.
+2. Stekt fläsk med löksås,lingon och kokt potatis.
 
 ### Onsdag
 
