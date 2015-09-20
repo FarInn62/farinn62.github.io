@@ -31,7 +31,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Torsdag
 
 1. Ärt soppa och tunna pannkaka samt grädde och sylt.
-2. Äggpanerad schintzel ( prinsess) med sås cafe de paris,griljerad tomat,haricuts wertes och stekt potatis.
+2. Ägg panerad schintzel ( prinsess) med sås cafe de paris,griljerad tomat,haricuts wertes och stekt potatis.
 
 
 ### Fredag
