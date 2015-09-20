@@ -1,44 +1,43 @@
 ---
 layout: foodmenu
-title: Lunch v32
+title: Lunch v39
 permalink: /lunch/
 published: true
 ---
 
 
-
-
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
-Mån - Fre: 11:00 - 14:00  
-Alla rätter: 75:- Take way: 55:-
+Mån - Fre: 11:00 - 15:00  
+Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-* Gulaschgryta med sallad och kokt potatis.
-* Köttbullar med potatismos, gräddsås och inlagd gurka.
+1. Hackad peppar biff med grönpepparsås, rödvin gele och stekt potatis.
+2. Senap marinerade strömming flundra med smörjsås,räkor,lingon och potatismos.
 
 ### Tisdag
 
-* Raggmunkar  med stekt fläsk och lingonsylt.
-* Biff A LA Lindström med rödvinssky, grönsaker och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Stekt fläsk med löksås,lingon och kokt potatis.
 
 ### Onsdag
 
-* Ostpanerad schnitzel med rosépepparsås och stekt potatis.
-* Smörstekt rödspätta med sås Verte, räksallad och kokt potatis.   
+1. Grillbiff med potatisgratäng, sallad och salsadressing.
+2. Kokt torskfile med ägg-persiljasås och kokt potatis.
 
 ### Torsdag
 
-* Ärtsoppa  samt tunna pannkakor med sylt och grädde.
-* Fransk köttgryta med bacon och champinjoner och kokt potatis.
+1. Räksoppa träda med tunna pannkakor med sylt och grädde.
+2. Helstekt fläskuterfile, kantarellsås, lingonsylt och stekt potatis.
+
 
 ### Fredag
 
-* Helstekt fläskytterfilé med grönpepparsås, stekta grönsaker och kokt potatis.
-* Fiskarens frestelse med hummersås, kaviarsmör och räkor.
+1. Värmlands stek med körsbärs sås,kanelstekta äpple och mango samt kokt potatis.
+2. Köttbullar med inlagd gurka,lingonsylt,gräddsås och potatismos.
 
 ### Lördag & Söndag
 
-* Á la Carte
+**Á la Carte**
