@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v39
+title: Lunch v40
 permalink: /lunch/
 published: true
 ---
@@ -12,30 +12,30 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Hackad peppar biff med grönpepparsås, rödvin gele och stekt potatis.
-2. Senap marinerade strömming flundra med smörjsås,räkor,lingon och potatismos.
+1. Dillköttgryta med morötter,ris eller potatis.
+2. Traditionell Pytti panna toppad med stekt ägg och rödbetor.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt fläsk med löksås,lingon och kokt potatis.
-3. Kyckling gryta ( Indiana) med banan - curry sås och ris
+2. kokt falukorv med stuvad morötter och kokt potatis.
 
 ### Onsdag
 
-1. Dansk kotlett ned dragon-gräddsås, stekta grönsaker och råstekt potatis.
-2. Lax frestelse med räkor och saffran sås.
+1. Gulash gryta med potatispure och rostad paprika.
+2. Smörstekt rödspätta med sås verte, heta räkor och kokt potatis.
 
 ### Torsdag
 
-1. Ärt soppa och tunna pannkaka samt grädde och sylt.
-2. Ägg panerad schintzel ( prinsess) med sås cafe de paris,griljerad tomat,haricuts wertes och stekt potatis.
+1. Köttfärs soppa och tunna pannkaka samt grädde och sylt.
+2. Biff a la stroganoff med ris toppad med pressgurka och crem fraiche.
 
 
 ### Fredag
 
-1. Fläsk file black & white, Tryffel -bearnaise sås, grönsaker och rostade potatis.
-2. Bacon inbakad köttfärslimpa med murkelsås, grönsaker och kokt potatis.
+1. Oxfile Chateua Aikio med grönsaker och stekt potatis.
+2. Nötlever gryta med lingon och kokt potatis.
+3. Kalvfärs järpar med kantarellsås, gurka, svart vinbärsgäle och potatismos
 
 ### Lördag & Söndag
 
