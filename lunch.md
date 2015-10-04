@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v40
+title: Lunch v41
 permalink: /lunch/
 published: true
 ---
@@ -12,30 +12,30 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Dillköttgryta med morötter,ris eller potatis.
-2. Traditionell Pytti panna toppad med stekt ägg och rödbetor.
+1. Kyckling wok med sötsursås serverad med ris.
+2. Värdshus biffar (Hackad) med pepparsås och stekt potatis.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. kokt falukorv med stuvad morötter och kokt potatis.
+1. Stekt fläsk med löksås,lingon och kokt potatis.
+2. Hollandaise gratinerad Torskfile med skagensallad och kokt potatis.
 
 ### Onsdag
 
-1. Gulash gryta med potatispure och rostad paprika.
-2. Smörstekt rödspätta med sås verte, heta räkor och kokt potatis.
+1. Sur stek av karre med äppelcidersås,grönsaker och kokt potatis.
+2. Skomakarlåda med baconsås och lingonsylt.
 
 ### Torsdag
 
-1. Köttfärs soppa och tunna pannkaka samt grädde och sylt.
-2. Biff a la stroganoff med ris toppad med pressgurka och crem fraiche.
+1. Ärtsoppa och tunna pannkaka samt grädde och sylt.
+2. Holsteiner schnitzel,stekta kapris,rödbetor samt strimlad skinka och stekt potatis.
 
 
 ### Fredag
 
-1. Oxfile Chateua Aikio med grönsaker och stekt potatis.
-2. Nötlever gryta med lingon och kokt potatis.
-3. Kalvfärs järpar med kantarellsås, gurka, svart vinbärsgäle och potatismos
+1. Älgfärsbiff med kantarellsås,grönsaker,rorörda lingon och kokt potatis.
+2. Lax lasagne med räksås.
+
 
 ### Lördag & Söndag
 
