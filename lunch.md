@@ -36,7 +36,7 @@ Alla rätter: 80:- Take way: 60:-
 
 1. Baconinbakad kycklingfile med sherry tryffelsås, wokade grönsaker och bulionkokt ris.
 2. Älgskav med viltsås, röröralingon och potatismos.
-3. Smöstekt rödspätta med grappasås (skaldjursås) och kokt potatis.
+3. Smörstekt rödspätta med grappasås (skaldjursås) och kokt potatis.
 
 
 ### Lördag & Söndag
