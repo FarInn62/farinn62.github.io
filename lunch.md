@@ -18,11 +18,11 @@ Alla rätter: 80:- Take way: 60:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Karrestek med portvinkokta champinjoner,äpple sallad och kokt potatis.
+2. Karre stek med portvinkokta champinjoner,äpple sallad och kokt potatis.
 
 ### Onsdag
 
-1. pannbiff med löksås, grönsaker och kokt potatis.
+1. Pannbiff med löksås, grönsaker och kokt potatis.
 2. Stekt rödspätta med dill stuvade räkor och kokt potatis.
 
 ### Torsdag
