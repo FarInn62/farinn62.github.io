@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v43
+title: Lunch v44
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Kalops med rödbetor, lingon och kokt poteatis.
-2. Ångad kummelfile med pernod sås,krabb sallad och kokt potatis.
+1. Panerad jägar noistte med dragon sås,grönsaker och stekt potatis.
+2. Köttbullar med brunsås, potatismos, inlagd gurka och lingon.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kyckling wok med sötsur sås och buljon kokt ris.
+2. Karrestek med portvinkokta champinjoner,äpple sallad och kokt potatis.
 
 ### Onsdag
 
-1. Fläsk kotlett i ölsås,apple sallad och stekt potatis.
-2. Kebbab gryta med roccola sallad och stekt potatis.
+1. pannbiff med löksås, grönsaker och kokt potatis.
+2. Stekt rödspätta med dill stuvade räkor och kokt potatis.
 
 ### Torsdag
 
-1. Laxsoppa och tunna pannkaka samt grädde och sylt.
-2. Schweizer schnitzel (Ost och skink fylled) med svart vinbärs sås och stekt potatis.
+1. Köttfärs soppa och tunna pannkaka samt grädde och sylt.
+2. Biff a la wallenberg med gräddsås, ärtor, lingon och potatispure.
 
 
 ### Fredag
 
-1. Helstekt fläskfile med tryffel och sås bearnaise, grönsaker och potatiskaka .
-2. Bacon inbakad köttfärs tornados,grönpepparsås och stekt potatis.
+1. Äkta lövbiff charonsås ( tomatiserad bearnaise) wok grönsaker och stekt potatis.
+2. Gratinerad Torskrygg med sås Morne ( ostsås) skaldjur sallad och kokt potatis.
 
 
 ### Lördag & Söndag
