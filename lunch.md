@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v45
+title: Lunch v46
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Marinerad kycklingfile med rosepepparsås, grönsaker och stekt potatis.
-2. Nötlevergryta med ris och lingon.
+1. Lille- lars karre gryta med grön sallad och kokt potatis.
+2. Kokt torskfile med ägg och persiljasås och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Älgfärslimpa med kantarellsås, äppelsallad och kokt potatis.
+2. Köttbullar med brunsås,lingon och potatismos.
 
 ### Onsdag
 
-1. Oxbringa med rotmos, rödbetor och pepparotsås.
-2. Biff a la Lindström med gräddsås, grönsaker och kokt potatis.
+1. Kyckling gryta med grönsaks ris.
+2. Panerade kotletter med pepparsås, strimlade grönsaker och stekt potatis.
 
 ### Torsdag
 
 1. Ärtsoppa och tunna pannkaka samt grädde och sylt.
-2. Oxjärpar med såscreme, inlaggd gurka och potatismos.
+2. Bacon biff med skånskpotatis, persiljesmör och grönsaker.
 
 
 ### Fredag
 
-1. Panerad schnitzel bäddad med madaira sås och toppad med bearnaise sås samt sparris och stekt potatis.
-2. Stekt lax med skagen sås och kokt potatis.
+1. Äkta biffstek (Farzin) med lök marmelad, sås cafe de paris och stekt potatis.
+2. gravad lax med dillstuvad potatis.
 
 
 ### Lördag & Söndag
