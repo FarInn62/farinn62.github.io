@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v46
+title: Lunch v47
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Lille- lars karre gryta med grön sallad och kokt potatis.
-2. Kokt torskfile med ägg och persiljasås och kokt potatis.
+1. Skinkstek med äppelcidersås och kokt potatis.
+2. Köttbullar med stuvad pasta.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Köttbullar med brunsås,lingon och potatismos.
+2. Kålpudding med gräddsås, Lingon och kokt potatis.
 
 ### Onsdag
 
-1. Kyckling gryta med grönsaks ris.
-2. Panerade kotletter med pepparsås, strimlade grönsaker och stekt potatis.
+1. Dillköttgryta med strimlade morötter och kokt potatis.
+2. Stekt lunchkorv med morotssås och potatispuré.
 
 ### Torsdag
 
 1. Ärtsoppa och tunna pannkaka samt grädde och sylt.
-2. Bacon biff med skånskpotatis, persiljesmör och grönsaker.
+2. Laxschnitzel med hummersås med räkröra och kokt potatispuré.
 
 
 ### Fredag
 
-1. Äkta biffstek (Farzin) med lök marmelad, sås cafe de paris och stekt potatis.
-2. gravad lax med dillstuvad potatis.
+1. Ostfylld schnitzel med ädelostsås, smörkokt spenat och stekt potatis.
+2. Fläskfilé noisette med potatisgratäng och sherrytryffelsås.
 
 
 ### Lördag & Söndag
