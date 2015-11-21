@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v47
+title: Lunch v48
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Skinkstek med äppelcidersås och kokt potatis.
-2. Köttbullar med stuvad pasta.
+1. Rimmad skinka med rotmos och mild senapssås.
+2. 2.	Laxfrestelse med kräftsås och sallad.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kålpudding med gräddsås, Lingon och kokt potatis.
+2. Kebabgryta med saffransris och tomatsallad.
 
 ### Onsdag
 
-1. Dillköttgryta med strimlade morötter och kokt potatis.
-2. Stekt lunchkorv med morotssås och potatispuré.
+1. Kalops med rödbetor och kokt potatis.
+2. Kokt torskfilé med äggsås, ärter och kokt potatis.
 
 ### Torsdag
 
-1. Ärtsoppa och tunna pannkaka samt grädde och sylt.
-2. Laxschnitzel med hummersås med räkröra och kokt potatispuré.
+1. Spenatsoppa med ägghalva samt pannkakor med sylt o grädde.
+2. Grekisk färsbiff med fetaostsallad, Tzatziki dressing och rostad potatis.
 
 
 ### Fredag
 
-1. Ostfylld schnitzel med ädelostsås, smörkokt spenat och stekt potatis.
-2. Fläskfilé noisette med potatisgratäng och sherrytryffelsås.
+1. Schnitzel a la Basel med äpplevinsås, färsk sallad och stekt potatis.
+2. Skomakarlåda med baconsås och lingon.
 
 
 ### Lördag & Söndag
