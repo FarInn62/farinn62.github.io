@@ -13,7 +13,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Måndag
 
 1. Rimmad skinka med rotmos och mild senapssås.
-2. 2.	Laxfrestelse med kräftsås och sallad.
+2. Laxfrestelse med kräftsås och sallad.
 
 ### Tisdag
 
