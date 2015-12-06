@@ -13,7 +13,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Måndag
 
 1. Kåldolmar med brunsås,lingonsylt och kokt potatis.
-2. Kokt torskrygg med ägsås, räkor och kokt potatis.
+2. Kokt torskrygg med äggsås, räkor och kokt potatis.
 
 ### Tisdag
 
