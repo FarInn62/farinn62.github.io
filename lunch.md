@@ -17,7 +17,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingon och kokt potatis.
+1. Raggmunkar och stekt fläsk, lingonsylt.
 2. Kyckling schnitzel med ostsås,ärtor och stekt potatis.
 
 ### Onsdag
@@ -28,7 +28,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Torsdag
 
 1. Ärtsoppa samt pannkakor med sylt o grädde.
-2. Värdshusbiff med champinjonsås,limgonpure och kokt potatis.
+2. Värdshusbiff med champinjonsås,lingonpure och kokt potatis.
 
 
 ### Fredag
