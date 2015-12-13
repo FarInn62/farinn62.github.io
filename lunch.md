@@ -13,7 +13,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Måndag
 
 1. Vitkåls biffar med gräddsås, lingonsylt och kokt potatis.
-2. Vitvinkokt Säjfile med sgagensås, spenat och kokt potatis.
+2. Vitvinkokt Sejfile med sgagensås, spenat och kokt potatis.
 
 ### Tisdag
 
