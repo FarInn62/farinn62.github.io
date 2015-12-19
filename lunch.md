@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v51
+title: Lunch v52
 permalink: /lunch/
 published: true
 ---
@@ -12,30 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Vitkåls biffar med gräddsås, lingonsylt och kokt potatis.
-2. Vitvinkokt Sejfile med sgagensås, spenat och kokt potatis.
+1. Pepparbiff med grönpepparsås, grönsaker och stekt potatis.
+2. Gräddstuvad nötlever gryta med ris och lingonsylt.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Fläskgratäng med löksås och lingon.
-3. Stekt Falukorv med stuvade makaroner.
+2. Helstekt fläskfile med tryffelsås, grönsaker och stekt potatis.
 
 ### Onsdag
 
-1. Kycklings gryta med Champinjoner, syltlök, paprika i madeirasås och kokt ris.
-2. Köttbullar med potatismos,såscreme och lingon.
+1. Skomakar låda med bacon sås, lingon och potatismos.
+2. Kokt torsk med ägg och persjasås, ärtor och kokt potatis .
 
 ### Torsdag
 
-1. Ärtsoppa samt pannkakor med sylt o grädde.
-2. Rimmad skinka med rotmos och pepparotsås.
+1. GOD JUL.
+2. STÄNGT.
 
 
 ### Fredag
 
-1. Julbord lunch med små varmrätt. ( pris 140:- ) ej för hämtning
-2. Benfri kotlett med kantarellsås och stekt potatis.
+1. GOD JUL
+2. STÄNGT.
 
 
 ### Lördag & Söndag
