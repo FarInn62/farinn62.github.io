@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v52
+title: Lunch v53
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Pepparbiff med grönpepparsås, grönsaker och stekt potatis.
-2. Gräddstuvad nötlever gryta med ris och lingonsylt.
+1. Köttgryta med grönsaker och stekt potatis.
+2. Lasange med sallad.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Helstekt fläskfile med tryffelsås, grönsaker och stekt potatis.
+2. Kokt torsfile med räksås, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Skomakar låda med bacon sås, lingon och potatismos.
-2. Kokt torsk med ägg och persjasås, ärtor och kokt potatis .
+1. Hickory Marinerad karrestek med jägar mästarsås, äpplemos och koktpotatis.
+2. Ostpanerad noisett med milanaise sås och kokt potatis .
 
 ### Torsdag
 
-1. GOD JUL.
-2. STÄNGT.
+1. Ärtsoppa och tunna pankakor, sylt och grädde.
+2. Kycklingfile med tryffelsås, broccoli och stekt potatis.
 
 
 ### Fredag
 
-1. GOD JUL
+1. GOTT NYTT ÅR.
 2. STÄNGT.
 
 
