@@ -12,7 +12,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Köttgryta med grönsaker och stekt potatis.
+1. Köttgryta med grönsaker och kokt potatis.
 2. Lasange med sallad.
 
 ### Tisdag
