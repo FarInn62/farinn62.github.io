@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v53
+title: Lunch v1
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Köttgryta med grönsaker och kokt potatis.
-2. Lasange med sallad.
+1. Kebabgryta med ris och sallad.
+2. Hackad pepparbiff med grönpepparsås, grönsaker och stekt potatis.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Kokt torsfile med räksås, grönsaker och kokt potatis.
+2. Helstekt fläskytterfile med rödvinsås, grönsaker och stekt potatis.
 
 ### Onsdag
 
-1. Hickory Marinerad karrestek med jägar mästarsås, äpplemos och koktpotatis.
-2. Ostpanerad noisett med milanaise sås och kokt potatis .
+1. A la carte.
+2. A la Carte .
 
 ### Torsdag
 
-1. Ärtsoppa och tunna pankakor, sylt och grädde.
-2. Kycklingfile med tryffelsås, broccoli och stekt potatis.
+1. Laxsoppa och tunna pankakor, sylt och grädde.
+2. Grillbiff cafe de paris sås, grillad tomat och potatis gratäng.
 
 
 ### Fredag
 
-1. GOTT NYTT ÅR.
-2. STÄNGT.
+1. Biff a la Wallenberg med gräddsås,ätor,lingon och potatismos.
+2. Smörstekt rödspätta med krabb och hummer sås, sprris och kokt potatis.
 
 
 ### Lördag & Söndag
