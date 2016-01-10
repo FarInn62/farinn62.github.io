@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v1
+title: Lunch v2
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Kebabgryta med ris och sallad.
-2. Hackad pepparbiff med grönpepparsås, grönsaker och stekt potatis.
+1. Biff stroganoff med ris och inlagged gurka.
+2. Fiskgratäng med skaldjursås och potatispure.
 
 ### Tisdag
 
-1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Helstekt fläskytterfile med rödvinsås, grönsaker och stekt potatis.
+1. Stekt fläsk och löksås lingonsylt och kokt potatis.
+2. tex mex biff med paprikasås och rostekt potatis.
 
 ### Onsdag
 
-1. A la carte.
-2. A la Carte .
+1. Äggpanerad schnitzel (prinsesse) med ostsås, tomat och sparris serverad med stekt potatis .
+2. Stekt falukorv med bostogurka dressing och potatismos.
 
 ### Torsdag
 
-1. Laxsoppa och tunna pankakor, sylt och grädde.
-2. Grillbiff cafe de paris sås, grillad tomat och potatis gratäng.
+1. Ärtsoppa och tunna pankakor, sylt och grädde.
+2. Kycklinggryta med banan och chilisås, grönsaker och pasta.
 
 
 ### Fredag
 
-1. Biff a la Wallenberg med gräddsås,ätor,lingon och potatismos.
-2. Smörstekt rödspätta med krabb och hummer sås, sprris och kokt potatis.
+1. Helstekt fläskfile med portvin kokta chmpinjoner toppad med bearnaisesås och serverad med stekta grönsaker och rostekt potatis.
+2. Köttbullar med gräddsås, lingon, gurka och potatismos.
 
 
 ### Lördag & Söndag
