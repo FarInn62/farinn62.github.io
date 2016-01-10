@@ -33,7 +33,8 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Fredag
 
-1. Helstekt fläskfile med portvin kokta chmpinjoner toppad med bearnaisesås och serverad med stekta grönsaker och rostekt potatis.
+1. Helstekt fläskfile med portvin kokta chmpinjoner toppad med bearnaisesås 
+   och serverad med stekta grönsaker och rostekt potatis.
 2. Köttbullar med gräddsås, lingon, gurka och potatismos.
 
 
