@@ -28,7 +28,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Torsdag
 
 1. Spenatsoppa och tunna pankakor, sylt och grädde.
-2. Kycklingfile med ädelostsås,tomat sallad och stekt potatis.
+2. Kycklingfile med ädelost sås,tomat sallad och stekt potatis.
 
 
 ### Fredag
