@@ -17,7 +17,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Tisdag
 
-1. Stekt fläsk och raggmunkar lingonsylt och kokt potatis.
+1. Stekt fläsk och raggmunkar lingonsylt.
 2. Bohuslåda med vitvinkokt torsk och vertesås,räksallad och potatismos.
 
 ### Onsdag
