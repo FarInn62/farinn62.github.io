@@ -12,7 +12,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Spagetti Bolognaise och sallad.
+1. Spagetti Bolognase och sallad.
 2. Kålpudding och gräddsås, lingon och kokt potatis.
 
 ### Tisdag
@@ -27,8 +27,8 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Torsdag
 
-1. Ärtsoppa och tunna pankakor, sylt och grädde.
-2. Biff ala Lindström med persijesmör och rödvinsky samt grönsaker och kokt potatis.
+1. Ärtsoppa och tunna pannkakor, sylt och grädde.
+2. Biff ala Lindström med persiljesmör och rödvinsky samt grönsaker och kokt potatis.
 
 
 ### Fredag
