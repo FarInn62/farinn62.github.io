@@ -13,7 +13,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Måndag
 
 1. Spagetti Bolognaise och sallad.
-2.Kålpudding och gräddsås, lingon och kokt potatis.
+2. Kålpudding och gräddsås, lingon och kokt potatis.
 
 ### Tisdag
 
