@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v4
+title: Lunch v5
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Pytti panna med stekt ägg och röd betor.
-2. Jägar stek med vildsås, rotgrönsaker, lingonpure och kokt potatis.
+1. Spagetti Bolognase och sallad.
+2.Kålpudding och gräddsås, lingon och kokt potatis.
 
 ### Tisdag
 
 1. Stekt fläsk och raggmunkar lingonsylt.
-2. Bohuslåda med vitvinkokt torsk och vertesås,räksallad och potatismos.
+2. Ost och skink fylld Schnitzel med sås Esoanjol, grönsaker och stekt potatis.
 
 ### Onsdag
 
-1. Gulaschgryta med paprika sallad och buljonkokt ris.
-2. Hackat lökbiff med brunsås och kokt potatis .
+1. Dillkött gryta med morötter och kokt potatis .
+2. Italiensk köttfärs biff med sås Milanaise,sallad och stekt potatis .
 
 ### Torsdag
 
-1. Spenatsoppa och tunna pankakor, sylt och grädde.
-2. Kycklingfile med ädelost sås,tomat sallad och stekt potatis.
+1. Ärtsoppa och tunna pankakor, sylt och grädde.
+2. Biff ala Lindström med persijesmör och rödvinsky samt grönsaker och kokt potatis.
 
 
 ### Fredag
 
-1. Viltfärslimpa med murkelsås, grönsaker, lingon och kokt potatis.
-2. Lax Wallenbergare med smörsås, ärter, räkor och potatispure.
+1. Värmlands stek med körsbergsås, grönsaker och kokt potatis.
+2. Stekt lax med sås hollandaise, sparris, kräftsjärtar och kokt potatis.
 
 
 ### Lördag & Söndag
