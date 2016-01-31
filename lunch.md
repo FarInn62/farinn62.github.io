@@ -18,7 +18,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Tisdag
 
 1. Stekt fläsk och raggmunkar lingonsylt.
-2. Ost och skink fylld Schnitzel med sås Esoanjol, grönsaker och stekt potatis.
+2. Ost och skink fylld Schnitzel med sås Espanjol, grönsaker och stekt potatis.
 
 ### Onsdag
 
