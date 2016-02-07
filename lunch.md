@@ -29,7 +29,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Torsdag
 
 1. Lax och räksoppa och tunna pannkakor, sylt och grädde.
-2. Benfri kotlett med pepparsås,sallad,och potatisgratäng.
+2. Benfri kotlett med pepparsås, sallad och potatisgratäng.
 
 ### Fredag
 
