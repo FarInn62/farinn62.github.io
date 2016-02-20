@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v7
+title: Lunch v8
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Korv stroganof med ris och inlagd gurka.
-2. Nötlever gryta med lingon och kokt potatis.
+1. Biff med salsa sås, haricots-verts och stekt potatis .
+2. Spagetti med curry kycklingsås och sallad..
 
 ### Tisdag
 
 1. Stekt fläsk och raggmunkar lingonsylt.
-2. Kokt torskrygg med ägg och persiljasås, kokt potatis.
+2. Jägargryta med stekta äpple, bacon och kokt potatis.
 
 ### Onsdag
 
-1. Kalops med rödbetor och kokt potatis .
-2. Panerad schnitzel med äppelcider sås, grönsaker och stekt potatis.
+1. Benfri Ossobuco kotletter kokta i tomat-chilisås, rotfrykter och ris.
+2. Köttbullar med stuvad pasta.
 
 ### Torsdag
 
-1. Ärtsoppa och tunna pannkakor, sylt och grädde.
-2. Persilja järpar med lingon-gräddsås, inlaged gurka, morötter och kokt potatis.
+1. Grönsakssoppa med tärnat bacon, tunna pannkakor, sylt och grädde.
+2. Ostfylld köttfärslimpa med brunsås, stekta grönsaker och kokt potatis.
 
 ### Fredag
 
-1. Helstekt oxryggbiff med rose sås (mouling),grönsaker och råstekt potatis.
-2. Smörstekt rödspätta med vitvin kokta räkor och kokt potatis.
+1. Kebabgryta med stekt potatis och sallad.
+2. Fläskfile noisett med wormodsås, Grönsaker och potatis gratäng.
 
 
 ### Lördag & Söndag
