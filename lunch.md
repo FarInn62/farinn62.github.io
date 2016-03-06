@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v9
+title: Lunch v10
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Kalkon Schnitzel med svartvinbärssås, grönsaker och stekt potatis .
-2. Ostgratinerad falukorv med tomat sallad och potatismos.
+1. Kalops med rödbetor och kokt potatis .
+2. Gratinerad Torsk med räksås och potatismos.
 
 ### Tisdag
 
-1. Stekt fläsk och raggmunkar lingonsylt.
-2. Gratinerad fisk med skagensås, grönsaker och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Stekt falukorv med stuvad makaroner.
 
 ### Onsdag
 
-1. Biff Wallenberg med gräddsås samt ärtor, lingon och potatispure.
-2. Ung tupp i rödvin (cocovan), grönsaker och risotto.
+1. Kotletter a la musketören med baconsås, stekta champinjoner, grönsaker och kokt potatis.
+2. Hackad biff med tomatiserade löksås, sallad och kokt potatis.
 
 ### Torsdag
 
-1. Ärtsoppa med tärnat bacon, tunna pannkakor, sylt och grädde.
-2. Köttfärs tornedos med dragonsås, grönsaker och stekt potatis.
+1. Köttfärssoppa, tunna pannkakor, sylt och grädde.
+2. Marinerad kycklingfile med cafe de paris sås, grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Helstekt Entrecote London House med stekta grönsaker och potatis kaka.
-2. Älgfärsbiff med viltsås och lingon samt grönsaker och kokt potatis.
+1. File mignon Black & White ( tryffel och bearnaise sås ) samt sparris, kräfttsjärtar och stekt potatis.
+2. Stekt kalkon med appelsinsås,grönsaker och ris.
 
 
 ### Lördag & Söndag
