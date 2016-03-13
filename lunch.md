@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v10
+title: Lunch v11
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Kalops med rödbetor och kokt potatis .
-2. Gratinerad Torsk med räksås och potatismos.
+1. Oxbringa med rotmos,rödbtor och pepparots majonnäs.
+2. Strmmings flundra för fin smakare med lingon,räkor, smörsås och potatispure.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt falukorv med stuvad makaroner.
+1. Stekt fläsk mrd löksås, lingon och kokt potatis.
+2. Panerad noisetter med grönpepparsås, stektpotatis och grönsaker.
 
 ### Onsdag
 
-1. Kotletter a la musketören med baconsås, stekta champinjoner, grönsaker och kokt potatis.
-2. Hackad biff med tomatiserade löksås, sallad och kokt potatis.
+1. Mexikansk gryta (chili con carne) med ris och salad.
+2. Lax frestelse med räkor och saffransås.
 
 ### Torsdag
 
-1. Köttfärssoppa, tunna pannkakor, sylt och grädde.
-2. Marinerad kycklingfile med cafe de paris sås, grönsaker och stekt potatis.
+1. Ärtsoppa, tunna pannkakor, sylt och grädde.
+2. Biff Lindström med ädelostsås, inlagd gurka och stekt potatis.
 
 ### Fredag
 
-1. File mignon Black & White ( tryffel och bearnaise sås ) samt sparris, kräfttsjärtar och stekt potatis.
-2. Stekt kalkon med appelsinsås,grönsaker och ris.
+1. Porterstek med sherrysås, ångade grönsaker och kokt potatis.
+2. Kyckling schnitzel med bearnaise sås, sallad och stekt potatis.
 
 
 ### Lördag & Söndag
