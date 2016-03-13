@@ -13,7 +13,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Måndag
 
 1. Oxbringa med rotmos,rödbtor och pepparots majonnäs.
-2. Strmmings flundra för fin smakare med lingon,räkor, smörsås och potatispure.
+2. Strömmings flundra för fin smakare med lingon,räkor, smörsås och potatispure.
 
 ### Tisdag
 
