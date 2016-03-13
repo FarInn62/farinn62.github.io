@@ -17,7 +17,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Tisdag
 
-1. Stekt fläsk mrd löksås, lingon och kokt potatis.
+1. Stekt fläsk med löksås, lingon och kokt potatis.
 2. Panerad noisetter med grönpepparsås, stektpotatis och grönsaker.
 
 ### Onsdag
