@@ -13,12 +13,12 @@ Alla rätter: 80:- Take way: 60:-
 ### Måndag
 
 1. Bacon inbakad lunch korv med stuvade morötter, bostongurka och kokt potatis.
-2. Stroganoff gryta med creme fräch, inlagd gurka och kokt potatis.
+2. Stroganoff gryta med creme fraiche, inlagd gurka och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt rödspätta med mild remolad sås och kokt potatis.
+2. Stekt rödspätta med mild remoulad sås och kokt potatis.
 
 ### Onsdag
 
@@ -28,13 +28,12 @@ Alla rätter: 80:- Take way: 60:-
 ### Torsdag
 
 1. Spenatsoppa, tunna pannkakor, sylt och grädde.
-2. Wallenbergare av lax med grädd-hammummarsås, ärtor, saltgurka och dill potatis.
+2. Wallenbergare av lax med grädd-hummersås, ärtor, saltgurka och dill potatis.
 
 ### Fredag
 
-1. Kalkon shnitzel med sås charon (tomateserade bearnaise sås) grönsaker och stekt potatis.
+1. Kalkon shnitzel med sås choronn (tomateserade bearnaise sås) grönsaker och stekt potatis.
 2. Skomakarlåda med baconsås, lingon och potatismos.
-
 
 ### Lördag & Söndag
 
