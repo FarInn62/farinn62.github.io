@@ -17,7 +17,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Tisdag
 
-1. Raggmunkarmed stekt fläsk och lingonsylt.
+1. Raggmunkar med stekt fläsk och lingonsylt.
 2. Stekt rödspätta med mild remolad sås och kokt potatis.
 
 ### Onsdag
