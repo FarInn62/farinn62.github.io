@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v12
+title: Lunch v13
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Bacon inbakad lunch korv med stuvade morötter, bostongurka och kokt potatis.
-2. Stroganoff gryta med creme fraiche, inlagd gurka och kokt potatis.
+1. Glad Påsk.
+2. A LA CARTE.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt rödspätta med mild remoulad sås och kokt potatis.
+1. Stekt fläsk med grädd löksås, lingonsylt och kokt potatis.
+2. Orientalisk kycklng och grönsaker med paprika currysås och ris.
 
 ### Onsdag
 
-1. Benfri kotlett med sås cafe de paris och stekt ananas samt stekt potatis.
-2. Traditionell Pytti panna med stekt ägg och rödbetor.
+1. Kött grytta me Vårens grönsaker och kokt potatis.
+2. Kokt torskfile med egg-persiljesås och kokt potatis.
 
 ### Torsdag
 
-1. Spenatsoppa, tunna pannkakor, sylt och grädde.
-2. Wallenbergare av lax med grädd-hummersås, ärtor, saltgurka och dill potatis.
+1. Rysk röbets soppa med smetana, tunna pannkakor, sylt och grädde.
+2. Pannbiff med persiljesmör, grönsaker och skånsk potatis.
 
 ### Fredag
 
-1. Kalkon shnitzel med sås choronn (tomateserade bearnaise sås) grönsaker och stekt potatis.
-2. Skomakarlåda med baconsås, lingon och potatismos.
+1. Helstekt oxfile med London house sås (sherry tryffel) och stekt potatis.
+2. Lasagne med salad.
 
 ### Lördag & Söndag
 
