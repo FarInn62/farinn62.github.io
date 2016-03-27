@@ -22,7 +22,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Onsdag
 
-1. Kött grytta me Vårens grönsaker och kokt potatis.
+1. Kött gryta me Vårens grönsaker och kokt potatis.
 2. Kokt torskfile med egg-persiljesås och kokt potatis.
 
 ### Torsdag
