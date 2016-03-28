@@ -18,16 +18,16 @@ Alla rätter: 80:- Take way: 60:-
 ### Tisdag
 
 1. Stekt fläsk med grädd löksås, lingonsylt och kokt potatis.
-2. Orientalisk kycklng och grönsaker med paprika currysås och ris.
+2. Orientalisk kyckling och grönsaker med paprika currysås och ris.
 
 ### Onsdag
 
-1. Kött gryta me Vårens grönsaker och kokt potatis.
-2. Kokt torskfile med egg-persiljesås och kokt potatis.
+1. Kött gryta med Vårens grönsaker och kokt potatis.
+2. Kokt torskfile med ägg-persiljesås och kokt potatis.
 
 ### Torsdag
 
-1. Rysk röbets soppa med smetana, tunna pannkakor, sylt och grädde.
+1. Rysk rödbets soppa med smetana, tunna pannkakor, sylt och grädde.
 2. Pannbiff med persiljesmör, grönsaker och skånsk potatis.
 
 ### Fredag
