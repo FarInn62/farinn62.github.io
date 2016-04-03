@@ -22,7 +22,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Onsdag
 
-1. Ostpanerad schnitzelmed milanaisesås och stekt potatis.
+1. Ostpanerad schnitzel med milanaisesås och stekt potatis.
 2. Köttbullar i gräddsås och potatispure och inlagd gurka.
 
 ### Torsdag
