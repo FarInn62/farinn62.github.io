@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v13
+title: Lunch v14
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Glad Påsk.
-2. A LA CARTE.
+1. Smörstaekt rödspätta med vitvinkokta räkor, grönsaker och kokt potatis.
+2. Lunchkorv med potatismos och boston gurka.
 
 ### Tisdag
 
-1. Stekt fläsk med grädd löksås, lingonsylt och kokt potatis.
-2. Orientalisk kyckling och grönsaker med paprika currysås och ris.
+1. Stekt fläsk Och raggmunk, lingonsylt och kokt potatis.
+2. Köttfärs gratäng med champinjonsås och lingon.
 
 ### Onsdag
 
-1. Kött gryta med Vårens grönsaker och kokt potatis.
-2. Kokt torskfile med ägg-persiljesås och kokt potatis.
+1. Ostpanerad schnitzelmed milanaisesås och stekt potatis.
+2. Köttbullar i gräddsås och potatispure och inlagd gurka.
 
 ### Torsdag
 
-1. Rysk rödbets soppa med smetana, tunna pannkakor, sylt och grädde.
-2. Pannbiff med persiljesmör, grönsaker och skånsk potatis.
+1. Lax och räksoppa, tunna pannkakor, sylt och grädde.
+2. Karrestek med kantarellsås, äppelmos och kokt potatis.
 
 ### Fredag
 
-1. Helstekt oxfile med London house sås (sherry tryffel) och stekt potatis.
-2. Lasagne med salad.
+1. Högrevstek med sås creme, buljonkokta grönsaker och kokt potatis.
+2. Stekt kassler med ädelostsås och potatis gratäng.
 
 ### Lördag & Söndag
 
