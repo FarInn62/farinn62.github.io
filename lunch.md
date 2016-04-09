@@ -32,7 +32,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Fredag
 
-1. Helstekt Entrecote med tryffelsås, persiljesör, grönsaker och stekt potatis.
+1. Helstekt Entrecote med tryffelsås, persiljasmör, grönsaker och stekt potatis.
 2. Skomakarlåda med skinksås och lingon pure.
 
 ### Lördag & Söndag
