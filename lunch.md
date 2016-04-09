@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v14
+title: Lunch v15
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Smörstaekt rödspätta med vitvinkokta räkor, grönsaker och kokt potatis.
-2. Lunchkorv med potatismos och boston gurka.
+1. Biff Wallenberg med gräddsås, rårörda lingon, ärtor och potatismos.
+2. Pasta Bolongnese (köttfärssås).
 
 ### Tisdag
 
 1. Stekt fläsk Och raggmunk, lingonsylt och kokt potatis.
-2. Köttfärs gratäng med champinjonsås och lingon.
+2. Inbakad torsfile med smörsås,selleripure och tomatsallad.
 
 ### Onsdag
 
-1. Ostpanerad schnitzel med milanaisesås och stekt potatis.
-2. Köttbullar i gräddsås och potatispure och inlagd gurka.
+1. Katrin plummon fylld kyckling file med apelsinsås och kokt ris.
+2. Gräddkokt nöttlever gryta med lingonsylt och kokt potatis.
 
 ### Torsdag
 
-1. Lax och räksoppa, tunna pannkakor, sylt och grädde.
-2. Karrestek med kantarellsås, äppelmos och kokt potatis.
+1. Ärtsoppa, tunna pannkakor, sylt och grädde.
+2. Bacon inbakad köttfärslimpa med murkelsås, grönsaker och kokt potatis.
 
 ### Fredag
 
-1. Högrevstek med sås creme, buljonkokta grönsaker och kokt potatis.
-2. Stekt kassler med ädelostsås och potatis gratäng.
+1. Helstekt Entrecote med tryffelsås, persiljesör, grönsaker och stekt potatis.
+2. Skomakarlåda med skinksås och lingon pure.
 
 ### Lördag & Söndag
 
