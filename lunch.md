@@ -18,7 +18,7 @@ Alla rätter: 80:- Take way: 60:-
 ### Tisdag
 
 1. Stekt fläsk Och raggmunk, lingonsylt och kokt potatis.
-2. Inbakad torsfile med smörsås,selleripure och tomatsallad.
+2. Inbakad torsfile med smörsås, selleripure och tomatsallad.
 
 ### Onsdag
 
