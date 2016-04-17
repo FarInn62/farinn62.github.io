@@ -12,23 +12,23 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Helstekt fläskfile med grönpeppar sås, grönsaker och stekt potatis.
+1. Helstekt fläskfile med grönpeppar-sås, grönsaker och stekt potatis.
 2. Fisk och skaldjurspanna med saffranris.
 
 ### Tisdag
 
-1. Stekt fläsk Och och bruna böner med kokt potatis.
+1. Stekt fläsk och bruna bönor med kokt potatis.
 2. Fransk köttgryta, kokt potatis och grön sallad.
 
 ### Onsdag
 
-1. Ostgratinerad italiensk färsbiff med rödvinsky, tomatsalsa och rostade potatis.
-2. Stekt falukorv med stuvad makaroner.
+1. Ostgratinerad italiensk färsbiff med rödvinsky, tomatsalsa och rostad potatis.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Torsdag
 
 1. Grönsaks soppa med bacon, tunna pannkakor, sylt och grädde.
-2. Wiener schnitzel med madeira sås, ärtor och stekt potatis.
+2. Wiener schnitzel med madeira-sås, ärtor och stekt potatis.
 
 ### Fredag
 
