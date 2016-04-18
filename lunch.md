@@ -12,7 +12,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Helstekt fläskfile med grönpeppar-sås, grönsaker och stekt potatis.
+1. Helstekt fläskytterfile med grönpeppar-sås, grönsaker och stekt potatis.
 2. Fisk och skaldjurspanna med saffranris.
 
 ### Tisdag
