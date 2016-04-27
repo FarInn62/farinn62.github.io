@@ -22,7 +22,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Onsdag
 
-1. Ostbringa med rotmos, rödbetor och pepparots creme.
+1. Oxtbringa med rotmos, rödbetor och pepparots creme.
 2. Lasagne med tomatsallad.
 
 ### Torsdag
