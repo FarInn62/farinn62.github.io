@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v17
+title: Lunch v18
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,27 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Grillkarre med tomatiserad löksås, sallad och potatis gratäng.
-2. Senap marinerad strömmings flundra med smörsås,lingon, räkor och dillkryddat potatismos.
+1. Tunfisk biff med kräftsås (Mattis egen recept), grönsaker och kokt potatis.
+2. Korvstroganoff med ris.
 
 ### Tisdag
 
-1. Stekt fläsk och raggmunk lingonsylt.
-2. Dillköttgryta med inlagd gurka och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Kalops med rödbetor och kokt potatis.
 
 ### Onsdag
 
-1. Oxtbringa med rotmos, rödbetor och pepparots creme.
-2. Lasagne med tomatsallad.
+1. Mexikansk köttgryta (A la Farzin), chili concasse och sallad samt kokt potatis.
+2. Smörstekt rödspätta med vitvinsås,räkor och kokt potatis.
 
 ### Torsdag
 
-1. Sparrissoppa med bacon, tunna pannkakor, sylt och grädde.
-2. Stekt kycklingfile med paprikasås, socker ärtor och stekt potatis.
+1. A LA CARTE.
 
 ### Fredag
 
-1. Högrevstek med portersås, grönsaker och kokt potatis.
-2. Tex mex biff med ztatziki dressing, paprika sallad och stekt potatis.
+1. Fläskfile med tryffel/bearnaise sås, wokgrönsaker och råstekt potatis.
+2. Kyckling file med ädelostsås, spenat och tomat samt kokt potatis.
 
 ### Lördag & Söndag
 
