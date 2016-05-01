@@ -12,7 +12,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Måndag
 
-1. Tunfisk biff med kräftsås (Mattis egen recept), grönsaker och kokt potatis.
+1. Tonfisk biff med kräftsås (Mattis egna recept), grönsaker och kokt potatis.
 2. Korvstroganoff med ris.
 
 ### Tisdag
@@ -31,7 +31,7 @@ Alla rätter: 80:- Take way: 60:-
 
 ### Fredag
 
-1. Fläskfile med tryffel/bearnaise sås, wokgrönsaker och råstekt potatis.
+1. Fläskfile med tryffel/bearnaise-sås, wokgrönsaker och råstekt potatis.
 2. Kyckling file med ädelostsås, spenat och tomat samt kokt potatis.
 
 ### Lördag & Söndag
