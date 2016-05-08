@@ -11,7 +11,7 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take way: 60:-
 
 VECKANS SALLAD,
-Räksalad med dill dressing.
+Räksalad med dilldressing.
 
 ### Måndag
 
