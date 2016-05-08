@@ -14,7 +14,6 @@ VECKANS SALLAD,
 Räksallad med dilldressing.
 
 ### Måndag
-
 1. Ångad Torsk file med äggsås och kokt potatis.
 2. Skomakarlåda (Lökbiff med bearnaise-sås, lingon och potatis-pure).
 
