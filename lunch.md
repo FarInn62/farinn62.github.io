@@ -10,13 +10,13 @@ Menyn gäller följande tider:
 Mån - Fre: 11:00 - 15:00  
 Alla rätter: 80:- Take way: 60:-
 
-VECKANS SALLAD
+VECKANS SALLAD,
 Räksalad med dill dressing.
 
 ### Måndag
 
 1. Ångad Torsk file med äggsås och kokt potatis.
-2. Skomakarlåda (Lökbiff med bearnaise sås, lingon och potatis pure.
+2. Skomakarlåda (Lökbiff med bearnaise sås, lingon och potatis pure).
 
 ### Tisdag
 
