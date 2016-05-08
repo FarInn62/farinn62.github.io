@@ -30,7 +30,7 @@ Räksalad med dilldressing.
 
 ### Torsdag
 
-1. Grösaks soppa samt tunna pankakor med sylt och grädde.
+1. Grönsaks soppa samt tunna pankakor med sylt och grädde.
 2. Benfri kotlett med kantarelsås, rårörda lingon och kokt potatis.
 
 ### Fredag
