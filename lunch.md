@@ -11,12 +11,12 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take way: 60:-
 
 VECKANS SALLAD,
-Räksalad med dilldressing.
+Räksallad med dilldressing.
 
 ### Måndag
 
 1. Ångad Torsk file med äggsås och kokt potatis.
-2. Skomakarlåda (Lökbiff med bearnaise sås, lingon och potatis pure).
+2. Skomakarlåda (Lökbiff med bearnaise-sås, lingon och potatis-pure).
 
 ### Tisdag
 
@@ -30,7 +30,7 @@ Räksalad med dilldressing.
 
 ### Torsdag
 
-1. Grönsaks soppa samt tunna pankakor med sylt och grädde.
+1. Grönsaks-soppa samt tunna pankakor med sylt och grädde.
 2. Benfri kotlett med kantarelsås, rårörda lingon och kokt potatis.
 
 ### Fredag
