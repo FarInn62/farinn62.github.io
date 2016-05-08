@@ -26,7 +26,7 @@ Räksalad med dilldressing.
 ### Onsdag
 
 1. Schweizer schnitzel (Ost och skinka fylld) med brunsås, grönsaker och stekt potatis.
-2. Flygande Jakob gryta Kyckling med bannan,nötter i chilisås samt grönsaks ris.
+2. Flygande Jakob gryta (Kyckling med bannan,nötter i chilisås) samt grönsaks ris.
 
 ### Torsdag
 
