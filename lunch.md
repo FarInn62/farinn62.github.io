@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v19
+title: Lunch v20
 permalink: /lunch/
 published: true
 ---
@@ -14,28 +14,29 @@ VECKANS SALLAD,
 Räksallad med dilldressing.
 
 ### Måndag
-1. Ångad Torsk file med äggsås och kokt potatis.
-2. Skomakarlåda (Lökbiff med bacon-sås, lingon och potatis-pure).
+1. Stekt kassler med rotmos och senapsås.
+2. Kokt torskfile med stekt frukt och grönsaker, skaldjur, bacon, vitvinsås samt kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Biff stroganoff med ris och smetana.
+2. Kebabgryta med tomat sallad och kokt ris.
 
 ### Onsdag
 
-1. Schweizer schnitzel (Ost och skinka fylld) med brunsås, grönsaker och stekt potatis.
-2. Flygande Jakob gryta (Kyckling med bannan,nötter i chilisås) samt grönsaks ris.
+1. Lax frästelse med kräftsås och sallad.
+2. Stekt falukorv med stuvade makaroner.
+3. Nötlevergryta med ris och lingon
 
 ### Torsdag
 
-1. Grönsaks-soppa samt tunna pankakor med sylt och grädde.
-2. Benfri kotlett med kantarellsås, rårörda lingon och kokt potatis.
+1. Spenatsoppa med ägghalva samt tunna pankakor med sylt och grädde.
+2. Basel schnitzel med äppelcidersås, äppelmos och stekt potatis.
 
 ### Fredag
 
-1. Potatis överbakad Lax med sparris, räkor och saffransås.
-2. Oxjärpar med gräddsås, grönsaker. lingonsylt och kokt potatis.
+1. Grillbiff med potatis gratäng, grillsås och sallad.
+2. Viltfärslimpa med lingon gräddsås, grönsaker och kokt potatis.
 
 ### Lördag & Söndag
 
