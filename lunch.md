@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v20
+title: Lunch v21
 permalink: /lunch/
 published: true
 ---
@@ -10,34 +10,31 @@ Menyn gäller följande tider:
 Mån - Fre: 11:00 - 15:00  
 Alla rätter: 80:- Take way: 60:-
 
-VECKANS SALLAD,
-Räksallad med dilldressing.
-
 ### Måndag
-1. Stekt kassler med rotmos och senapsås.
-2. Kokt torskfile med stekt frukt och grönsaker, skaldjur, bacon, vitvinsås samt kokt potatis.
+
+1. Fläsknoisette med grönsaksgratäng och ädelostsås
+2. Strömmingsrullader med potatismos och räkmajonäs
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kebabgryta med tomat sallad och kokt ris.
+1. Stekt fläsk med löksås, lingon och kokt potatis
+2. Köttbullar med gräddsås, potatispuré, inlagd gurka och lingon
 
 ### Onsdag
 
-1. Lax frästelse med kräftsås och sallad.
-2. Stekt falukorv med stuvade makaroner.
-3. Nötlevergryta med ris och lingon
+1. Senapsmarinerad karréstek med grönpepparsås, svartvinbärsgele och kokt potatis
+2. Smöstekt rödspätta med kaviarsås, skaldjurssallad och kokt potatis
 
 ### Torsdag
 
-1. Spenatsoppa med ägghalva samt tunna pankakor med sylt och grädde.
-2. Basel schnitzel med äppelcidersås, äppelmos och stekt potatis.
+1. Sparrissoppa + tunna pannkakor med sylt och grädde
+2. Biff Lindström med rödvinssås, grönsaker och kokt potatis
 
 ### Fredag
 
-1. Grillbiff med potatis gratäng, grillsås och sallad.
-2. Viltfärslimpa med lingon gräddsås, grönsaker och kokt potatis.
+1. Biffstek Black & White med tryffel och bearnaisesås och stekt potatis
+2. Skagenlåda (Laxbiff med skagensås) och potatispuré
 
 ### Lördag & Söndag
 
-**Á la Carte**
+Á la Carte
