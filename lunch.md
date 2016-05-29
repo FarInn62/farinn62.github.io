@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v21
+title: Lunch v22
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,29 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Fläsknoisette med grönsaksgratäng och ädelostsås
-2. Strömmingsrullader med potatismos och räkmajonäs
+1. Strimlad kyckling i currysås, grönsaker och ris samt anannas sallad.
+2. Spagetti med skink och ostsås.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingon och kokt potatis
-2. Köttbullar med gräddsås, potatispuré, inlagd gurka och lingon
+1. Raggmunkar med stekt fläsk och lingon.
+2. Bacon bindad falukorv med potatispure, bostongurka och vitsås (bersamel).
 
 ### Onsdag
 
-1. Senapsmarinerad karréstek med grönpepparsås, svartvinbärsgele och kokt potatis
-2. Smöstekt rödspätta med kaviarsås, skaldjurssallad och kokt potatis
+1. Köttgryta med rotgrönsaker och kokt potatis.
+2. Kroppkakor med lingon, smör och sallad.
 
 ### Torsdag
 
-1. Sparrissoppa + tunna pannkakor med sylt och grädde
-2. Biff Lindström med rödvinssås, grönsaker och kokt potatis
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. Kokt torskfile med äggsås,ärtor och kokt potatis.
+3. Nöttlevergrytta med lingon sylt och kokt potatis.
 
 ### Fredag
 
-1. Biffstek Black & White med tryffel och bearnaisesås och stekt potatis
-2. Skagenlåda (Laxbiff med skagensås) och potatispuré
+1. Helstekt fläskfile med portvin kokta chapinjoner, grönsaker och stekt potatis.
+2. Fiskgratäng med lax och hummersås, duchesse potatis.
 
 ### Lördag & Söndag
 
