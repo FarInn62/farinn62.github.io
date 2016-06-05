@@ -12,29 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Strimlad kyckling i currysås, grönsaker och ris samt anannas sallad.
-2. Spagetti med skink och ostsås.
+1. National dagen Meny
+2. A LA CARTE
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingon.
-2. Bacon bindad falukorv med potatispure, bostongurka och vitsås (bersamel).
+1. Bruna böner med stekt fläsk och lingon.
+2. Helstekt fläsk ytterfile med kantarellsås, lingon och kokt potatis.
 
 ### Onsdag
 
-1. Köttgryta med rotgrönsaker och kokt potatis.
-2. Kroppkakor med lingon, smör och sallad.
+1. Kålpudding med brunsås, lingon pure och kokt potatis.
+2. Lax och räk frestelse med smörsås och sallad.
 
 ### Torsdag
 
-1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Kokt torskfile med äggsås,ärtor och kokt potatis.
-3. Nöttlevergrytta med lingon sylt och kokt potatis.
+1. Sommarsoppa+ tunna pannkakor med sylt och grädde.
+2. Kyckling schnitzel med dragonsås, grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Helstekt fläskfile med portvin kokta chapinjoner, grönsaker och stekt potatis.
-2. Fiskgratäng med lax och hummersås, duchesse potatis.
+1. Becon biff med creme sås, lingon och potatispure.
+2. Smörstekt spättafile med krabbasås, grönsaker och kokt potatis.
 
 ### Lördag & Söndag
 
