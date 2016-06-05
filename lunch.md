@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. National dagen Meny
+1. National dagens Meny
 2. A LA CARTE
 
 ### Tisdag
