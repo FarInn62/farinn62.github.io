@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v23
+title: Lunch v24
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. National dagens Meny
-2. A LA CARTE
+1. Grillkarre med potatis gratäng, salsasås och grekisk sallad.
+2. Halstrad strömmings flundra med dillsås och potatispure.
 
 ### Tisdag
 
-1. Bruna böner med stekt fläsk och lingon.
-2. Helstekt fläsk ytterfile med kantarellsås, lingon och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingon.
+2. Ostgratinerad falukorv med stuvad pasta och tomato sallad.
 
 ### Onsdag
 
-1. Kålpudding med brunsås, lingon pure och kokt potatis.
-2. Lax och räk frestelse med smörsås och sallad.
+1. Älgfärslimpa med viltsås, rårörda lingon och kokt potatis.
+2. Lasagne med sallad.
 
 ### Torsdag
 
-1. Sommarsoppa+ tunna pannkakor med sylt och grädde.
-2. Kyckling schnitzel med dragonsås, grönsaker och stekt potatis.
+1. Köfärssoppa med creme fraiche + tunna pannkakor med sylt och grädde.
+2. Ostpanerad schnitzel med milanaie sås, lök sallad och stekt potatis.
 
 ### Fredag
 
-1. Becon biff med creme sås, lingon och potatispure.
-2. Smörstekt spättafile med krabbasås, grönsaker och kokt potatis.
+1. Roast biff med potatis sallad, pickles och lingon dressing.
+2. Fläskfile gryta med kokta grönsaker och stekt potatis.
 
 ### Lördag & Söndag
 
