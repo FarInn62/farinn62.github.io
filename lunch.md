@@ -27,7 +27,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Torsdag
 
-1. Köfärssoppa med creme fraiche + tunna pannkakor med sylt och grädde.
+1. Köttfärssoppa med creme fraiche + tunna pannkakor med sylt och grädde.
 2. Ostpanerad schnitzel med milanaie sås, lök sallad och stekt potatis.
 
 ### Fredag
