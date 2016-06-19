@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Kassler med rotmos, rödbetor och pepparotsås.
-2. Kokt torsfile med äggsås och kokt potatis.
+2. Kokt torskfile med äggsås och kokt potatis.
 
 ### Tisdag
 
