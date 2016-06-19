@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v24
+title: Lunch v25
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Grillkarre med potatis gratäng, salsasås och grekisk sallad.
-2. Halstrad strömmings flundra med dillsås och potatispure.
+1. Kassler med rotmos, rödbetor och pepparotsås.
+2. Kokt torsfile med äggsås och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon.
-2. Ostgratinerad falukorv med stuvad pasta och tomato sallad.
+2. Fransk köttgryta, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Älgfärslimpa med viltsås, rårörda lingon och kokt potatis.
-2. Lasagne med sallad.
+1. Kycklingfile med paprika och dragonsås, grönsaker samt kokt ris.
+2. Grönpeppar biff med cafe de paris sås och potatis pure.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche + tunna pannkakor med sylt och grädde.
-2. Ostpanerad schnitzel med milanaie sås, lök sallad och stekt potatis.
+1. Spenatsoppa med ägg halva + tunna pannkakor med sylt och grädde.
+2. Jägar noisett med champinjonsås, äppelmos och kokt potatis.
 
 ### Fredag
 
-1. Roast biff med potatis sallad, pickles och lingon dressing.
-2. Fläskfile gryta med kokta grönsaker och stekt potatis.
+1. GLAD MIDSOMMAR.
+2. STÄNGT.
 
 ### Lördag & Söndag
 
