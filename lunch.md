@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 26
+title: Lunch v 27
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Kebab gryta med ris och salad.
-2. Kokt falukorv med stuvad vitkål och kokt potatis.
+1. Kyckling gryta med curryris och sallad.
+2. Gratinerad torskfile med hummersås och kokt potatis.
 
 ### Tisdag
 
-1. Stekt fläsk och löksås, lingon och kokt potatis.
-2. Smör stekt rödspätta med skagensås och kokt potatis.
+1. Raggmunkar med stäkt fläsk och lingonsylt.
+2. Köttfärslimpa med murkelsås, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Chili ConCarne med paprika sallad samt buljonkokt ris.
-2. Vilt marinerad karre stek med kantarellsås, lingonsylt och kokt potatis.
+1. Äggpanerad schnitzel med Milanaisesås, grönsaker och stekt potatis.
+2. Köttbullar med stuvade makaroner.
 
 ### Torsdag
 
-1. Ärt soppa + tunna pannkakor med sylt och grädde.
-2. Biff Wallenberg med grädsås, lingon, ärtor och potatismos.
+1. Sommarsoppa + tunna pannkakor med sylt och grädde.
+2. Grekisk färsbiff med tzatziki dressing, sallad och kokt potatis.
 
 ### Fredag
 
-1. Älgfärs biff med viltsås lingonsylt, grönsaker och kokt potatis.
-2. Lax noisett med sås verte, räkor och kokt potatis.
+1. Helstekt fläskuterfile med madaira gräddsås, grönsaker och kokt potatis.
+2. Stekt rödspätta med räksås,grönsaker och kokt potatis.
 
 ### Lördag & Söndag
 
