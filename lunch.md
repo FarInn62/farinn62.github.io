@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 27
+title: Lunch v 28
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Kyckling gryta med curryris och sallad.
-2. Gratinerad torskfile med hummersås och kokt potatis.
+1. Biff ala Lindström med rödvinsåås, grönsaker och kokt potatis.
+2. Strömmings flundra för finsmakareskaldjur,lingon och potatis mos.
 
 ### Tisdag
 
-1. Raggmunkar med stäkt fläsk och lingonsylt.
-2. Köttfärslimpa med murkelsås, grönsaker och kokt potatis.
+1. Stekt fläsk med löksås,lingon och kokt potatis.
+2. Ost panerad kassler med ädelostsås, grönsallad och kokt potatis.
 
 ### Onsdag
 
-1. Äggpanerad schnitzel med Milanaisesås, grönsaker och stekt potatis.
-2. Köttbullar med stuvade makaroner.
+1. Marinerad Grillkarre med senap-dragonsås,grönsaker och potatisgratäng.
+2. Stekt torkfile med räkor och vitvinsås samt kokt potatis.
 
 ### Torsdag
 
-1. Sommarsoppa + tunna pannkakor med sylt och grädde.
-2. Grekisk färsbiff med tzatziki dressing, sallad och kokt potatis.
+1. Spenat soppa + tunna pannkakor med sylt och grädde.
+2. Skomakarlåda hackad biff och baconsås samt potatis mos och lingonsylt.
 
 ### Fredag
 
-1. Helstekt fläskuterfile med madaira gräddsås, grönsaker och kokt potatis.
-2. Stekt rödspätta med räksås,grönsaker och kokt potatis.
+1. Paprika fyllda kyckling file med rosepeparsås, haricots verts och rostad potatis.
+2. Benfri kotlett med chmpinjonsås, äpplemos,grönsaker och kokt potatis.
 
 ### Lördag & Söndag
 
