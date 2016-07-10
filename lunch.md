@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Biff ala Lindström med rödvinsåås, grönsaker och kokt potatis.
-2. Strömmings flundra för finsmakareskaldjur,lingon och potatis mos.
+2. Strömmings flundra för finsmakare, skaldjur,lingon och potatis mos.
 
 ### Tisdag
 
