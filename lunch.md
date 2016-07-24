@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Pannbiff med stekt lök och brunsås,gurka och kokt potatis.
-2. panerad rödspätta med räkmajonäsoch sallad samt kokt potatis.
+2. panerad rödspätta med räkmajonäs och sallad samt kokt potatis.
 
 ### Tisdag
 
@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Onsdag
 
 1. Kassler och karregryta med äppelmos, grönsaker och kokt potatis.
-2. Strömminngsrulladermed smörsås och räksallad samt potatismos.
+2. Strömminngsrullader med smörsås och räksallad samt potatismos.
 
 ### Torsdag
 
