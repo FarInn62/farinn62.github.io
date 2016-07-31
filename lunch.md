@@ -27,7 +27,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Torsdag
 
-1. spenatsoppa + tunna pannkakor med sylt och grädde.
+1. spenatsoppa med ägghalva + tunna pannkakor med sylt och grädde.
 2. Grekisk färsbiff med ztatziki dressing, sallad och potatispure.
 
 ### Fredag
