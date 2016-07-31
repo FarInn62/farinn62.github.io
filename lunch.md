@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 30
+title: Lunch v 31
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Pannbiff med stekt lök och brunsås,gurka och kokt potatis.
-2. panerad rödspätta med räkmajonäs och sallad samt kokt potatis.
+1. Biff Stroganoff med inlagd gurka, crem fräsch och kokt potatis eller ris.
+2. Hummarsås gratinerad torskrygg med skaldjur samt kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Biff a la lindström med grönsaker och rödvinsky samt kokt potatis.
+2. Köttfärslimpa med murkelsås, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Kassler och karregryta med äppelmos, grönsaker och kokt potatis.
-2. Strömminngsrullader med smörsås och räksallad samt potatismos.
+1. Panerad schnitzel med pepparsås, grönsaker och stekt potatis.
+2. Köttbullar stuvade makaroner.
 
 ### Torsdag
 
-1. Purjolöksoppa + tunna pannkakor med sylt och grädde.
-2. Kebabgryta med tomatsallad och ris.
+1. spenatsoppa + tunna pannkakor med sylt och grädde.
+2. Grekisk färsbiff med ztatziki dressing, sallad och potatispure.
 
 ### Fredag
 
-1. Kyclinggryta (flygande Jakob) med banan, chilisås och grönsaksrisotto.
-2. Viltfärsbiff med kantarellsås, lingonpure, grönsaker och kokt potatis.
+1. Biff Wallenberg med gräddsås, ärtor,lingonsylt och potatismos .
+2. Stekt rödspätta med dill-räksås kokt potatis.
 
 ### Lördag & Söndag
 
