@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 31
+title: Lunch v 32
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Biff Stroganoff med inlagd gurka, crem fräsch och kokt potatis eller ris.
-2. Hummarsås gratinerad torskrygg med skaldjur samt kokt potatis.
+1. Köttgryta med grönsaker och kokt potatis.
+2. Kokt torskfile med ägg-persiljesås samt kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Köttfärslimpa med murkelsås, grönsaker och kokt potatis.
+2. Stekt kassler med kantarellsås och stekt potatis.
 
 ### Onsdag
 
-1. Panerad schnitzel med pepparsås, grönsaker och stekt potatis.
-2. Köttbullar stuvade makaroner.
+1. Lamm färsbiff dragonsås, grönsaker och kokt potatis.
+2. Gräddkokt nötlever med ris och lingon.
 
 ### Torsdag
 
-1. spenatsoppa med ägghalva + tunna pannkakor med sylt och grädde.
-2. Grekisk färsbiff med ztatziki dressing, sallad och potatispure.
+1. Ärtsoppa+ tunna pannkakor med sylt och grädde.
+2. Panerad fläsknoisett med örtsås, stekt kantareller och kokt potatis.
 
 ### Fredag
 
-1. Biff Wallenberg med gräddsås, ärtor,lingonsylt och potatismos .
-2. Stekt rödspätta med dill-räksås kokt potatis.
+1. Helstekt fläskfile, kräftsjärtar,bearnaisesås och sparris samt stektpotatis.
+2. Skomakarlåda med baconsås och potatismos samt lingon.
 
 ### Lördag & Söndag
 
