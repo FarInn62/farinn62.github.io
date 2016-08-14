@@ -12,13 +12,13 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Kassler med anannas salsasås och pasta penne.
+1. Kassler med anannas- salsasås och pastapenne.
 2. Mexikansk färsbiff med pepparsås och blandade bönor samt stekt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt Jösfile med sffran-hummersås, grönsaker och kokt potatis.
+2. Stekt Gösfile med sffran-hummersås, grönsaker och kokt potatis.
 
 ### Onsdag
 
