@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 33
+title: Lunch v 34
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Kassler med anannas- salsasås och pastapenne.
-2. Mexikansk färsbiff med pepparsås och blandade bönor samt stekt potatis.
+1. Oxbringa med rotmos,pepparotsås och rödbetor.
+2. Stekt falu korv med stuvad pasta.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt Gösfile med sffran-hummersås, grönsaker och kokt potatis.
+2. Laxfrestelse med räkor och smörsås.
 
 ### Onsdag
 
-1. Skånsk kalops med rödbetor och kokt potatis.
-2. Köttbullar med gräddsås, potatismos,inlaggd gurka och lingon.
+1. Kebabgryta med ris och sallad.
+2. Marinerad benfri kotlett med gräddpaprikasås och stekt potatis.
 
 ### Torsdag
 
-1. Laxsoppa + tunna pannkakor med sylt och grädde.
-2. Köttfärsrulle med ädelostsås och stekt potatis.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. Grillad kyckling file med sås cafe de paris, lökbrynta grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Herrgårds stek med cremesås, sommar grönsaker, svart vibärs jele samt kokt potatis.
-2. Vitvinkokt torskfile med skagensås, ärtor och potatispure.
+1. Ost och skinkfylld schnitzel med portvinsås, grönsaker och friterad potatis.
+2. Senapmarinerad strömmingsflyndra med skaldjur, sås hollandaise och potatismos.
 
 ### Lördag & Söndag
 
