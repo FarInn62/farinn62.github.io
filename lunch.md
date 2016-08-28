@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 34
+title: Lunch v 35
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Oxbringa med rotmos,pepparotsås och rödbetor.
-2. Stekt falu korv med stuvad pasta.
+1. Chili con carne med ris och sallad.
+2. Stekt rödspätta med remouladsås, räkor och kokt potatis.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Laxfrestelse med räkor och smörsås.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Lasagne med sallad.
 
 ### Onsdag
 
-1. Kebabgryta med ris och sallad.
-2. Marinerad benfri kotlett med gräddpaprikasås och stekt potatis.
+1. Kålpudding med gräddsås och lingon samt kokt potatis.
+2. Ostpanerad schnizel med rödvinsås, grönsaker och stekt potatis.
 
 ### Torsdag
 
-1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Grillad kyckling file med sås cafe de paris, lökbrynta grönsaker och stekt potatis.
+1. Köttfärs soppa + tunna pannkakor med sylt och grädde.
+2. Kyckling och banangryta med curry ris.
 
 ### Fredag
 
-1. Ost och skinkfylld schnitzel med portvinsås, grönsaker och friterad potatis.
-2. Senapmarinerad strömmingsflyndra med skaldjur, sås hollandaise och potatismos.
+1. Helstekt oxryggbiff med tryffelsås, bearnaise topp, grönsaker och stekt potatis.
+2. Vitvinkokt torskfile med kräfftsås och kokt potatis.
 
 ### Lördag & Söndag
 
