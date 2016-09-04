@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 35
+title: Lunch v 36
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Chili con carne med ris och sallad.
-2. Stekt rödspätta med remouladsås, räkor och kokt potatis.
+1. Hackad pepparbiff med grönpepparsås, broccoli och kokt potatis.
+2. Kokt sägfile med vitvinsås, spenat,räkor och kokt potatis.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Lasagne med sallad.
+1. Raggmunkar med Stekt fläsk, lingonsylt.
+2. Köttfärslimpa med kantarellsås,grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Kålpudding med gräddsås och lingon samt kokt potatis.
-2. Ostpanerad schnizel med rödvinsås, grönsaker och stekt potatis.
+1. Biff a la Wallenberg med gräddsås och potatismos samt ärter och lingonsylt.
+2. Stekt lunchkorv med stuvade potatis och röbetor.
 
 ### Torsdag
 
-1. Köttfärs soppa + tunna pannkakor med sylt och grädde.
-2. Kyckling och banangryta med curry ris.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. Helstekt fläskytterfile medmoling rosesås samt stekt potatis.
 
 ### Fredag
 
-1. Helstekt oxryggbiff med tryffelsås, bearnaise topp, grönsaker och stekt potatis.
-2. Vitvinkokt torskfile med kräfftsås och kokt potatis.
+1. Wiener schnitzel med rödvinsås, ärter och stekt potatis.
+2. Smörstekt Lax noisett med krabsås, sallad och potatispure.
 
 ### Lördag & Söndag
 
