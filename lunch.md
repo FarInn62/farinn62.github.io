@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Hackad pepparbiff med grönpepparsås, broccoli och kokt potatis.
-2. Kokt sägfile med vitvinsås, spenat,räkor och kokt potatis.
+2. Kokt säjfile med vitvinsås, spenat,räkor och kokt potatis.
 
 ### Tisdag
 
