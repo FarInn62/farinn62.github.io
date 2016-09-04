@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Torsdag
 
 1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Helstekt fläskytterfile medmoling rosesås samt stekt potatis.
+2. Helstekt fläskytterfile med moling rosesås samt stekt potatis.
 
 ### Fredag
 
