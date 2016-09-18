@@ -28,12 +28,12 @@ Alla rätter: 80:- Take away: 60:-
 ### Torsdag
 
 1. Spenatsoppa med ägghalva + tunna pannkakor med sylt och grädde.
-2. Mexikansk schnitzel med tomat mandelsås,grönsaker och ris.
+2. Mexikansk schnitzel med tomat mandelsås, grönsaker och ris.
 
 ### Fredag
 
 1. Fläkfile med sprris, kräftsjärtar och tomatiserad bearnaisesås samt stekt potatis.
-2. SGratinerad torskfile med skaldjursås och duchesse potatis.
+2. Gratinerad torskfile med skaldjursås och duchesse potatis.
 
 ### Lördag & Söndag
 
