@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Onsdag
 
 1. Dansk sjömans biff med råstekta potatis och löksås.
-2. Lax frestelse med räkor, grönsaker och saffransås.
+2. Lax frestelse med räkor,grönsaker och saffransås.
 
 ### Torsdag
 
