@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Älgskav med potatismos och rårörda lingon.
-2. Kåldolmar med gräddsås,lingon och kokt potatis.
+2. Kåldolmar med gräddsås, lingon och kokt potatis.
 
 ### Tisdag
 
