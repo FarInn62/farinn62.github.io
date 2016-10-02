@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 39
+title: Lunch v 40
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Marinerad karrestek med potatisgratäng och cafe de paris sås.
-2. Stekt falukorv med stuvade makaroner.
+1. Älgskav med potatismos och rårörda lingon.
+2. Kåldolmar med gräddsås,lingon och kokt potatis.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Jägernoisett med kantarellsås, grönsaker och kokt potatis.
+1. Raggmunkar med stekt fläsk, lingonsylt och kokt potatis.
+2. Köttfärslimpa med brunsås, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Köttgryta med rotgrönsaker och potatis.
-2. Vitvinkokt torsk med äggsås och kokt potatis.
+1. Dansk sjömans biff med råstekta potatis och löksås.
+2. Lax frestelse med räkor, grönsaker och saffransås.
 
 ### Torsdag
 
-1. Ärtsoppa+ tunna pannkakor med sylt och grädde.
-2. Skinkstek med champinjonsås, äppelmos och kokt potatis.
+1. Lax och räksoppa + tunna pannkakor med sylt och grädde.
+2. Oxbringa med pepparotsås, rödbetor och morotspure.
 
 ### Fredag
 
-1. Biff a la Lindström med rödvinsås och persiljesmör, grönsaker samt kokt potatis.
-2. Pasta med köttfärssås och ost.
+1. Helstekt Entrecote med London house sås, grönsaker samt stekt potatis.
+2. Lökbiff med gräddstuvade murklor,grönsaker och kokt potatis.
 
 ### Lördag & Söndag
 
