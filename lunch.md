@@ -12,17 +12,17 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Äkta biff ala stroganoff med ris och inlagt gurka.
+1. Äkta biff ala stroganoff med ris och inlagd gurka.
 2. Oxbringa med rotmos, pepparotsås och rödbetor.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt och kokt potatis.
-2. Panbiff med grönpepparsås, svartvinbärsgele, grönsaker och stekt potatis.
+2. Pannbiff med grönpepparsås, svartvinbärsgele, grönsaker och stekt potatis.
 
 ### Onsdag
 
-1. Oxjärpar med såscreme, råröeda lingon och potatismos.
+1. Oxjärpar med såscreme, rårörda lingon och potatismos.
 2. Stekt lax med kräftsås, spenat och kokt potatis.
 
 ### Torsdag
@@ -32,8 +32,8 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Fredag
 
-1. Ox och fläskfile Balck & White dvs tryffel och bearnaise sås, sparris, tomat samt stekt potatis.
-2. Stekt rödspåtta med skagenröra och kokt potatis.
+1. Ox och fläskfile Black & White dvs tryffel och bearnaise sås, sparris, tomat samt stekt potatis.
+2. Stekt rödspätta med skagenröra och kokt potatis.
 
 ### Lördag & Söndag
 
