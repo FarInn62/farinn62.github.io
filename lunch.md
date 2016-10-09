@@ -12,13 +12,13 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Äkya biff ala stroganoff med ris och inlagt gurka.
+1. Äkta biff ala stroganoff med ris och inlagt gurka.
 2. Oxbringa med rotmos, pepparotsås och rödbetor.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt och kokt potatis.
-2. Panbiff med grönpepparsås,svartvinbärsgele, grönsaker och stekt potatis.
+2. Panbiff med grönpepparsås, svartvinbärsgele, grönsaker och stekt potatis.
 
 ### Onsdag
 
