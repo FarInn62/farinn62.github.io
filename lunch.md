@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Torsdag
 
 1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Chili con carne med grönsaker och sallad.
+2. Chili con carne med grönsaksrisotto och sallad.
 
 ### Fredag
 
