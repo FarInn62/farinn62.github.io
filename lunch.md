@@ -17,7 +17,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Tisdag
 
-1. Stekt fläsk med bruna böner och kokt potatis.
+1. Stekt fläsk med bruna bönor och kokt potatis.
 2. Skagensås gratinerad torskrygg, räksallad och kokt potatis.
 
 ### Onsdag
@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Torsdag
 
 1. Gulasch soppa + tunna pannkakor med sylt och grädde.
-2. Kychlingfile med mild pepparsås, grönsaker och stekt potatis.
+2. Kycklingfile med mild pepparsås, grönsaker och stekt potatis.
 
 ### Fredag
 
