@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Panerad schnitzel med dragonsås, rödbetor, kapris och ärter samt stekt potatis.
-2. Oxbringa med rotmos, pepparotsås och rödbetor.
+2. Nötlevergryta med ris och lingon.
 
 ### Tisdag
 
