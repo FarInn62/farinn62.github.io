@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 41
+title: Lunch v 42
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Äkta biff ala stroganoff med ris och inlagd gurka.
+1. Panerad schnitzel med dragonsås, rödbetor, kapris och ärter samt stekt potatis.
 2. Oxbringa med rotmos, pepparotsås och rödbetor.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk, lingonsylt och kokt potatis.
-2. Pannbiff med grönpepparsås, svartvinbärsgele, grönsaker och stekt potatis.
+1. Stekt fläsk med bruna böner och kokt potatis.
+2. Skagensås gratinerad torskrygg, räksallad och kokt potatis.
 
 ### Onsdag
 
-1. Oxjärpar med såscreme, rårörda lingon och potatismos.
-2. Stekt lax med kräftsås, spenat och kokt potatis.
+1. Kalops med rödbetor och kokt potatis.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Torsdag
 
-1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Chili con carne med grönsaksrisotto och sallad.
+1. Gulasch soppa + tunna pannkakor med sylt och grädde.
+2. Kychlingfile med mild pepparsås, grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Ox och fläskfile Black & White dvs tryffel och bearnaise sås, sparris, tomat samt stekt potatis.
-2. Stekt rödspätta med skagenröra och kokt potatis.
+1. Biffstek med stekt lök och rödvinsås, wokgrönsaker samt stekt potatis.
+2. Skomakar låda med baconsås, lingonsås och potatismos.
 
 ### Lördag & Söndag
 
