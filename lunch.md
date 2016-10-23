@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 42
+title: Lunch v 43
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Panerad schnitzel med dragonsås, rödbetor, kapris och ärter samt stekt potatis.
-2. Nötlevergryta med ris och lingon.
+1. Plommenfyllda karrestek med kanelgräddsås. äppelmos och kokt potatis.
+2. Strömmings flunda för fin smakare med potatismos, smörsås, räkor samt lingon.
 
 ### Tisdag
 
-1. Stekt fläsk med bruna bönor och kokt potatis.
-2. Skagensås gratinerad torskrygg, räksallad och kokt potatis.
+1. Raggmunkar och stekt fläsk, lingonsylt.
+2. Fransk köttgryta med sallad och kokt potatis.
 
 ### Onsdag
 
-1. Kalops med rödbetor och kokt potatis.
-2. Stekt falukorv med stuvade makaroner.
+1. Musketorenas kotlett med portvinså, bacon, chapijoner, sparris och kokt potatis.
+2. Stekt torskfile med sås verte och räkor samt kokt potatis.
 
 ### Torsdag
 
-1. Gulasch soppa + tunna pannkakor med sylt och grädde.
-2. Kycklingfile med mild pepparsås, grönsaker och stekt potatis.
+1. Spenat soppa och ägghalva + tunna pannkakor med sylt och grädde.
+2. Fläskfile gryta med sallad och kokt potatis.
 
 ### Fredag
 
-1. Biffstek med stekt lök och rödvinsås, wokgrönsaker samt stekt potatis.
-2. Skomakar låda med baconsås, lingonsås och potatismos.
+1. Mäster Fällings achnitzel med sås charon (tomat och bearnaissås),stekt ananas och tomater, ärter samt råstekt potatis.
+2. Köttfärs tornedos med tomat concarse och vinsås samt selleripure.
 
 ### Lördag & Söndag
 
