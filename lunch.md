@@ -12,8 +12,8 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Plommenfyllda karrestek med kanelgräddsås. äppelmos och kokt potatis.
-2. Strömmings flunda för fin smakare med potatismos, smörsås, räkor samt lingon.
+1. Plommonfylld karrestek med kanelgräddsås. äppelmos och kokt potatis.
+2. Strömmings flunrda för fin smakare med potatismos, smörsås, räkor samt lingon.
 
 ### Tisdag
 
@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Onsdag
 
-1. Musketorenas kotlett med portvinså, bacon, chapijoner, sparris och kokt potatis.
+1. Musketörenas kotlett med portvinsås, bacon, champinjoner, sparris och kokt potatis.
 2. Stekt torskfile med sås verte och räkor samt kokt potatis.
 
 ### Torsdag
@@ -32,8 +32,8 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Fredag
 
-1. Mäster Fällings achnitzel med sås charon (tomat och bearnaissås),stekt ananas och tomater, ärter samt råstekt potatis.
-2. Köttfärs tornedos med tomat concarse och vinsås samt selleripure.
+1. Mäster Fällings schnitzel med sås charon (tomat och bearnaissås),stekt ananas och tomater, ärter samt råstekt potatis.
+2. Köttfärs tornedos med tomat concarsse och vinsås samt selleripure.
 
 ### Lördag & Söndag
 
