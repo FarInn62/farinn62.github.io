@@ -32,7 +32,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Fredag
 
-1. Mäster Fällings schnitzel med sås charon (tomat och bearnaissås),stekt ananas och tomater, ärter samt råstekt potatis.
+1. Mäster Fällings schnitzel med sås charon (tomat och bearnaissås),stekt ananas, tomater, ärter samt råstekt potatis.
 2. Köttfärs tornedos med tomat concarsse och vinsås samt selleripure.
 
 ### Lördag & Söndag
