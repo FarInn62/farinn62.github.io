@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Onsdag
 
 1. Dill köttgryta med morötter och kokt potatis.
-2. Wärshusbiff med grädd och löksås samt sallad och kokt potatis.
+2. Wärdshusbiff med grädd och löksås samt sallad och kokt potatis.
 
 ### Torsdag
 
@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Fredag
 
 1. Grillad kyckingfile med spenat, ädelostsås, grönsaker och buljonkokt ris.
-2. Skormakarlåda med bearnaise sås, lingonpure och hemlagat potatismos.
+2. Skomakarlåda med bearnaise sås, lingonpure och hemlagat potatismos.
 
 ### Lördag & Söndag
 
