@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 45
+title: Lunch v 46
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Basel schnitzel med äppelcidersås, äppelmos och stekt potatis.
-2. Pastapenna toppad med köttfärssås och riven ost.
+1. Italiensk köttgryta med hemlagat potatismos och äpplemos.
+2. Kokt torskfile med räksås, grönsaker och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Vitvinkokt torskfile med ägg-persiljasås och kokt potatis.
+2. Stekt rödspätta med remouladsås och kokt potatis.
 
 ### Onsdag
 
-1. Baconfylld köttfärslimpa med champinjonsås, grönsaker, lingon och kokt potatis.
-2. Köttbullar med stuvade makaroner samt sallad.
+1. dill köttgryta med morötter och kokt potatis.
+2. Wärshusbiff med grädd och löksås samt sallad och kokt potatis.
 
 ### Torsdag
 
-1. Rödbetssoppa med smetana + tunna pannkakor med sylt och grädde.
-2. Biff a la Lindström med rödvinsky, persiljesmör, grönsaker och kokt potatis.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. Helstekt fläsk ytterfile med murkelsås, svart vinbärsgele och stekt potatis.
 
 ### Fredag
 
-1. Älgfärsbiff med kantarellsås, rönnbärsgele, grönsaker och kokt potatis.
-2. Smörstekt lax med krabbsås,räkor, grönsaker och kokt potatis.
+1. Grillad kyckingfile med spenat, ädelostsås, grönsaker och buljonkokt ris.
+2. Skormakarlåda med bearnaise sås, lingonpure och hemlagat potatismos.
 
 ### Lördag & Söndag
 
