@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Onsdag
 
-1. dill köttgryta med morötter och kokt potatis.
+1. Dill köttgryta med morötter och kokt potatis.
 2. Wärshusbiff med grädd och löksås samt sallad och kokt potatis.
 
 ### Torsdag
