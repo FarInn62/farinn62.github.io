@@ -12,17 +12,17 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Skinkschnmitzel med gräddsås, kokta morötter, kålrötter, lingon och kokt potatis.
+1. Skinkschnitzel med gräddsås, kokta morötter, kålrötter, lingon och kokt potatis.
 2. Strömmingrullader med räkor, smörsås och potatispure.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Bacon inbakad köttfärslimpa med jägarmästarsås, svamp och rönbäresgele samt kokt potatis.
+2. Bacon inbakad köttfärslimpa med jägarmästarsås, svamp och rönnbärsgele samt kokt potatis.
 
 ### Onsdag
 
-1. Biff ala stroganoff med ris, creme frache och inlagd gurka.
+1. Biff ala stroganoff med ris, creme fraiche och inlagd gurka.
 2. Oxjärpar med tomatlöksås och kokt potatis.
 
 ### Torsdag
