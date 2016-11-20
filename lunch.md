@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Onsdag
 
-1. Biff ala stroganoff med ris och creme frache och inlagd gurka.
+1. Biff ala stroganoff med ris, creme frache och inlagd gurka.
 2. Oxjärpar med tomatlöksås och kokt potatis.
 
 ### Torsdag
