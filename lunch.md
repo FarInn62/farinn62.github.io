@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Skinkschnitzel med gräddsås, kokta morötter, kålrötter, lingon och kokt potatis.
-2. Strömmingrullader med räkor, smörsås och potatispure.
+1. Rimmad skincka med rotmos, rödbetor och senapsås.
+2. Hackad pepparbif med grönpepparså, grönsaker och stekt potatis.
 
 ### Tisdag
 
-1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Bacon inbakad köttfärslimpa med jägarmästarsås, svamp och rönnbärsgele samt kokt potatis.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Laxfrestelse med räkor och saffransås. 
 
 ### Onsdag
 
-1. Biff ala stroganoff med ris, creme fraiche och inlagd gurka.
-2. Oxjärpar med tomatlöksås och kokt potatis.
+1. Köttgryta med grönsaker och kokt potatis.
+2. Ostgratinerad falukorv med potatismos och bostongurka.
 
 ### Torsdag
 
-1. Köttfärs soppa + tunna pannkakor med sylt och grädde.
-2. Smörstekt gösfile med hummersås, grönsaker och kokt potatis.
+1. Ärt soppa + tunna pannkakor med sylt och grädde.
+2. Smörstekt rödspättamed skaldjur och sås verte samt kokt potatis.
 
 ### Fredag
 
-1. Biff wallenberg med gräddsås, ärtor, lingon och potatismos.
-2. Kycklinggryta med banan, salta nötter, chillisås och stekt potatis.
+1. Helstekt fläskytterfile med kantarellsås, gele och potatisgratäng.
+2. Pasta penne med köttfärssås toppad med ost.
 
 ### Lördag & Söndag
 
