@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 47
+title: Lunch v 48
 permalink: /lunch/
 published: true
 ---
@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Torsdag
 
 1. Ärt soppa + tunna pannkakor med sylt och grädde.
-2. Smörstekt rödspättamed skaldjur och sås verte samt kokt potatis.
+2. Smörstekt rödspätta med skaldjur och sås verte samt kokt potatis.
 
 ### Fredag
 
