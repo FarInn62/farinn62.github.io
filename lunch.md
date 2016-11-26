@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Måndag
 
 1. Rimmad skincka med rotmos, rödbetor och senapsås.
-2. Hackad pepparbif med grönpepparså, grönsaker och stekt potatis.
+2. Hackad pepparbiff med grönpepparså, grönsaker och stekt potatis.
 
 ### Tisdag
 
@@ -27,7 +27,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Torsdag
 
-1. Ärt soppa + tunna pannkakor med sylt och grädde.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
 2. Smörstekt rödspätta med skaldjur och sås verte samt kokt potatis.
 
 ### Fredag
