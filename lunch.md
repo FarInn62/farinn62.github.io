@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Onsdag
 
-1. Tacobiff med salsasås, sallad och råstekta potatis.
+1. Tacobiff med salsasås, sallad och råstekt potatis.
 2. Smörstekt regnbågsforell med vitvinsås, heta räkor och kokt potatis.
 
 ### Torsdag
@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Fredag
 
 1. Vilt färsbullar med murkelsås, lingonsylt och kokt potatis.
-2. Fläskfile noisette med madeira och bearnaise sås, grönsaker samt stekt potatos.
+2. Fläskfile noisette med madeira och bearnaise sås, grönsaker samt stekt potatis.
 
 ### Lördag & Söndag
 
