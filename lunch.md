@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Onsdag
 
 1. Tacobiff med salsasås, sallad och råstekta potatis.
-2. Smörstekt regnbågsforel med vitvinsås, heta räkor och kokt potatis.
+2. Smörstekt regnbågsforell med vitvinsås, heta räkor och kokt potatis.
 
 ### Torsdag
 
