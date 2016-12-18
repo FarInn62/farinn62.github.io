@@ -22,8 +22,8 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Onsdag
 
-1. Kyckling gryta med grönsaksris och sallad.
-2. Pittipanna med stekt ägg och röbetor.
+1. Kycklinggryta med grönsaksris och sallad.
+2. Pittypanna med stekt ägg och röbetor.
 
 ### Torsdag
 
