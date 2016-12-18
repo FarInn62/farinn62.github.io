@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 50
+title: Lunch v 51
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Dansk sjömansbiff med lök-ölsås samt skivad potatis.
-2. Gratinerad torskfile med ostsås, kräftsjärtar, grönsaker och kokt potatios.
+1. Jägarstek med champinjonsås, äpple mos och kokt potatis.
+2. Lövbit med grönpepparsås, grönsaker och stekt potatios.
 
 ### Tisdag
 
-1. Stekt fläsk och grädd-löksås lingon och kokt potatis.
-2. Karre och kasslergryta med grönsaker och kokt potatis. 
+1. Raggmunkar med Stekt fläsk lingonsylt.
+2. Stekt rödspätta med kräftsås och kokt potatis. 
 
 ### Onsdag
 
-1. Ost och skinkfylld schnitzel med italiensk vinsås, grönsaker och stekt potatis.
-2. Vildmarks bullar enbärsås, lingon och potatismos.
+1. Kyckling gryta med grönsaksris och sallad.
+2. Pittipanna med stekt ägg och röbetor.
 
 ### Torsdag
 
-1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Grillad kycklingfile med dragonsås, sallad och stekt potatis.
+1. Köfärssoppa + tunna pannkakor med sylt och grädde.
+2. benfri kotlett med kantarellsås, lingonpure och kokt potatis.
 
 ### Fredag
 
-1. Herrgårdsstek med gräddsås, grönsaker, gele samt kokt potatis.
-2. kalvfärsbiff (wallenberg) med cremesås, ärter och potatispure.
+1. Jul lunch (Årets sista julbord)  Gäller ej som hämtmat.        120:-
+2. Helstekt fläskfile med tryffelsås, grönsaker och stekt potatis.
 
 ### Lördag & Söndag
 
