@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 52
+title: Lunch v 1
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. A la carte.
-2. God fortsättning önskar personalen.
+1. Oxbringa med rotmos och pepparotsås.
+2. Lasagne med sallad.
 
 ### Tisdag
 
-1. Bruna böner med Stekt fläsk och kokt potatis.
-2. Vitvin kokt torskfile med ägg -persiljasås och kokt potatis. 
+1. Raggmunkar med Stekt fläsk och lingonsylt.
+2. Gratinerad laxfrestelse med saffran och smörsås samt räkor. 
 
 ### Onsdag
 
-1. Stekt falukorv med potatismos och bostongurka dressing.
-2. Panerad kotlett med murkelsås, grönsaker och stekt potatis.
+1. Basel schnitzel med äpplecidersås stekta grönsaker, äpplemos och stekt potatis.
+2. Skomakarlåda med köttfärs och baconsås, lingonsylt och potatismos.
 
 ### Torsdag
 
-1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Köttgryta med rotgrönsaker och kokt potatis.
+1. Köttfärssoppa med creamefraiche + tunna pannkakor med sylt och grädde.
+2. Fläskfile med champinjonsås, bearnaisetopp, grönsaker och råstekt potatis.
 
 ### Fredag
 
-1. Helstekt oxryggbiff med sherry-tryffelsås, grönsaker samt rostade potatis.  
-2. Pannbiff med löksky, lingon, grönsaker och kokt potatis.
+1. A LA CARTE.  
+
 
 ### Lördag & Söndag
 
