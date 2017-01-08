@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 1
+title: Lunch v 2
 permalink: /lunch/
 published: true
 ---
@@ -12,27 +12,28 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Oxbringa med rotmos och pepparotsås.
-2. Lasagne med sallad.
+1. Karre och kasslergryta med grönsaker och kokt potatis.
+2. Stekt strömmings flundra med lingon, räkor och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med Stekt fläsk och lingonsylt.
-2. Gratinerad laxfrestelse med saffran och smörsås samt räkor. 
+2. Köttfärslimpa med gräddsås,grönsaker och kokt potatis. 
 
 ### Onsdag
 
-1. Basel schnitzel med äpplecidersås stekta grönsaker, äpplemos och stekt potatis.
-2. Skomakarlåda med köttfärs och baconsås, lingonsylt och potatismos.
+1. Älgfärs biff med kantarellsås, hjortronsylt och kokt potatis.
+2. Spagetti med köttfärssås och ost.
 
 ### Torsdag
 
-1. Köttfärssoppa med creamefraiche + tunna pannkakor med sylt och grädde.
-2. Fläskfile med champinjonsås, bearnaisetopp, grönsaker och råstekt potatis.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. Gulaschgryta med ris och sallad.
 
 ### Fredag
 
-1. A LA CARTE.  
+1. Paprika fylld kycklingbröst med zingorasås och grönsaksrisotto.  
+2. Grekisk biff med paprikasås, fetaost sallad och stekt potatis.
 
 
 ### Lördag & Söndag
