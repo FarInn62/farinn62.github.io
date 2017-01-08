@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Tisdag
 
 1. Raggmunkar med Stekt fläsk och lingonsylt.
-2. Köttfärslimpa med gräddsås,grönsaker och kokt potatis. 
+2. Köttfärslimpa med gräddsås, grönsaker och kokt potatis. 
 
 ### Onsdag
 
