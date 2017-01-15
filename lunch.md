@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Biff lindström med brunsås, grönsaker och kokt potatis.
+1. Biff a la lindström med brunsås, grönsaker och kokt potatis.
 2. Lasagne med Sallad.
 
 ### Tisdag
