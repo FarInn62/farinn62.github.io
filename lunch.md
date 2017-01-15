@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Onsdag
 
 1. Kalops med rödbetor och kokt potatis.
-2. Ångad torskrygg med sherrysås,sparris, kräftsjärtar samt kokt ris.
+2. Ångad torskrygg med sherrysås, sparris, kräftsjärtar samt kokt ris.
 
 ### Torsdag
 
@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 60:-
 ### Fredag
 
 1. Tex mex gryta med risotto och sallad.  
-2. Stekt gösfile med hummarsås, grönsaker och kokt potatis.
+2. Stekt gösfile med hummersås, grönsaker och kokt potatis.
 
 
 ### Lördag & Söndag
