@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 60:-
 
 ### Måndag
 
-1. Kalvfärsbiff (Wallenbergare) med såscreme rårörda lingon,ärtor och potatispure´.
+1. Kalvfärsbiff (Wallenbergare) med såscreme rårörda lingon, ärtor och potatispure´.
 2. Stekt falukorv med stuvade makaroner.
 
 ### Tisdag
