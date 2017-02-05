@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
 
 1. Köttfärs soppa med creme fräche + tunna pannkakor med sylt och grädde.
-2. Pnerad schnitzel med äppelcidersås, grönsaker och potatispure.
+2. Panerad schnitzel med äppelcidersås, grönsaker och potatispure.
 
 ### Fredag
 
