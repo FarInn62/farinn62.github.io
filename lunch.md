@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 5
+title: Lunch v 6
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Dillköttgryta med morötter och kokt potatis.
-2. Stekt lunchkorv med potatismos och baconsås.
+1. Grekisk färsbiff med sallad, tzatziki dressing och kokt potatis.
+2. Lasagne med sallad.
 
 ### Tisdag
 
-1. Raggmunkar med Stekt fläsk och lingonsylt.
-2. Kokt lax med vitvinsås, grönsaker, räkor och kokt potatis. 
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Stekt rödsätta med sås verte, räkor och kokt potatis. 
 
 ### Onsdag
 
-1. Korvstroganoff med ris och inlagd gurka.
-2. Fläsk noisette med brunsås, stekta rödbetor och kapris samt kokt potatis.
+1. Helstekt fläskytterfile med kantarellsås, grönsaker, lingon samt kokt potatis.
+2. Ung tupp i vinsås med sallad och ris.
 
 ### Torsdag
 
-1. Lax och räksoppa + tunna pannkakor med sylt och grädde.
-2. Wiener färslimpa med grönpepparsås, broccoli och kokt potatis.
+1. Köttfärs soppa med creme fräche + tunna pannkakor med sylt och grädde.
+2. Pnerad schnitzel med äppelcidersås, grönsaker och potatispure.
 
 ### Fredag
 
-1. Helstekt entrecote med sherrytryfflesås, grönsaker oc råstekta potatis.  
-2. Spagetti med köttfärssås toppad med ost.
+1. Grill biff med Grönpepparsås och potatisgratäng.  
+2. Skomakarlåda med baconsås, lingonpure och potatismos.
 
 
 ### Lördag & Söndag
