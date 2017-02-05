@@ -32,7 +32,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Fredag
 
-1. Helstekt entrecote med sherrytryfflesås, grönsaker och råstekta potatis.  
+1. Helstekt entrecote med sherrytryfflesås, grönsaker oc råstekta potatis.  
 2. Spagetti med köttfärssås toppad med ost.
 
 
