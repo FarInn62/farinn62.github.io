@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Onsdag
 
-1. Benfri kotlett med chmpinjonsås, äppelmos, sallad samt kokt potatis.
+1. Benfri kotlett med champinjonsås, äppelmos, sallad samt kokt potatis.
 2. Gratinerad torskfile med hummersås, räksalad och kokt potatis.
 
 ### Torsdag
