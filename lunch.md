@@ -28,11 +28,11 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
 
 1. Köttfärssoppa med creme freiche + tunna pannkakor med sylt och grädde.
-2. Korvstroganoff med gurka och potispure.
+2. Korvstroganoff med gurka och potatispure.
 
 ### Fredag
 
-1. Renskav med potatismos och röbeor och lingon.  
+1. Renskav med potatismos och rödbetor och lingon.  
 2. Smörstekt torskfile med krabbsås, grönsaker och kokt potatis.
 
 
