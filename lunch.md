@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Fredag
 
 1. Renskav med potatismos och rödbetor och lingon.  
-2. Smör stekt torskfile med krabbsås, grönsaker och kokt potatis.
+2. Smörstekt torskfile med krabbsås, grönsaker och kokt potatis.
 
 
 ### Lördag & Söndag
