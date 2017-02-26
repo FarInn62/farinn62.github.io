@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v 8
+title: Lunch v 9
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kåldolmar med brunsås, lingon och kokt potatis.
-2. Bacon inbakad lunch korv med persilja stuvad potatis.
+1. Kassler och karregryta med grönsaker, äpplemos och kokt potatis.
+2. Marinerad fläsknoisett med potatisgratäng och rödbets dressing.
 
 ### Tisdag
 
 1. Raggmunkar med Stekt fläsk, lingonsylt.
-2. Köttfärslimpa med kantarellsås grönsaker och kokt potatis. 
+2. Stekt rödspätta med grabbsås, grönsaker och kokt potatis. 
 
 ### Onsdag
 
-1. Kycklingfile med ädelostsås, spenat och ris.
-2. Strömmings flundra med smörsås, räkor, rårörda lingon och potatismos.
+1. Ost och skinkfylld schnitzel med rödvinsky, grönsaker och stekt potatis.
+2. Wärdshus biff med löksås, sallad och kokt potatis.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme freiche + tunna pannkakor med sylt och grädde.
-2. Korvstroganoff med gurka och potatispure.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. Krabbgryta med ris och tomatsalsa.
 
 ### Fredag
 
-1. Renskav med potatismos och rödbetor och lingon.  
-2. Smörstekt torskfile med krabbsås, grönsaker och kokt potatis.
+1. Lövbiff med tomatiserad bearnaisesås (charone) grönsaker och stekt potatis.  
+2. Lax frestelse med smör och saffransås samt ärtor och räkor.
 
 
 ### Lördag & Söndag
