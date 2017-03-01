@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med Stekt fläsk, lingonsylt.
-2. Stekt rödspätta med grabbsås, grönsaker och kokt potatis. 
+2. Stekt rödspätta med krabbsås, grönsaker och kokt potatis. 
 
 ### Onsdag
 
@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
 
 1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Krabbgryta med ris och tomatsalsa.
+2. Keabbgryta med ris och tomatsalsa sås.
 
 ### Fredag
 
