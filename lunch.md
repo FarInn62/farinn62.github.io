@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Måndag
 
 1. Kalv kotlett (ossobuco) i bordelaisesås, grönsaker och pasta penne.
-2. Stekt falu korv med potatismos, bostongurka och majonäs.
+2. Stekt falu korv med potatismos, boston gurka och majonäs.
 
 ### Tisdag
 
@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Onsdag
 
 1. Dillköttgryta med morötter och kokt potatis.
-2. Wärdshus biff med löksås, sallad och kokt potatis.
+2. Biff ala lindström med prsiljesmör, grönsaker, vinsås och kokt potatis.
 
 ### Torsdag
 
