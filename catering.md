@@ -7,8 +7,9 @@ published: true
 
 * Till följande bufféer ingår potatisgratäng eller potatissallad samt sallader.
 * Minsta antal personer är 15.
-* Observera att det tillkommer 55 kr pp för alla bufféer om beställningen intas i vår restaurang. Alla priser gäller endast mat och transport.
+* Observera att det tillkommer 55 kr pp för alla bufféer om beställningen intas i vår restaurang. 
 * Obsevera att servis (tallrikar, glas, bestick, dukar) ej ingår. För komplett catering tilkommer 35:- pp.
+  Transport tillkommer.
 
 Välkommen att ringa 0563-50007 för bokning eller maila till info@farinn62.com
 
