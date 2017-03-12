@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v10
+title: Lunch v11
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kalv kotlett (ossobuco) i bordelaisesås, grönsaker och pasta penne.
-2. Stekt falu korv med potatismos, boston gurka och majonäs.
+1. Grillad kyckling med currysås, ananassallad och ris.
+2. Laxfärsbiff med vertesås, räkor och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med Stekt fläsk, lingonsylt.
-2. Köttbullar med stuvade makaroner samt sallad. 
+2. Benfri kotlett med murkelsås, grönsaker och kokt potatis. 
 
 ### Onsdag
 
-1. Dillköttgryta med morötter och kokt potatis.
-2. Biff ala lindström med prsiljesmör, grönsaker, vinsås och kokt potatis.
+1. Kalops med rödbetor och kokt potatis.
+2. Pastapenne med köttfärssås och ost.
 
 ### Torsdag
 
-1. Köttfärs soppa med creme fraiche + tunna pannkakor med sylt och grädde.
-2. Smörstekt spätta med skagensås, grönsaker och kokt potatis.
+1. Spenatsoppa med ägghalva + tunna pannkakor med sylt och grädde.
+2. Dansk sjömansbiff med persiljesmör och löksås samt råstekt potatis.
 
 ### Fredag
 
-1. Helstekt fläskfile med sherry och bearnaisesås samt grönsaker och stekt potatis.  
-2. Skomakar låda med baconsås, lingonpure och potatismos.
+1. Wienerfärslimpa med kantarellsås, lingonsylt och kokt potatis.  
+2. Smörstekt gösfile med hummersås, grönsaker och kokt potatis.
 
 
 ### Lördag & Söndag
