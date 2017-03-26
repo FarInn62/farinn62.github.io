@@ -12,12 +12,12 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Luxiga viltbiffar med svartvinbärsås, baconstekta kantareller och kokt potatis.
+1. Lyxiga viltbiffar med svartvinbärsås, baconstekta kantareller och kokt potatis.
 2. Strömmings flundra med smörsås, lingon, räkor och potatismos.
 
 ### Tisdag
 
-1. Bruna böner med Stekt fläsk, och kokt potatis.
+1. Bruna bönor med Stekt fläsk, och kokt potatis.
 2. Kassler med ananas salsa, tomatlöksås och kokt ris. 
 
 ### Onsdag
