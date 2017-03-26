@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v12
+title: Lunch v13
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Wienerschnitzel med brunsås, ärter och stekt potatis.
-2. Korvstrogonoff ris och gurka.
+1. Luxiga viltbiffar med svartvinbärsås, baconstekta kantareller och kokt potatis.
+2. Strömmings flundra med smörsås, lingon, räkor och potatismos.
 
 ### Tisdag
 
-1. Raggmunkar med Stekt fläsk, lingonsylt.
-2. Fläskfile med bearnaisesås, grönsaker och kokt potatis. 
+1. Bruna böner med Stekt fläsk, och kokt potatis.
+2. Kasler med ananas salsa, tomatlöksås och kokt ris. 
 
 ### Onsdag
 
-1. Oxbringa med rotmos, pepparotsås och rödbetor.
-2. Kalvfärsbiff med champinjonsås äppelsås, grönsaker och kokt potatis.
+1. Köttgryta med grönsaker och kokt potatis.
+2. Ostpanerad schnitzel med madeirasås, sallad och stekt potatis.
 
 ### Torsdag
 
-1. Köttfärs soppa + tunna pannkakor med sylt och grädde.
-2. Skaldjurssås gratinerad torskfile med heta räkor och kokt potatis.
+1. Ärtsoppa + tunna pannkakor med sylt och grädde.
+2. paprikafylld kycklingbröst med äppelcidersås och stekt potatis.
 
 ### Fredag
 
-1. Herrgårdsstek med gräddsås, rotgrönsaker, lingonsylt och kokt potatis.  
-2. Pyttipanna med stekt ägg och rödbetor.
+1. Basel schnitzel med sherrysås, stekt grönsaker, äppel och råstekta potatis.  
+2. Vitvinkokt Lax med räksås, grönsaker och potatispure.
 
 
 ### Lördag & Söndag
