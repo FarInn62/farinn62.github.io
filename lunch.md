@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Bruna böner med Stekt fläsk, och kokt potatis.
-2. Kasler med ananas salsa, tomatlöksås och kokt ris. 
+2. Kassler med ananas salsa, tomatlöksås och kokt ris. 
 
 ### Onsdag
 
