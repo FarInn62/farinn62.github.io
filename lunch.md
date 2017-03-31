@@ -12,12 +12,12 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kokt torskfile med ägg-persiljesås,ärter och kokt potatis.
+1. Kokt torskfile med ägg-persiljesås, ärter och kokt potatis.
 2. Oxjärpar med gräddsås, lingon, inlagd gurka och potatismos.
 
 ### Tisdag
 
-1. Raggmunkar och Stekt fläsk,lingonsylt.
+1. Raggmunkar och Stekt fläsk, lingonsylt.
 2. Kasslergryta med sallad och kokt potatis. 
 
 ### Onsdag
