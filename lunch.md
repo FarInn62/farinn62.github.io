@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch v14
+title: Lunch v15
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kokt torskfile med ägg-persiljesås, ärter och kokt potatis.
-2. Oxjärpar med gräddsås, lingon, inlagd gurka och potatismos.
+1. Chili con carne med ris och sallad.
+2. Baconinbakad lunchkorv med persiljestuvad potatis och bostongurka.
 
 ### Tisdag
 
 1. Raggmunkar och Stekt fläsk, lingonsylt.
-2. Kasslergryta med sallad och kokt potatis. 
+2. Kalvfärslimpa med grönpepparsås, broccoli och kokt potatis. 
 
 ### Onsdag
 
-1. Ostgratinerad falukorv i tomatsås och potatispure.
-2. Älgfärsbiff med kantarellsås, lingon, grönsaker och kokt potatis.
+1. Kycklingfile Gordon Bleu med edelostsås, spenat, tomatsalsa och stekt potatis.
+2. Köttbullar i gräddsås och spagetti sallad.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche + tunna pannkakor med sylt och grädde.
-2. Biff ala Lindström med rödvinsky och persiljesmör, grönsaker och kokt potatis.
+1. Sparris soppa+ tunna pannkakor med sylt och grädde.
+2. Panerad schnitzel med cafe de paris sås, grönsaker och rostad potatis.
 
 ### Fredag
 
-1. Lövbiff (äkta) med bearnaise sås, grönsaker och stekta potatis.  
-2. Smörstekt Gösfile med krabbsås och kokt potatis.
+1. A LA CARTE
+2. Glad Påsk önskar personalen.
 
 
 ### Lördag & Söndag
