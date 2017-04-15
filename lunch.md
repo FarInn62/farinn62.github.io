@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Fredag
 
 1. Biff stroganoff med ris och smetana gurka.
-2. Fläskfile noisette med tryffel och såsbearnaise, grönsaker och råstekt potatis.
+2. Fläskfile noisette med tryffel-bearnaissås, grönsaker och råstekt potatis.
 
 
 ### Lördag & Söndag
