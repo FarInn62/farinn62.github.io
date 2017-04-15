@@ -17,7 +17,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Tisdag
 
-1. Stekt fäsk med löksås, lingonsylt och kokt potatis.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
 2. Ångad torskfile med räksås, gerönsaker och kokt potatis. 
 
 ### Onsdag
