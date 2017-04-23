@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Oxbringa med rotmos och pepparotsås samtröd betor .
+1. Oxbringa med rotmos och pepparotsås samt rödbetor .
 2. Köttbullar med stuvad makaroner.
 
 ### Tisdag
