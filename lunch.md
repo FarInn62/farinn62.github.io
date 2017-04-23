@@ -17,7 +17,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Tisdag
 
-1. Raggmunk och rimmad stäkt fläsk, lingonsylt och kokt potatis.
+1. Raggmunk med rimmad stäkt fläsk, lingonsylt och kokt potatis.
 2. Stekt rödspätta med räkmajonäs, sallad och kokt potatis. 
 
 ### Onsdag
