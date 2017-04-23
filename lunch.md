@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
 
 1. Ärtsoppa + tunna pannkakor med sylt och grädde.
-2. Scweitzer schnitzel med ostsås, grönsaker och stekt potatis.
+2. Schweitzer schnitzel med ostsås, grönsaker och stekt potatis.
 
 ### Fredag
 
