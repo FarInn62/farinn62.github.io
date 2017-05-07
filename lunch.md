@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.18
+title: Lunch V.19
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. A LA CARTE .
-2. VI ÖNSKAR GLAD VÅR.
+1. Ungersk gulaschgryta med ris och tomatsallad.
+2. Grekisk färsbiff med ztatzikidressing, potatismos och sallad.
 
 ### Tisdag
 
 1. Raggmunk med rimmad stäkt fläsk, lingonsylt och kokt potatis.
-2. Senapmarinerad strömmingflundra med smörsås, räkor, lingon och kokt potatis. 
+2. Smörstekt torskfile med räksås och kokt potatis. 
 
 ### Onsdag
 
-1. Rimmad skincka med senapsås, rotmos och rödbetor.
-2. Mandeltoppad torsk med vitvinsås, socker ärtor, tomat och kokt potatis.
+1. Benfri kotlett med rosepepparsås, stekt ananas, tomat, ärter samt stekt potatis.
+2. Spagetti bolognase, sallad.
 
 ### Torsdag
 
-1. Sommarsoppa med bacon + tunna pannkakor med sylt och grädde.
-2. Friterad schnitzel med äppelvinsås, grönsaker och stekt potatis.
+1. Köttfärs soppa med creme fräiche + tunna pannkakor med sylt och grädde.
+2. Panerad kycklingbröst med salsasås, grönsaker och råstekt potatis.
 
 ### Fredag
 
-1. Lövbiff Black & White, grönsaker och stekt potatis.
-2. Oxjärpor med cremesås, sallad och potatispure.
+1. Fläskfile med tomatiserad bearnaisesås (charonsås) toppad med kräftsjärtor, sparris och stekt potatis.
+2. Lasagne med sallad.
 
 
 ### Lördag & Söndag
