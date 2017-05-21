@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.20
+title: Lunch V.21
 permalink: /lunch/
 published: true
 ---
@@ -12,30 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Stekt kassler med ananas salsa, örtsås och kokt potatis.
-2. Köttbullar i gräddsås, potatismos och grön salad.
+1. Karre och kasllergryta med sallad och kokt potatis.
+2. Pyttipanna med ägg och rödbetor.
 
 ### Tisdag
 
-1. Raggmunk med rimmad stäkt fläsk, lingonsylt och kokt potatis.
-2. Stekt rödspätta med vitvinsås, kräftstjärtar och kokt potatis. 
+1. Stekt fläsk med löksås, lingon och kokt potatis.
+2. Hummersås gratinerad sejfile med grönsaker, räkor och kokt potatis. 
 
 ### Onsdag
 
-1. Kyckling schnitzel med curry gräddsås, strimlad gurka, sylt tomater och kokt ris.
-2. Stekt falukorv med stuvade makaroner samt sallad.
+1. Biff lindström med rödvinsås, grönsaker och kokt potatis.
+2. Pasta penne med köttfärssås, ostcreme samt soltorkade tomater.
 
 ### Torsdag
 
-1. Spenat soppa med ägghalva + tunna pannkakor med sylt och grädde.
-2. Älgfärsbiff med kantarellsås, hjortronsylt, grönsaker och kokt potatis.
+   A LA CARTE.
 
 ### Fredag
 
-1. Köttfärslimpa med baconsås, lingonpure och potatismos.
-2. Rost biff med potatis sallad, pickles och rårörda lingon.
-
+1. Helstekt fläskfile med tryffelsås, grönsaker, bearnaisesås och stekt potatis.
+2. Tex mex biff med grillsås, stekta grönsaker och råstekta potatis.
 
 ### Lördag & Söndag
-
 Á la Carte
+Morsdags meny välkommen att boka på 056350007 el 0705152816
