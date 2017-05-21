@@ -35,5 +35,5 @@ Alla rätter: 80:- Take away: 65:-
 2. Tex mex biff med grillsås, stekta grönsaker och råstekta potatis.
 
 ### Lördag & Söndag
-Á la Carte
+Á la Carte -
 Morsdags meny välkommen att boka på 056350007 el 0705152816
