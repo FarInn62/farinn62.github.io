@@ -27,14 +27,14 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Torsdag
 
- 1. Köttfärssoppa med creme fräiche ? tunna pankakor, sylt och grädde.
+ 1. Köttfärssoppa med creme fräiche + tunna pankakor, sylt och grädde.
  2. Fläsk noisette med kantarellsås, äppelmos och stekt potatis.
 
 ### Fredag
 
 1. Biff stroganoff med inlagd gurka och kokt ris.
-2. Stekt lax med skagensås,räkor och kokt potatis.
+2. Stekt lax med skagensås, räkor och kokt potatis.
 
 ### Lördag & Söndag
-Á la Carte -
-Morsdags meny välkommen att boka på 056350007 el 0705152816
+Á la Carte - Välkommen
+
