@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.22
+title: Lunch V.23
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Skomakarlåda med baconsås, lingon sylt och potatismos.
-2. Köttbullar med stuvade pasta och sallad.
+1. Dansk sjömansbiff (hackad) med ölsås, persiljesmör och skivad potatis.
+2. Smörstekt rödspätta med räkmajonäs och kokt potatis.
 
 ### Tisdag
 
+NATIONALDAGEN
 1. Raggmunkar och fläsk med lingonsylt.
-2. Kokt falukorv med pepparotsås och morotspure. 
+2. A LA CARTE. 
 
 ### Onsdag
 
-1. Kycklinggryta med bananer (Indiana) samt grönsaker och ris.
-2. Stekt strömmingsflundra med dill, räksås och potatispure.
+1. Mexicansk chili con carne köttgryta med creme fraiche, sallad och kokt potatis.
+2. Grekisk biff med tzatziki dressing, tomat sallad med oliver och stekt potatis.
 
 ### Torsdag
 
- 1. Köttfärssoppa med creme fräiche + tunna pankakor, sylt och grädde.
- 2. Fläsk noisette med kantarellsås, äppelmos och stekt potatis.
+ 1. Sommarsoppa + tunna pankakor, sylt och grädde.
+ 2. Basel schnitzel med äppelcidersås, äpplemos och rostad potatis.
 
 ### Fredag
 
-1. Biff stroganoff med inlagd gurka och kokt ris.
-2. Stekt lax med skagensås, räkor och kokt potatis.
+1. Älgfärsbiff med viltsås, rårörda lingon, grönsaker och stekt potatis.
+2. Gratinerad gösfile med krabbsås, sallad och duchesse potatis.
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
