@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Onsdag
 
 1. Kokt rimmad sommar skincka med rotmos och senapsås.
-2. Bacon inbakad köttfärslimpa med chminjonsås, lingon och kokt potatis.
+2. Bacon inbakad köttfärslimpa med chmpinjonsås, lingon och kokt potatis.
 
 ### Torsdag
 
