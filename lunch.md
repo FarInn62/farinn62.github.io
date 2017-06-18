@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.24
+title: Lunch V.25
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Köttgryta med rotsaker och kokt potatis.
-2. Pasta penne med lax och räksås samt strimlad ost.
+1. Älgskav med potatismos, lingon och murkelsås.
+2. Smörstekt strömmingsflundra med smörsås, räkor och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar och fläsk med lingonsylt.
-2. Stekt falukorv med stuvad makaroner. 
+2. Spagetti Corbonara med bacon-ostsås samt sallad. 
 
 ### Onsdag
 
-1. Kokt rimmad sommar skincka med rotmos och senapsås.
-2. Bacon inbakad köttfärslimpa med chmpinjonsås, lingon och kokt potatis.
+1. Kyckling gryta med saltanötter, bananer, chilisås och kokt ris.
+2. Köttfärs tornodos med rödvinsås, grönsaker och stekt potatis.
 
 ### Torsdag
 
- 1. Spenatsoppa med ägghalva + tunna pankakor, sylt och grädde.
- 2. Ostpanerad schnitzel med cafe de parissås, sallad och stekt potatis.
+ 1. Sommarsoppa+ tunna pankakor, sylt och grädde.
+ 2. Helstekt fläskytterfile med kantarellsås, stekta grönsaker, rödlök och kokt potatis.
 
 ### Fredag
 
-1. Marinerad kyckling bröst med londonhouse sås grönsaker och potatiskaka.
-2. Rökt skinka med potatissallad och dragon dressing.
+1. Midsommar afton är restaurangen stängd.
+2. GLAD MIDSOMMAR ÖNSKAR PERSONALEN.
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
