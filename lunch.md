@@ -27,7 +27,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Torsdag
 
- 1. Rödbetssoppamed smetana + tunna pankakor, sylt och grädde.
+ 1. Rödbetssoppa med smetana + tunna pankakor, sylt och grädde.
  2. Italiensk färsbiff med paprikasås, grönsaker och stekt potatis.
 
 ### Fredag
