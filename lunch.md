@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.29
+title: Lunch V.30
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Chili concarne med ris och sallad.
-2. Strömmings rullader med potatispure och räksallad.
+1. Oxbringa med rotmos och pepparotsås.
+2. lasagne med sallad.
 
 ### Tisdag
 
 1. Raggmunkar och fläsk med lingonsylt.
-2. Köttbullar med gräddsås och kokt potatis. 
+2. Stekt torsfile med spenat, smörsås, räkor och kokt potatis. 
 
 ### Onsdag
 
-1. Kalops med röbetor och stekt potatis.
-2. Älgfärsbiff med kantarellsås, lingonsylt och kokt potatis.
+1. kalvfärsbiff med cremsås, ärtor, lingon och potatismos.
+2. Lax schnitzel med krabbsås, grönsaker och kokt potatis.
 
 ### Torsdag
 
- 1. Spenatsoppa med ägghalva+ tunna pankakor, sylt och grädde.
- 2. ostpanerad schnitzel med cafe de paris sås, grönsaker och stekt potatis.
+ 1. Köttfärssoppa med creme fraiche + tunna pankakor, sylt och grädde.
+ 2. Dillköttgryta med morötter och kokt potatis.
 
 ### Fredag
 
-1. Kycklingfile med rosepeppaesås, grönsaker och stekt potatis.
-2. Dansk sjömansbiff med ölsås, råstekt potatis och sallad.
+1. Basel noisetter med äpplecidersås, äpplemos samt grönsaker och stekt potatis.
+2. Vitvinsås gratinerad gösfile med räkor och potatismos.
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
