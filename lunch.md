@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Oxbringa med rotmos och pepparotsås.
-2. lasagne med sallad.
+1. Pyttipanna med stekt ägg samt inlaggd rödbetor.
+2. Beconfylld köttfaärslimpa med chmpinjonsås, grönsaker och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar och fläsk med lingonsylt.
-2. Stekt torsfile med spenat, smörsås, räkor och kokt potatis. 
+2. Vitvinkokt torskrygg med skagensås, sallad och kokt potatis. 
 
 ### Onsdag
 
-1. kalvfärsbiff med cremsås, ärtor, lingon och potatismos.
-2. Lax schnitzel med krabbsås, grönsaker och kokt potatis.
+1. Köttgryta med rotgrönsaker och kokt potatis.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Torsdag
 
- 1. Köttfärssoppa med creme fraiche + tunna pankakor, sylt och grädde.
- 2. Dillköttgryta med morötter och kokt potatis.
+ 1. Lax och räksoppa + tunna pankakor, sylt och grädde.
+ 2. Musketörens kotlett med bearnäse sås lingonpure och stekt potatis.
 
 ### Fredag
 
-1. Basel noisetter med äpplecidersås, äpplemos samt grönsaker och stekt potatis.
-2. Vitvinsås gratinerad gösfile med räkor och potatismos.
+1. Porterstek med grädd- madeirasås, sommar grönsaker och kokt potatis samt lingonpure.
+2. Kryddiga karrespett med chilisås, sallad och stekt potatis.
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
