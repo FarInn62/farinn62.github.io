@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Måndag
 
 1. Pyttipanna med stekt ägg samt inlaggd rödbetor.
-2. Beconfylld köttfaärslimpa med chmpinjonsås, grönsaker och kokt potatis.
+2. Becon fylld köttfaärslimpa med chmpinjonsås, grönsaker och kokt potatis.
 
 ### Tisdag
 
@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Onsdag
 
-1. Köttgryta med rotgrönsaker och kokt potatis.
+1. Köttgryta med rot grönsaker och kokt potatis.
 2. Stekt falukorv med stuvade makaroner.
 
 ### Torsdag
