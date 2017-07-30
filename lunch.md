@@ -12,8 +12,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Pyttipanna med stekt ägg samt inlaggd rödbetor.
-2. Becon fylld köttfaärslimpa med chmpinjonsås, grönsaker och kokt potatis.
+1. Pyttipanna med stekt ägg samt inlaggda rödbetor.
+2. Becon fylld köttfärslimpa med champinjonsås, grönsaker och kokt potatis.
 
 ### Tisdag
 
@@ -27,8 +27,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Torsdag
 
- 1. Lax och räksoppa + tunna pankakor, sylt och grädde.
- 2. Musketörens kotlett med bearnäse sås lingonpure och stekt potatis.
+ 1. Lax och räksoppa + tunna pannkakor, sylt och grädde.
+ 2. Musketörens kotlett med såsbearnaise lingonpure och stekt potatis.
 
 ### Fredag
 
