@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Onsdag
 
-1. Ostfylld panerad schnitzel med rödvin, grönsaker och stekt potatis.
+1. Ostfylld panerad schnitzel med rödvinsås, grönsaker och stekt potatis.
 2. Stekt rödspätta med vertesås, räkor och kokt potatis.
 
 ### Torsdag
