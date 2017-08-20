@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.33
+title: Lunch V.34
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Hemlagad pannbiff med löksås, grönsaker och kokt potatis.
-2. Stekt strömmings flundra med smörgås, lingon och potatismos.
+1. Gulaschgryta med ris och sallad.
+2. Wärdshusbiff med paprikasås, strimlad gurka samt potatis pure.
 
 ### Tisdag
 
 1. Raggmunkar och fläsk med lingonsylt.
-2. Hummersås gratinerad torskfile med räkor, sallad och kokt potatis. 
+2. Stekt falukorv med gratinerad broccoli och sallad. 
 
 ### Onsdag
 
-1. Viltmarinerad karrestek med portvinstuvade champinjoner, äpplemos och kokt potatis.
-2. Pyttipanna med rödbetor, toppad med stekt ägg.
+1. Baconinbakad köttfärs tornados med tomatieserad löksås, stekt potatis.
+2. Nötlevergryta med rårörda lingon och grönsaksris.
 
 ### Torsdag
 
- 1. Köttfärssoppa + tunna pannkakor, sylt och grädde.
- 2. Älgfrärsbiff med kantarellsås, rårörda lingon, grönsaker och kokt potatis.
+ 1. Kött och grönsaksoppa + tunna pannkakor, sylt och grädde.
+ 2. Grill/ stekt kycklingfile med ädelostsås, tomatsalsa och stekt potatis.
 
 ### Fredag
 
-1. Lövbiff med grönpepparsås, grönsaker och stekt potatis.
-2. Kålpudding med cremesås, lingon och kokt potatis.
+1. Helstekt fläskfile med londonhouse sås, stekta grönsaker och rostad potatis.
+2. Skomakarlåda med lingon och baconsås samt potatismos .
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
