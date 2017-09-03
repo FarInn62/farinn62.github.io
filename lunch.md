@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.35
+title: Lunch V.36
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Biffstroganoff med potatismos, inlagd gurka och creme fraiche.
-2. Stekt falukorv med stuvade morötter och stekt potatis.
+1. Hackad pepparbiff med grönpepparsås rödvinbärsgele, grönsaker och stekt potatis  .
+2. Spagetti köttfärssås toppad med riven ost.
 
 ### Tisdag
 
 1. Raggmunkar och fläsk med lingonsylt.
-2. Smörstekt rödspätta med räksås, sallad och kokt potatis. 
+2. Stekt torsfile med räkmajonäs, sallad och potatismos.
 
 ### Onsdag
 
-1. Kalvfärsbiff ( Wallenbergare) med gräddsås, lingon, ärter samt potatismos.
-2. Vivinkokt torsk med skagensås, kräftsjärtor och kokt potatis.
+1. Fläskfilegryta med grönsaker och kokt potatis.
+2. Stekt kycklinffile med ananas-currysås samt grönsaks risotto.
 
 ### Torsdag
 
- 1. Lax och räksoppa+ tunna pannkakor, sylt och grädde.
- 2. Panerade kotletter ( Ossobucco)med italiensk tomatsås, spenat och råstekt potatis.
+ 1. Köttfärssoppa, tunna pannkakor, sylt och grädde.
+ 2. Kalvschnitzel med grädd smörsås, haricotvertes och råstekt potatis.
 
 ### Fredag
 
-1. Biffstek med stektlök, madeirasås, gröna bönor och stekt potatis.
-2. Lasagne med sallad .
+1. Ostpanerad schnitzel med tomatiserad bearnaisesås, sparris och tomat samt stekt potatis.
+2. Skomakar lådamed baconsås,lingon och potatismos.
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
