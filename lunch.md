@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Onsdag
 
 1. Fläskfilegryta med grönsaker och kokt potatis.
-2. Stekt kycklinffile med ananas-currysås samt grönsaks risotto.
+2. Stekt kycklingfile med ananas-currysås samt grönsaks risotto.
 
 ### Torsdag
 
@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Fredag
 
 1. Ostpanerad schnitzel med tomatiserad bearnaisesås, sparris och tomat samt stekt potatis.
-2. Skomakar lådamed baconsås,lingon och potatismos.
+2. Skomakarlåda med baconsås,lingon och potatismos.
 
 ### Lördag & Söndag
 Á la Carte - Välkommen
