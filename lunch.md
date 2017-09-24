@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och kokt potatis.
-2. Älgfärsbiff med trattkantarellsås, grönsaker, lingon och kokt potatis.
+2. Älgfärslimpa med trattkantarellsås, grönsaker, lingon och kokt potatis.
 
 ### Onsdag
 
