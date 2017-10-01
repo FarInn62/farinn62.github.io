@@ -36,4 +36,4 @@ Alla rätter: 80:- Take away: 65:-
 2. Hummersås gratinerad gösfile, räksallad och potatismos.
 
 ### Lördag & Söndag
-Á la Carte - Välkommen
+A la Carte - Välkommen
