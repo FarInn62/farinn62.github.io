@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Marinerad karrstek med trattkantarelsås, äpplemos och kokt potatis.
+1. Marinerad karrestek med trattkantarellsås, äpplemos och kokt potatis.
 2. Gräddstuvad nötlever med koktris och lingonsylt.
 
 ### Tisdag
@@ -23,11 +23,11 @@ Alla rätter: 80:- Take away: 65:-
 ### Onsdag
 
 1. Köttgryta med grönsaker och kokt potatis.
-2. Stekt torskfile med kräftsås, äter och kokt potatis.
+2. Stekt torskfile med kräftsås, ärter och kokt potatis.
 
 ### Torsdag
 
- 1. Köttsoppa med creme-fräiche och tunna pannkakor, sylt och grädde.
+ 1. Köttfärssoppa med creme-fraiche och tunna pannkakor, sylt och grädde.
  2. Helstekt fläskfile med cafe de parissås, grönsaker och stekt potatis.
 
 ### Fredag
