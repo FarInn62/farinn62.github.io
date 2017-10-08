@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.40
+title: Lunch V.41
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Wärdshusbiff med brunsås, lingon, saltgurka och stekt potatis.
-2. Spagetti Carbonera toppad med ost.
+1. Marinerad karrstek med trattkantarelsås, äpplemos och kokt potatis.
+2. Gräddstuvad nötlever med koktris och lingonsylt.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och kokt potatis.
-2. Frityrstekt torskfile med skaldjur, smörsås, grönsaker och kokt potatis.
+2. Skomakarlåda med baconsås, lingon och potatismos.
 
 ### Onsdag
 
-1. Grillstekt kycklingfile med ädelostsås, smörkokt spenat och rostade potatis.
-2. Isterband med senapscerme, kokt morötter och persiljestuvad potatis.
+1. Köttgryta med grönsaker och kokt potatis.
+2. Stekt torskfile med kräftsås, äter och kokt potatis.
 
 ### Torsdag
 
- 1. Röbetssoppa med creme-fräiche och tunna pannkakor, sylt och grädde.
- 2. Chili con carne med ris och sallad.
+ 1. Köttsoppa med creme-fräiche och tunna pannkakor, sylt och grädde.
+ 2. Helstekt fläskfile med cafe de parissås, grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Schweizisk schnitzel med sherrysås, rostade paprika och stekt potatis.
-2. Hummersås gratinerad gösfile, räksallad och potatismos.
+1. Älgskav med kantarellsås, lingon och potatispure.
+2. Oxfile biff med sparris, tryffelsås, tomatsalsa och stekt potatis.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
