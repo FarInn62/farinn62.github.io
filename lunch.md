@@ -28,7 +28,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
 
  1. Köttfärssoppa med creme-fraiche och tunna pannkakor, sylt och grädde.
- 2. Helstekt fläskfile med cafe de parissås, grönsaker och stekt potatis.
+ 2. Helstekt fläskytterfile med cafe de parissås, grönsaker och stekt potatis.
 
 ### Fredag
 
