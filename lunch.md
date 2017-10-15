@@ -17,13 +17,13 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och kokt potatis.
+1. Raggmunkar med stekt fläsk, lingonsylt.
 2. Fläskfile noistte med bearnaisesås, grönsaker och stekt potatis.
 
 ### Onsdag
 
-1. Dillköttgrya med ångade morötter och kokt potatis.
-2. Smörstekt rödspätta,spenatt, räksås och kokt potatis.
+1. Dillköttgryta med ångade morötter och kokt potatis.
+2. Smörstekt rödspätta, spenatt, räksås och kokt potatis.
 
 ### Torsdag
 
