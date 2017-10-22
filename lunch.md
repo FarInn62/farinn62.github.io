@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Skomakarlåda med lingopure.
+2. Skomakarlåda med lingonpure.
 
 ### Onsdag
 
