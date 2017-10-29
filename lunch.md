@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Ost och baconfylld köttfärsrolle med trattkantarellsås, äppelmos och kokt potatis.
+2. Ost och baconfylld köttfärsrulle med trattkantarellsås, äppelmos och kokt potatis.
 
 ### Onsdag
 
