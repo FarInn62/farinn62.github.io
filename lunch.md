@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.44
+title: Lunch V.45
 permalink: /lunch/
 published: true
 ---
@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Kalvfärs jägar med gräddsås, ärtor, lingon och potatismos.
+2. Kalvfärs järpar med gräddsås, ärtor, lingon och potatismos.
 
 ### Onsdag
 
