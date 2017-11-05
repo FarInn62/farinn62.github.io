@@ -12,8 +12,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Dansk sjömans biff med lök, persiljesmör och råstektpotatis.
-2. Kokt torsfile med ägg-persiljesås och kokt potatis.
+1. Dansk sjömansbiff med öllöksås, persiljesmör och råstekt potatis.
+2. Kokt torskfile med ägg-persiljesås och kokt potatis.
 
 ### Tisdag
 
