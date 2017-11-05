@@ -1,9 +1,11 @@
-
+---
 layout: foodmenu
 title: Lunch V.45
 permalink: /lunch/
 published: true
+---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
+
 Menyn gäller följande tider:  
 Mån - Fre: 11:00 - 15:00  
 Alla rätter: 80:- Take away: 65:-
