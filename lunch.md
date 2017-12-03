@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.48
+title: Lunch V.49
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Stekt kassler med kantarellsås, ananassallad och kokt potatis.
-2. Vitvinkokt sögfilè saffransås, kräftstjärtar och kokt potatis.
+1. Kalvfärsbiff (Wallenbeg) med gräddsås och ärtor samt lingonsylt och potatispurè.
+2. Smörstekt rödspätta med skagensås,grönsaker och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Kebabgryta med potatismos och sallad.
+2. Bacon inbakad köttfärskroketter med rosepepparsås, tomatsallad och stekt potatis.
 
 ### Onsdag
 
-1. Kycklingfilè med chilisås, salta nötter, gurkmejaris och grönsaker.
-2. Spagetti med bolognaisesås och riven ost.
+1. Älgfärsbiff med viltsås, lingon, grönsaker och kokt potatis.
+2. Laxfrestelse med smörsås och räkor.
 
 ### Torsdag
 
- 1. Köttfärssoppa med creme fräiche samt tunna pannkakor, sylt och grädde.
- 2. Karrè stek med gräddsås grönsaker och kokt potatis.
+ 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+ 2. Basel schnitzel med portvinsås, äppelmos och grönsaker samt råstekt potatis.
 
 ### Fredag
 
-1. Lövbif med stektlök, tryffelsås, grönsaker och stekt potatis.
-2. Skomakalåda med baconsås, lingonsylt och potatismos.
+1. Porterstek med vermouth gräddsås, grönsaker och kokt potatis.
+2. Kycklinggryta (Indiana) med ris  och sallad.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
