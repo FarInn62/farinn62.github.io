@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Fredag
 
 1. Porterstek med vermouth gräddsås, grönsaker och kokt potatis.
-2. Kycklinggryta (Indiana) med ris  och sallad.
+2. Kycklinggryta (Indiana) med ris och sallad.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
