@@ -5,6 +5,7 @@ permalink: /lunch/
 published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
+
 Frukost dagligen mellan 07:00-10:00
 
 Menyn gäller följande tider:  
