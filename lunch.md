@@ -6,7 +6,7 @@ published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
-**Frukost dagligen mellan 07:00-10:00**
+**Frukost vardagar mellan 07:00-10:00**
 
 Menyn gäller följande tider:  
 Mån - Fre: 11:00 - 15:00  
@@ -19,21 +19,25 @@ Frukost mellan 07:00-10:00
 2. Smörstekt rödspätta med skagensås,grönsaker och kokt potatis.
 
 ### Tisdag
+Frukost mellan 07:00-10:00
 
 1. Raggmunkar med stekt fläsk samt lingonsylt.
 2. Bacon inbakad köttfärskroketter med rosepepparsås, tomatsallad och stekt potatis.
 
 ### Onsdag
+Frukost mellan 07:00-10:00
 
 1. Älgfärsbiff med viltsås, lingon, grönsaker och kokt potatis.
 2. Laxfrestelse med smörsås och räkor.
 
 ### Torsdag
+Frukost mellan 07:00-10:00
 
  1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
  2. Basel schnitzel med portvinsås, äppelmos och grönsaker samt råstekt potatis.
 
 ### Fredag
+Frukost mellan 07:00-10:00
 
 1. Porterstek med vermouth gräddsås, grönsaker och kokt potatis.
 2. Kycklinggryta (Indiana) med ris och sallad.
