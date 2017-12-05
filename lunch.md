@@ -11,6 +11,7 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
+FRUKOST MELLAN 07:00-10:00
 
 1. Kalvfärsbiff (Wallenbeg) med gräddsås och ärtor samt lingonsylt och potatispurè.
 2. Smörstekt rödspätta med skagensås,grönsaker och kokt potatis.
