@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.49
+title: Lunch V.50
 permalink: /lunch/
 published: true
 ---
@@ -15,32 +15,32 @@ Alla rätter: 80:- Take away: 65:-
 ### Måndag
 Frukost mellan 07:00-10:00
 
-1. Kalvfärsbiff (Wallenbeg) med gräddsås och ärtor samt lingonsylt och potatispurè.
-2. Smörstekt rödspätta med skagensås,grönsaker och kokt potatis.
+1. Ostbringa med rotmos, pepparotsås och rödbetor.
+2. Köttbullar med brunsås och potatismos, inlagd gurka, lingonsylt.
 
 ### Tisdag
 Frukost mellan 07:00-10:00
 
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Bacon inbakad köttfärskroketter med rosepepparsås, tomatsallad och stekt potatis.
+2. Biff ala backman, stekt ägg, starka kapris och rödbetor, cremesås och kokt potatis.
 
 ### Onsdag
 Frukost mellan 07:00-10:00
 
-1. Älgfärsbiff med viltsås, lingon, grönsaker och kokt potatis.
-2. Laxfrestelse med smörsås och räkor.
+1. Dillkött med morötter och kokt potatis.
+2. Fläsk noisette med murkelsås, grönsaker och stekt potatis.
 
 ### Torsdag
 Frukost mellan 07:00-10:00
 
- 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
- 2. Basel schnitzel med portvinsås, äppelmos och grönsaker samt råstekt potatis.
+ 1. Spentsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
+ 2. Fläskfilè med såås bearnaise, grönsaker och stekt potatis.
 
 ### Fredag
 Frukost mellan 07:00-10:00
 
-1. Porterstek med vermouth gräddsås, grönsaker och kokt potatis.
-2. Kycklinggryta (Indiana) med ris och sallad.
+1. Kokt gösfilè med krabbasås, räkor och kokt potatis.
+2. Entrecote med sås Cafe de paris, grönsaker och stekt potatis.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
