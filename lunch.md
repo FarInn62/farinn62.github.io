@@ -22,7 +22,7 @@ Frukost mellan 07:00-10:00
 Frukost mellan 07:00-10:00
 
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Biff ala backman, stekt ägg, starka kapris och rödbetor, cremesås och kokt potatis.
+2. Biff ala backman, stekt ägg, stekta kapris och rödbetor, cremesås och kokt potatis.
 
 ### Onsdag
 Frukost mellan 07:00-10:00
