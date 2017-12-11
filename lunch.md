@@ -15,7 +15,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Måndag
 Frukost mellan 07:00-10:00
 
-1. Ostbringa med rotmos, pepparotsås och rödbetor.
+1. Oxbringa med rotmos, pepparotsås och rödbetor.
 2. Köttbullar med brunsås och potatismos, inlagd gurka, lingonsylt.
 
 ### Tisdag
