@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.50
+title: Lunch V.51
 permalink: /lunch/
 published: true
 ---
@@ -15,32 +15,32 @@ Alla rätter: 80:- Take away: 65:-
 ### Måndag
 Frukost mellan 07:00-10:00
 
-1. Oxbringa med rotmos, pepparotsås och rödbetor.
-2. Köttbullar med brunsås och potatismos, inlagd gurka, lingonsylt.
+1. Korv stroganoff med ris och inlagged gurka.
+2. Spagetti med tomatiserad köttfärssås samt ost.
 
 ### Tisdag
 Frukost mellan 07:00-10:00
 
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Biff ala backman, stekt ägg, stekta kapris och rödbetor, cremesås och kokt potatis.
+2. Biff lindström med rödvinsky, persiljesmör, grönsaker och kokt potatis.
 
 ### Onsdag
 Frukost mellan 07:00-10:00
 
-1. Dillkött med morötter och kokt potatis.
-2. Fläsk noisette med murkelsås, grönsaker och stekt potatis.
+1. Jul lunch med småvarm (årets sista julbord) pris 130:- (ej takeaway).
+2. Skomakarlåda med baconsås, lingonsylt och potatismos.
 
 ### Torsdag
 Frukost mellan 07:00-10:00
 
- 1. Spentsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
- 2. Fläskfilè med såås bearnaise, grönsaker och stekt potatis.
+ 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
+ 2. Panerade schnitzel med brunsås samt ärtor och stekt potatis.
 
 ### Fredag
 Frukost mellan 07:00-10:00
 
-1. Kokt gösfilè med krabbasås, räkor och kokt potatis.
-2. Entrecote med sås Cafe de paris, grönsaker och stekt potatis.
+1. Biffstek med stekt lök och pepparsås samt stekt potatis.
+2. Strömmingsflundra med smörsås, räkor och lingon samt potatispurè.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
