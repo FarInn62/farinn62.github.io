@@ -6,7 +6,8 @@ published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
-**Frukost vardagar mellan 07:00-10:00**
+**Ingen frukost denna vecka**
+
 
 Menyn gäller följande tider:  
 Mån - Fre: 11:00 - 15:00  
