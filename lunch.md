@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.51
+title: Lunch V.52
 permalink: /lunch/
 published: true
 ---
@@ -14,34 +14,27 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
-Frukost mellan 07:00-10:00
-
-1. Korv stroganoff med ris och inlagged gurka.
-2. Spagetti med tomatiserad köttfärssås samt ost.
+STÄNGT
+GOD JUL OCH GOTT NYTT ÅR
 
 ### Tisdag
-Frukost mellan 07:00-10:00
 
-1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Biff lindström med rödvinsky, persiljesmör, grönsaker och kokt potatis.
+A LA CARTE
 
 ### Onsdag
-Frukost mellan 07:00-10:00
 
-1. Jul lunch med småvarm (årets sista julbord) pris 130:- (ej takeaway).
-2. Skomakarlåda med baconsås, lingonsylt och potatismos.
+1. Köttgryta med rotfrukter och kokt potatis.
+2. Hummertorsk gratinerad torskfilè med räkor och kokt potatis.
 
 ### Torsdag
-Frukost mellan 07:00-10:00
 
- 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
- 2. Panerade schnitzel med brunsås samt ärtor och stekt potatis.
+ 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+ 2. Jägernoistte med kantarellsås, lingonsylt, grönsaker och kokt potatis.
 
 ### Fredag
-Frukost mellan 07:00-10:00
 
-1. Biffstek med stekt lök och pepparsås samt stekt potatis.
-2. Strömmingsflundra med smrsås, räkor och lingon samt potatispurè.
+1. Fläskfilè med sparris, kräftstjärtar, och bearnaisesås samt stekt potatis.
+2. Stekt gösfile med vitvinsås, skaldjur och grönsaker samt potatismos.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
