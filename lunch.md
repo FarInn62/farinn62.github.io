@@ -41,7 +41,7 @@ Frukost mellan 07:00-10:00
 Frukost mellan 07:00-10:00
 
 1. Biffstek med stekt lök och pepparsås samt stekt potatis.
-2. Strömmingsflundra med smörsås, räkor och lingon samt potatispurè.
+2. Strömmingsflundra med smrsås, räkor och lingon samt potatispurè.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
