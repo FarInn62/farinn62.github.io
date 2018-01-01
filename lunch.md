@@ -34,7 +34,7 @@ A LA CARTÈ
 ### Fredag
 
 1. Schnitzel med dragonsås, grönsaker och stekt potatis.
-2. Smöstekt lax med spenat, rekor, vitvinsås och kokt potatis.
+2. Smörstekt lax med spenat, rekor, vitvinsås och kokt potatis.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
