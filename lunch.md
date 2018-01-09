@@ -35,7 +35,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Fredag
 
 1. Entrècote med persljesmör och vinsås samt grönsaker och stekt potatis.
-2. Friterad torsfilè med pepparots majonnäs, räksalsa och potatispurè.
+2. Friterad torskfilè med pepparots majonnäs, räksalsa och potatispurè.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
