@@ -14,7 +14,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kycklinggryta med banan och currysås samt salladoch ris.
+1. Kycklinggryta med banan och currysås samt sallad och ris.
 2. Lasagne med sallad.
 
 ### Tisdag
