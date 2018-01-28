@@ -14,7 +14,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kalvfärs järpar med murkelsås, ärtor,lingon och kokt potatis.
+1. Kalvfärs järpar med murkelsås, ärtor, lingon och kokt potatis.
 2. Stekt korv med stuvade potatis.
 
 ### Tisdag
