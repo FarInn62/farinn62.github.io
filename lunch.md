@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.4
+title: Lunch V.5
 permalink: /lunch/
 published: true
 ---
@@ -14,28 +14,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Biff Wallenberg med gräddsås, ärtor, lingon och potatismos.
-2. Ugnstekt Mandelfisk med citronsås, grönsaker och kokt potatis.
+1. Kalvfärs järpar med murkelsås, ärtor,lingon och kokt potatis.
+2. Stekt korv med stuvade potatis.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Baconinbakad lunchkorv, stuvade morötter samt inlagd gurka och stekt potatis.
+1. Stekt fläsk med bruna böner och kokt potatis.
+2. Pyttipanna toppad med stekt ägg samt röbetor.
 
 ### Onsdag
 
-1. Ungersk gulaschgryta med sallad och ris.
-2. Köttfärsrulle fylda med skinka och ost, kantarellsås, lingonpuré och kokt potatis.
+1. Biff stroganoff med ris och inlaggd gurka.
+2. Gratinerad gösfilé med skaldjursås samt sallad och kokt potatis.
 
 ### Torsdag
 
- 1. Lax och räksoppa samt tunna pannkakor, sylt och grädde.
- 2. Hackad grönpepparbiff med pepparsås, gelé samt grönsaker och stekt potatis.
+ 1. Ärtsoppa tunna pannkakor, sylt och grädde.
+ 2. Basel schnitzel med äpplevinsås, stekta grönsaker och rostade potatis.
 
 ### Fredag
 
-1. Rådjursgryta med potatismos, lingon och sallad.
-2. Helstekt fläskfilé med london housesås, grönsaker och stekt potatis.
+1. Lövbiff med madeira-tryffelsås och råstekta potatis.
+2. Lasagne med sallad.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
