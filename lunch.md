@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.6
+title: Lunch V.7
 permalink: /lunch/
 published: true
 ---
@@ -14,28 +14,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Skomakarlåda med  baconsås, lingonsylt och potatismos.
-2. Stekt falukorv med stuvade makaroner.
+1. Grekisk färsbiff med tzatziki dressing, sallad och ris.
+2. Dillköttgryta med ångade morötter och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunk och stekt fläsk och lingonsylt.
-2. Kycklingfilé med grädd ädelostsås, spinat och koktris.
+2. Smörstekt gösfilé med smörsås, blandade skaldjur och potatispuré.
 
 ### Onsdag
 
-1. Fläskfilé gryta med sallad och kokt potatis.
-2. Friterad torskfilé med räkmajonnäs, dillmos och citon.
+1. Kalops med rödbetor och kokt potatis.
+2. Panerad noisette med grönpepparsås, grönsaker och råstekt potatis.
 
 ### Torsdag
 
- 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
- 2. Kalkon schnitzel med apelsinsås, grillerade tomat, socker ärtor och stekt potatis.
+ 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+ 2. Plummonfylld karéstek med kanelgräddsås, stekt äpple och kokt potatis.
 
 ### Fredag
 
-1. Värmlandsstek med körsbärsås, grönsaker och kokt potatis.
-2. Kokt lax med kräftsås samt grönsaker och kokt potatis.
+1. Fläskfilé noisette med madaira och bearnäsesås, sparris och stekt potatis.
+2. Älgskav med kantarellsås,lingon och potatismos.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
