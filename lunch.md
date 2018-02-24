@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.8
+title: Lunch V.9
 permalink: /lunch/
 published: true
 ---
@@ -13,28 +13,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Korv stroganoff med ris, smetana och inlagd gurka.
-2. Köttbullar med gräddsås, lingonsylt och potatismos.
+1. Skinkstek med champinjonsås, rårörda lingon och kokt potatis.
+2. Friterad torskfile med skagensås, spenat och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunk och stekt fläsk och lingonsylt.
-2. Pyttipannna med stekt ägg och rödbetor.
+2. Pannbiff med stektlök och brunsås samt grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Älgfärsbiff kantarellsås och hjortronsylt samt kokt potatis.
-2. Gräddkokt nöttlever med ris och lingon.
+1. Italiensk färsbiff med fetaostsås, tomatsalsa och stekt potatis.
+2. Lasagne med sallad.
 
 ### Torsdag
 
- 1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
- 2. Kyckling schnitzel med rosepepparsås, paprikasallad och stekt potatis.
+ 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+ 2. Skomakarlåda med baconsås samt lingosylt och potatismos.
 
 ### Fredag
 
-1. Såsmornay gratinerad torskfile serverad med bacon, fruktgrönsaker , räkor samt kokt potatis.
-2. Kalvfärsbiff med café de paris sås, grönsaker och potatispuré.
+1. Fläskfilégryta med sallad och kokt potatis.
+2. Helstekt yterfile av ox med rödvinsås och råstekta potatis.
 
 ### Lördag & Söndag
 A la Carte - Välkommen
