@@ -35,7 +35,7 @@ Alla rätter: 80:- Take away: 65:-
 1. Fläskfilégryta med sallad och kokt potatis.
 2. Helstekt yterfile av ox med rödvinsås och råstekta potatis.
 
-**Det finns även andra rätter att välja dagligen**
+  **Det finns även andra rätter att välja dagligen**
 
 ### Lördag & Söndag
 A la Carte - Välkommen
