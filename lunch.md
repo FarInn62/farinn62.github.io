@@ -32,8 +32,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Fredag
 
-1. Vitvinkokt Gösfilé med vertesås, krefftsjärtar, citron och kokt potatis.
-2.Karré och kasslergryta med grönsallad och kokt potatis.
+1. Vitvinkokt Gösfilé med vertesås, kräfftsjärtar, citron och kokt potatis.
+2. Karré och kasslergryta med grönsallad och kokt potatis.
 
   **Det finns även andra rätter att välja från dagligen**
 
