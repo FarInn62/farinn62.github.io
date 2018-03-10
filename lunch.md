@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.10
+title: Lunch V.11
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Oxbringa med rotmos och pepparotsås samt röbetor.
-2. Stekt falukorv med stuvade makaroner.
+1. Helstekt flästytterfilé med kantarellsås, grönsaker, äpplemos och kokt potatis.
+2. lax frestelse med räksås och sallad.
 
 ### Tisdag
 
 1. Raggmunk och stekt fläsk och lingonsylt.
-2. Spaghetti med köttfärssås och grönsaker.
+2. Köttbullar med potatismos, gräddsås, gurka och lingon.
 
 ### Onsdag
 
-1. Biff ala lindström med rödvinsky och aromsmör samt grönsaker och kokt potatis.
-2. Renskav med lingon och potatismos.
+1. Smörstekt rödspätta msd skaldjurssås och kokt potatis.
+2. Köttgryta med grönsaker samt kokt potatis.
 
 ### Torsdag
 
  1. Köttfärssoppa samt tunna pannkakor, sylt och grädde.
- 2. Grillad kycklingfile med rosepepparsås, gele, grönsaker och stekt potatis.
+ 2. Basel schnitzel med cidersås, stekta äpple och rostade potatis.
 
 ### Fredag
 
-1. Vitvinkokt Gösfilé med vertesås, kräfftsjärtar, citron och kokt potatis.
-2. Karré och kasslergryta med grönsallad och kokt potatis.
+1. Fläskfilé med tomatiserade bearnässås, sparris och kräftsjärtar samt stekt potatis.
+2. Wärdshusbiff a la FarInn med brunsås, stekta grönsaker och kokt potatis.
 
   **Det finns även andra rätter att välja från dagligen**
 
