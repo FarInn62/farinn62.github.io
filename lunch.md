@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Helstekt flästytterfilé med kantarellsås, grönsaker, äpplemos och kokt potatis.
+1. Helstekt fläskytterfilé med kantarellsås, grönsaker, äpplemos och kokt potatis.
 2. lax frestelse med räksås och sallad.
 
 ### Tisdag
@@ -32,7 +32,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Fredag
 
-1. Fläskfilé med tomatiserade bearnässås, sparris och kräftsjärtar samt stekt potatis.
+1. Fläskfilé med tomatiserade bearnaisesås, sparris och kräftsjärtar samt stekt potatis.
 2. Wärdshusbiff a la FarInn med brunsås, stekta grönsaker och kokt potatis.
 
   **Det finns även andra rätter att välja från dagligen**
