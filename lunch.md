@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.11
+title: Lunch V.12
 permalink: /lunch/
 published: true
 ---
@@ -12,30 +12,30 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Helstekt fläskytterfilé med kantarellsås, grönsaker, äpplemos och kokt potatis.
-2. lax frestelse med räksås och sallad.
+1. Kebabgryta med ris och tomatsallad.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Tisdag
 
 1. Raggmunk och stekt fläsk och lingonsylt.
-2. Köttbullar med potatismos, gräddsås, gurka och lingon.
+2. Tacokryddad kycklingfile med paprika o gräddsås samt grönsaker och stekt potatis.
 
 ### Onsdag
 
-1. Smörstekt rödspätta msd skaldjurssås och kokt potatis.
-2. Köttgryta med grönsaker samt kokt potatis.
+1. Hackat pepparbiff med grönpepparsås, svart vinbärsgele och stekt potatis.
+2. Smörstekt strömmingsflundra med smörsås, räkor, lingonpuré samt potatismos.
 
 ### Torsdag
 
- 1. Köttfärssoppa samt tunna pannkakor, sylt och grädde.
- 2. Basel schnitzel med cidersås, stekta äpple och rostade potatis.
+ 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+ 2. Jägarstek med portvinkokta chaminjoner, äpplemos, grönsaker och kokt potatis.
 
 ### Fredag
 
-1. Fläskfilé med tomatiserade bearnaisesås, sparris och kräftsjärtar samt stekt potatis.
-2. Wärdshusbiff a la FarInn med brunsås, stekta grönsaker och kokt potatis.
+1. Minutstek av oxryggbiff med madeira tryffelsås, grönsaker samt stekt potatis.
+2. Gräddkokta nötlever med morötter, lingonsylt och ris.
 
-  **Det finns även andra rätter att välja från dagligen**
+  **Det finns även andra rätter att välja från varjedag**
 
 ### Lördag & Söndag
 A la Carte - Välkommen
