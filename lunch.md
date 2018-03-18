@@ -22,7 +22,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Onsdag
 
-1. Hackat pepparbiff med grönpepparsås, svart vinbärsgele och stekt potatis.
+1. Hackad pepparbiff med grönpepparsås, svart vinbärsgele och stekt potatis.
 2. Smörstekt strömmingsflundra med smörsås, räkor, lingonpuré samt potatismos.
 
 ### Torsdag
