@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.12
+title: Lunch V.13
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kebabgryta med ris och tomatsallad.
-2. Stekt falukorv med stuvade makaroner.
+1. Grillkarre med potatisgratäng, mild salsasås samt grönsaker.
+2. Ångad torskfile med vitvinsås, räkor och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunk och stekt fläsk och lingonsylt.
-2. Tacokryddad kycklingfile med paprika o gräddsås samt grönsaker och stekt potatis.
+2. Isterband med persiljestuvad potatis samt rödbetor.
 
 ### Onsdag
 
-1. Hackad pepparbiff med grönpepparsås, svart vinbärsgele och stekt potatis.
-2. Smörstekt strömmingsflundra med smörsås, räkor, lingonpuré samt potatismos.
+1. Ostpanerad schnitzel med milanaisesås, sallad och stekt potatis.
+2. Lassagne med sallad.
 
 ### Torsdag
 
- 1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
- 2. Jägarstek med portvinkokta chaminjoner, äpplemos, grönsaker och kokt potatis.
+ 1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
+ 2. Älgfärsbiff med kantarellsås, lingonsylt, grönsaker och kokt potatis.
 
 ### Fredag
 
-1. Minutstek av oxryggbiff med madeira tryffelsås, grönsaker samt stekt potatis.
-2. Gräddkokta nötlever med morötter, lingonsylt och ris.
+1. Panerad benfri kotlett med dragonsås, griljerad tomat och potatiskaka.
+2. Skomakarlåda med baconsås, lingon.
 
   **Det finns även andra rätter att välja från varjedag**
 
