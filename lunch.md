@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Grillkarre med potatisgratäng, mild salsasås samt grönsaker.
+1. Grillkarré med potatisgratäng, mild salsasås samt grönsaker.
 2. Ångad torskfile med vitvinsås, räkor och kokt potatis.
 
 ### Tisdag
