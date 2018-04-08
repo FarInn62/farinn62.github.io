@@ -32,7 +32,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Fredag
 
-1. Grillad kebeb med paprika-tomatsalsa ochngrönsaksris.
+1. Grillkebeb med paprika-tomatsalsa ochngrönsaksris.
 2. Älgfärslimpa med vodka-enbärssås, rårörda lingon och kokt potatis.
 
   **Det finns även andra rätter att välja från varjedag**
