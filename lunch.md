@@ -22,12 +22,12 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Onsdag
 
-1. Pannbiffmed stekt lök, brunsås och grönsaker samt kokt potatis.
+1. Pannbiff med stekt lök, brunsås och grönsaker samt kokt potatis.
 2. Strömmings flundrad med smörsås, rårörda lingon, ärter och potatismos.
 
 ### Torsdag
 
- 1. Lax och räksoppa  med smetana samt tunna pannkakor, sylt och grädde.
+ 1. Lax och räksoppa samt tunna pannkakor, sylt och grädde.
  2. Wiener schnitzel med rödvinsås samt ärter och stektpotatis.
 
 ### Fredag
