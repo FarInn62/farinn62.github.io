@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.16
+title: Lunch V.17
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,28 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kålpudding med gräddsås, lingonsylt och kokt potatis.
-2. Korv stroganoff med creme fraiche och potatispuré.
+1. Kycklinggryta med banan, chilipeppar, nötter och ris.
+2. Köttbullar med gräddsås, lingonsylt och potatismos.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås samt kokt potatis och lingon.
-2. Kycklingfilé med rosepepparsås, grönsaker och risotto.
+1. Raggmunkar och stekt fläsk med lingon.
+2. Jägarstek med champinjonsås äppelmos, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Pannbiff med stekt lök, brunsås och grönsaker samt kokt potatis.
-2. Strömmings flundrad med smörsås, rårörda lingon, ärter och potatismos.
+1. Stekt rödspätta med remouladsås och räkor samt kokt potatis.
+2. Stekt falukorv med stuvad pasta och sallad.
 
 ### Torsdag
 
- 1. Lax och räksoppa samt tunna pannkakor, sylt och grädde.
- 2. Wiener schnitzel med rödvinsås samt ärter och stektpotatis.
+ 1. Grönsakssoppa med bacon samt tunna pannkakor, sylt och grädde.
+ 2. Helstekt fläskfilé med kantarellsås, hjortronsylt, grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Kalvschnitzel fylld med bacon och ädelost samt rödvinbärssås, gröna böner och örtkryddad stekt potatis.
-2. Lax noisette med räkor och vitvinsås samt potatispuré.
+1. Biff av kalvytterfilé med bearnaisesås, kräftt stjärtor, sparris och råstekt potatis.
+2. Skormakarlåda med potatismos samt lingonpuré.
 
   **Det finns även andra rätter att välja från varjedag**
 
