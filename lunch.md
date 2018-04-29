@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.17
+title: Lunch V.18
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kycklinggryta med banan, chilipeppar, nötter och ris.
-2. Köttbullar med gräddsås, lingonsylt och potatismos.
+1. Mozzarella panerad schnitzel med tomatosås samt ärtor och stekt potatis.
+2. Gratinerad torskrygg med krabbasås och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk med lingon.
-2. Jägarstek med champinjonsås äppelmos, grönsaker och kokt potatis.
+2. A LA Carté.
+
 
 ### Onsdag
 
-1. Stekt rödspätta med remouladsås och räkor samt kokt potatis.
-2. Stekt falukorv med stuvad pasta och sallad.
+1. Fransk köttgryta med kokt potatis.
+2. Texmex biff med paprika-salsasås samt ris och sallad.
 
 ### Torsdag
 
- 1. Grönsakssoppa med bacon samt tunna pannkakor, sylt och grädde.
- 2. Helstekt fläskfilé med kantarellsås, hjortronsylt, grönsaker och stekt potatis.
+ 1. köttfärssoppa med creme fräiche samt tunna pannkakor, sylt och grädde.
+ 2. Fläskfilé noisette med såsespanjol och grönsaker samt kokt potatis.
 
 ### Fredag
 
-1. Biff av kalvytterfilé med bearnaisesås, kräftt stjärtor, sparris och råstekt potatis.
-2. Skormakarlåda med potatismos samt lingonpuré.
+1. Grill kotlett med sås café de paris och grönsaker samt potatisgratäng.
+2. Stekt gösfile med skagensås och kokt potatis.
 
   **Det finns även andra rätter att välja från varjedag**
 
