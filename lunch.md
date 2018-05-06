@@ -24,7 +24,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Onsdag
 
 1. Karrégryta med grönsaker och kokt potatis samt äppelmos.
-2. Stekt falukorv medstuvade makaroner.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Torsdag
 
