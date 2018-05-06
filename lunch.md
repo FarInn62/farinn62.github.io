@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.18
+title: Lunch V.19
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Mozzarella panerad schnitzel med tomatosås samt ärtor och stekt potatis.
-2. Gratinerad torskrygg med krabbasås och potatismos.
+1. Köttfärslimpa med cremesås, grönsaker och kokt potatis.
+2. Gräddstuvad pytt i panna med rödbetor.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk med lingon.
-2. A LA Carté.
+2. Marinerad strömmingsflundra smörsås, räkor, lingon och potatismos.
 
 
 ### Onsdag
 
-1. Fransk köttgryta med kokt potatis.
-2. Texmex biff med paprika-salsasås samt ris och sallad.
+1. Karrégryta med grönsaker och kokt potatis samt äppelmos.
+2. Stekt falukorv medstuvade makaroner.
 
 ### Torsdag
 
- 1. köttfärssoppa med creme fräiche samt tunna pannkakor, sylt och grädde.
- 2. Fläskfilé noisette med såsespanjol och grönsaker samt kokt potatis.
+ 1. Ärtsoppa och tunna pannkakor, sylt och grädde.
+ 2. Basel noisette med cidersås, stekta äpplen och grönsaker samt stekt potatis.
 
 ### Fredag
 
-1. Grill kotlett med sås café de paris och grönsaker samt potatisgratäng.
-2. Stekt gösfile med skagensås och kokt potatis.
+1. Älgfärsbiff med kantarellsås, lingonsylt, grönsaker och kokt potatis.
+2. Spagetti med sås bolognese och sallad.
 
   **Det finns även andra rätter att välja från varjedag**
 
