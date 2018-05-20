@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.20
+title: Lunch V.21
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Biff Wallenberg med gräddsås, lingon och potatismos.
-2. Baconinbakad lunchkorv med mild senapsås och stekt potatis
+1. Kalkon schnitzel med apelsinsås, grönsaker och ris.
+2. Biff lindström med rödvinsky, persiljesmör, grönsaker och kokt potatis
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk med lingon.
-2. Stekt rödspätta med hummersås, räkor och kokt potatis .
+2. Rostbiff med potatissallad samt pickles, lingoncreme och rostade lök.
 
 
 ### Onsdag
 
-1. Pannbiff med löksås, lingon och kokt potatis.
-2. Kebab med tomatiserad creamsås och ris.
+1. Chili con carne med ris och sallad.
+2. Ångade torskrygg med ägg och persiljesås samt kokt potatis.
 
 ### Torsdag
 
- 1. Spenatsoppa med ägghalva och tunna pannkakor, sylt och grädde.
- 2. Kasslergratäng med champinjonsås, grönsaker och kokt potatis.
+ 1. Sommarsoppa med bacon, tunna pannkakor, sylt och grädde.
+ 2. Ostpanerad noisette med sås cafe de paris, tomatsallad och stekt potatis.
 
 ### Fredag
 
-1. Entrecote med sherrysås samt grönsaker och stekt potatis.
-2. Grillstekt kycklingfilé med rosepepparsås, gelé och rostade potatis.
+1. Helstekt Entrécot med bearnaiseås, grönsaker och örtkrydad potatis.
+2. Gräddkokt nötlever med lingon och kokt ris.
 
   **Det finns även andra rätter att välja från varjedag**
 
