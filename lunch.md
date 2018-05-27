@@ -29,11 +29,11 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
 
  1. Ärtsoppa, tunna pannkakor, sylt och grädde.
- 2. Fläskfilé noisette med bearnaisesås, grönsaker,och stekt potatis.
+ 2. Fläskfilé noisette med bearnaisesås, grönsaker, och stekt potatis.
 
 ### Fredag
 
-1. Grillstekt kycklingsilé ädelostsås strimlad paprika, smörkokt spenat och stekt potatis .
+1. Grillstekt kycklingsilé ädelostsås och strimlad paprika, smörkokt spenat och stekt potatis .
 2. Fläskläg med rotmos och rödbetor.
 
   **Det finns även andra rätter att välja från varjedag**
