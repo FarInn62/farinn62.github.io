@@ -29,7 +29,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Torsdag
  1. Köttfärssoppa tunna pannkakor, sylt och grädde.
- 2. Stekt torskfilé med vitvinsås,spinat, räkor och kokt potatis.
+ 2. Stekt torskfilé med vitvinsås, spenat, räkor och kokt potatis.
 
 ### Fredag
 
