@@ -30,13 +30,14 @@ Alla rätter: 80:- Take away: 65:-
 ### Torsdag
  1. Sparrissoppa tunna pannkakor, sylt och grädde.
  2. Stekt och grilld kyckling med madairasås, grönsaker och stekt potatis.
+ **Det finns även andra rätter att välja från varjedag**
 
 ### Fredag
 
 1. GLAD MIDSOMMAR
 2. **Lördag och söndag öppet som vanligt Välkommen**
 
-  **Det finns även andra rätter att välja från varjedag**
+  
 
 ### Lördag & Söndag
 A la Carte - Välkommen
