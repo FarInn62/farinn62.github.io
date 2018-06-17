@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.24
+title: Lunch V.25
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Kycklinggryta "Indiana" med banan-currysås och ris.
-2. Lasagne med sallad.
+1. Korv stroganoff med ris och smetana samt inlagd gurka.
+2. Pitt i panna toppad med stekt ägg samt rödbetor.
 
 ### Tisdag
 
-1. Raggmunkar och stekt fläsk med lingon.
-2. Ostgratinerad falukorv med potatismos och tomatsallad.
+1. Stekt fläsk med löksås, lingon och kokt potatis.
+2. Spagettti bolognese med os och sallad.
 
 
 ### Onsdag
 
-1. Kåldolmar med brunsås, lingon och kokt potatis.
-2. Kalvfärsbiff med gräddsås, lingonpurè, ärter och kokt potatis.
+1. Karréstek med kantarellsås, grönsaker, lingon och kokt potatis.
+2. Koxt lax med hummarsås och räkor samt kokt potatis.
 
 
 ### Torsdag
- 1. Köttfärssoppa tunna pannkakor, sylt och grädde.
- 2. Stekt torskfilé med vitvinsås, spenat, räkor och kokt potatis.
+ 1. Sparrissoppa tunna pannkakor, sylt och grädde.
+ 2. Stekt och grilld kyckling med madairasås, grönsaker och stekt potatis.
 
 ### Fredag
 
-1. Schnitzel prinsesse med café de parissås samt grillerad tomat, gröna böner och stekt potatis .
-2. Gösfilé med skagensås, citron, räksallad och kokt potatis.
+1. GLAD MIDSOMMAR
+2. **Lördag och söndag öppet som vanligt Välkommen**
 
   **Det finns även andra rätter att välja från varjedag**
 
