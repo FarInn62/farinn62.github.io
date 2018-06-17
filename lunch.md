@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Stekt fläsk med löksås, lingon och kokt potatis.
-2. Spagettti bolognese med os och sallad.
+2. Spagetti bolognese med os och sallad.
 
 
 ### Onsdag
@@ -35,8 +35,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Fredag
 
-1. GLAD MIDSOMMAR
-2. **Lördag och söndag öppet som vanligt Välkommen**
+  1. GLAD MIDSOMMAR
+  2. **Lördag och söndag öppet som vanligt Välkommen**
 
   
 
