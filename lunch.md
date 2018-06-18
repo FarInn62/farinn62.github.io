@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Måndag
 
 1. Korv stroganoff med ris och smetana samt inlagd gurka.
-2. Pitt i panna toppad med stekt ägg samt rödbetor.
+2. Pytt i panna toppad med stekt ägg samt rödbetor.
 
 ### Tisdag
 
