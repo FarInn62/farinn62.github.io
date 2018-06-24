@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Älgfärsbiff med murkelsås och lingon samt grönsaker och kokypotatis.
+2. Älgfärsbiff med murkelsås och lingon samt grönsaker och kokt potatis.
 
 
 ### Onsdag
@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 65:-
  
 ### Fredag
  
-1. Schweizisk schnitzel med cidersås, stekt äpple och röstade potatis.
+1. Schweizisk schnitzel med cidersås, stekt äpple och råstade potatis.
 2. Nötlevergryta med ris och lingonsylt.
 
 ** Det finns även andra rätter att välja från dagligen **  
