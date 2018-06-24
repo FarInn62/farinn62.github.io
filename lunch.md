@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.25
+title: Lunch V.26
 permalink: /lunch/
 published: true
 ---
@@ -12,33 +12,31 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Korv stroganoff med ris och smetana samt inlagd gurka.
-2. Pytt i panna toppad med stekt ägg samt rödbetor.
+1. Dillkött med morötter och kokt potatis.
+2. Biff lindström med brunsås samt grönsaker och kokt potatis.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingon och kokt potatis.
-2. Spagetti bolognese med os och sallad.
+1. Raggmunkar med stekt fläsk, lingonsylt.
+2. Älgfärsbiff med murkelsås och lingon samt grönsaker och kokypotatis.
 
 
 ### Onsdag
 
-1. Karréstek med kantarellsås, grönsaker, lingon och kokt potatis.
-2. Koxt lax med hummarsås och räkor samt kokt potatis.
-
+1. Stekt torskfilé med spenat, räksås och kokt potatis.
+2. Texmex limpa med salsasås, grönsaker och kokt potatis.
 
 ### Torsdag
- 1. Sparrissoppa tunna pannkakor, sylt och grädde.
- 2. Stekt och grilld kyckling med madairasås, grönsaker och stekt potatis.
  
-    **Det finns även andra rätter att välja från varjedag**
-
+1. Sommarsoppa tunna pannkakor, sylt och grädde.
+2. Fläskfilé med baconsås samt potatismos och lingon.
+ 
 ### Fredag
+ 
+1. Schweizisk schnitzel med cidersås, stekt äpple och röstade potatis.
+2. Nötlevergryta med ris och lingonsylt.
 
-  1. GLAD MIDSOMMAR
-  2. **Lördag och söndag öppet som vanligt Välkommen**
-
-  
+** Det finns även andra rätter att välja från dagligen **  
 
 ### Lördag & Söndag
 A la Carte - Välkommen
