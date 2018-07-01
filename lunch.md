@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.26
+title: Lunch V.27
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Dillkött med morötter och kokt potatis.
-2. Biff lindström med brunsås samt grönsaker och kokt potatis.
+1. Skomakarlåda med baconsås, lingon och potatismos.
+2. Grillad fläskkarré med potatisgratäng, tomatiserad löksås och sallad.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Älgfärsbiff med murkelsås och lingon samt grönsaker och kokt potatis.
+2. Spaghtti med tonfisk och räksås.
 
 
 ### Onsdag
 
-1. Stekt torskfilé med spenat, räksås och kokt potatis.
-2. Texmex limpa med salsasås, grönsaker och kokt potatis.
+1. Lax wallenbergare med hummersås, ärtor och potatispuré.
+2. Köttgryta med rotgrönsaker och kokt potatis.
 
 ### Torsdag
  
-1. Sommarsoppa tunna pannkakor, sylt och grädde.
-2. Fläskfilé med baconsås samt potatismos och lingon.
+1. Köttfärssoppa med creme feraiche samt tunna pannkakor, sylt och grädde.
+2. Panerad schnitzel med rödvinsås, stekta röbetor och kapris samt stekt potatis.
  
 ### Fredag
  
-1. Schweizisk schnitzel med cidersås, stekt äpple och råstade potatis.
-2. Nötlevergryta med ris och lingonsylt.
+1. Plummenfylda kycklingbröst med apelsinsås, grönsaker och ris.
+2. Biff backman med stekt ägg, samt cremesås och stekt potatis.
 
 ** Det finns även andra rätter att välja från dagligen **  
 
