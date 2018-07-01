@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Spaghtti med tonfisk och räksås.
+2. Spaghetti med tonfisk och räksås.
 
 
 ### Onsdag
