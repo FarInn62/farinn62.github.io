@@ -23,8 +23,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Onsdag
 
-1. Kalvfärs biff med kantarellsås, rårörda lingon, grönsaker och kokt potatis.
-2. Rökt skincka med potatis sallad.
+1. Kalvfärsbiff med kantarellsås, rårörda lingon, grönsaker och kokt potatis.
+2. Rökt skinka med potatis sallad.
 
 ### Torsdag
  
