@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.28
+title: Lunch V.29
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Helstekt fläskytterfilé med grönpepparsås och stekt potatis.
-2. Stekt falukorv med stuvade makaroner.
+1. Biff stroganoff med ris, smetana samt inlagd gurka.
+2. Kokt torskfilé med ägg och persiljesås samt kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Smörstekt rödspätta med räksås, grönsaker och kokt potatis.
+2. Smörstekt Lax med skagensås, grönsaker och kokt potatis.
 
 
 ### Onsdag
 
-1. Kalvfärsbiff med kantarellsås, rårörda lingon, grönsaker och kokt potatis.
-2. Rökt skinka med potatis sallad.
+1. Chili Con Carne med ris och sallad.
+2. Grekisk färsbiff med ztatziki dressing, sallad och potaismos.
 
 ### Torsdag
  
-1. Sommarsoppa med bacon samt tunna pannkakor, sylt och grädde.
-2. Älgskav med viltsås och vinbärgele samt potatismos.
+1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
+2. Benfri kotlett med tryffelsås, grönsaker och stekt potatis.
  
 ### Fredag
  
-1. Baconinbakad köttfärslimpa med champinjonsås, grönsaker och kokt potatis.
-2. Kycklinggryta med curry-banansås samt paprikasallad och ris.
+1. Kalvytterfilé med sherrysås, grönsaker och stekt potatis.
+2. Pytt i panna med stekt ägg och rödbetor.
 
 ** Det finns även andra rätter att välja från dagligen **  
 
