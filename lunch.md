@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.29
+title: Lunch V.30
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Biff stroganoff med ris, smetana samt inlagd gurka.
-2. Kokt torskfilé med ägg och persiljesås samt kokt potatis.
+1. Kålpudding med gräddsås, lingonsylt och kokt potatis.
+2. Stekt strömmingflundra med smörsås, räkor och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Smörstekt Lax med skagensås, grönsaker och kokt potatis.
+2. Pasta penne med fläskfilesås och grönsaker.
 
 
 ### Onsdag
 
-1. Chili Con Carne med ris och sallad.
-2. Grekisk färsbiff med ztatziki dressing, sallad och potaismos.
+1. Ostpanerad schnitzel med italiensk ostsås, grönsaker och stekt potatis.
+2. Stekt falukorv med stuvad pasta samt sallad.
 
 ### Torsdag
  
-1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
-2. Benfri kotlett med tryffelsås, grönsaker och stekt potatis.
+1. Sommarsoppa samt tunna pannkakor, sylt och grädde.
+2. Smörstekt torskfilé med räkmajonäs och kokt potatis.
  
 ### Fredag
  
-1. Kalvytterfilé med sherrysås, grönsaker och stekt potatis.
-2. Pytt i panna med stekt ägg och rödbetor.
+1. Helstekt kalvytterfilé med sås London house, grönsaker och råstekt potatis.
+2. Oxjärpar med brunsås, rårörda lingon samt potatispuré.
 
 ** Det finns även andra rätter att välja från dagligen **  
 
