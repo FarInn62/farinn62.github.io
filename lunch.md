@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.36
+title: Lunch V.37
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Mandel fisk med skagensås och kokt potatis.
-2. Köttbullar med gräddsås och potatismos.
+1. Ostpanerad schnitzel med rödvinsås, grönsaker och stekt potatis.
+2. Stekt rödspätta med räkor, vitvinsås och kokt potatis.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Kasslerkarré gryta med grönsaker och kokt potatis.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Kebabgryta med ris och sallad.
 
 
 ### Onsdag
 
-1. Marinerad kycklinfilé med currysås, tomatsalsa och ris.
-2. Baconinbakad lunchkorv med stuvade potatis.
+1. Kålpudding med gräddsås samt lingon och kokt potatis.
+2. Strömmingflundra med smörsås, räkor, lingon och kokt potatis.
 
 ### Torsdag
  
-1. Ärtsoppa med fläskbitar samt tunna pannkakor, sylt och grädde.
-2. Persilje järpar med sås espanjole, grönsaker och kokt potatis.
+1. Köttfärssoppa med cremefräiche samt tunna pannkakor, sylt och grädde.
+2. Baconinbakad köttfärslimpa med grönpepparsås, grönsaker och kokt potatis.
  
 ### Fredag
  
-1. Fläskfilegryta (French style) samt kokt potatis.
-2. Lövbiff med skånsk potatis samt persiljesmör och grönsaker .
+1. Älgfärsbiff med kantarellsås och lingonsylt samt grönsaker och kokt potatis.
+2. Spagetti med såsbolognese och sallad.
 
 ** A la carte finns dagligen **  
 
