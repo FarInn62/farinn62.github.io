@@ -28,8 +28,8 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Torsdag
  
-1. Köttfärssoppa medcreme fraiche samt tunna pannkakor, sylt och grädde.
-2. Benfrikotlett med kantarellsås, gelé och koktpotatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
+2. Benfri kotlett med kantarellsås, gelé och koktpotatis.
  
 ### Fredag
  
