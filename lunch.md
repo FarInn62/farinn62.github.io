@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Stroganof med ris och smetana, inlagd gurka.
+1. Biffstroganof med ris och smetana, inlagd gurka.
 2. Stekt strömmingsflundra med smörsås, räkor, lingon och potatispuré.
 
 ### Tisdag
