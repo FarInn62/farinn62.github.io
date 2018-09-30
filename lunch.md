@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.39
+title: Lunch V.40
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Biffstroganof med ris och smetana, inlagd gurka.
-2. Stekt strömmingsflundra med smörsås, räkor, lingon och potatispuré.
+1. Ostpanerad schnitzel med milanaisesås, grönsaker och stekt potatis.
+2. Fiskgratäng med skaldjurssås.
 
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt och kokt potatis.
-2. Köttbullar i gräddsås, saltgurka, lingonpuré och potatismos.
+2. Köttfärslimpa med löksås, grönsaker och kokt potatis.
 
 
 ### Onsdag
 
-1. Pastagratäng med köttfärs, ostsås och sallad.
-2. Texmexbiff med paprikasås och stekt potatis och lökmarmelad.
+1. Skomakarlåda med baconsås, lingon och potatismos.
+2. Lasagne med sallad.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
-2. Benfri kotlett med kantarellsås, gelé och koktpotatis.
+1. Ärtsoppa med fläskbitar samt tunna pannkakor, sylt och grädde.
+2. Kycklinggryta med frukt och dragon samt sallad och ris.
  
 ### Fredag
  
-1. Köttgryta med rotgrönsaker och kokt potatis.
-2. Panerad rödspätta med remouladsås, räkor, grönsaker samt koktpotatis.
+1. Fläskfilé noisette med kräfttsjärtar, sparris och tomatiserad bearnaisesås samt stekt potatis.
+2. Baconinbakad lunchkorv med persiljestuvade potatis samt sallad.
 
 ** A la carte finns dagligen **  
 
