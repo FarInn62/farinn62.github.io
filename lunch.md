@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.41
+title: Lunch V.42
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Jägarstek med champinjonsås, lingon och kokt potatis.
-2. Stekt falukorv med stuvade vitkål samt kokt potatis.
+1. Mexikansk köttgryta (Chili con carne) med ris och sallad.
+2. Köttbullar med brunsås, lingonsylt och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Köttbullar i gräddsås, gurka, lingon samt potatismos.
+2. Beconinbakad köttfärslimpa med kantarellsås och kokt potatis.
 
 
 ### Onsdag
 
-1. Kasslergryta med grönsaker och kokt potatis.
-2. Dansk sjömansbiff med öl och löksås samt råstekt potatis.
+1. Grekisk färsbiff med fetaostsås, sallad och potatispuré.
+2. Smörstekt torskfilé med vertesås, räkor och kokt potatis.
 
 ### Torsdag
  
-1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde.
-2. Pepparschnitzel med grönpepparsås, gelé, grönsaker och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
+2. Skinkfrestelse med strimlad potatis, ostsås och sallad.
  
 ### Fredag
  
-1. Kokt lax med hummersås, räkor, grönsaker och kokt potatis.
-2. Skomakarlådan med baconsås, lingon och potatispuré.
+1. Älgskav med svampsås, lingon och potatismos.
+2. Marinerad kycklingfilé med paprikasås, sallad och stekt potatis.
 
 ** A la carte finns dagligen **  
 
