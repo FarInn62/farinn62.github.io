@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Älgskav med kantarellsås ,lingon och potatismos.
+2. Älgskav med kantarellsås, lingon och potatismos.
 
 
 ### Onsdag
