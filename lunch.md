@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.43
+title: Lunch V.44
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Senapsmarinerad strömmingsflundra med smörsås, räkor, lingon och potatismos.
-2. Lasagne med sallad.
+1. Oxbringa med rotmos, pepparotsås samt rödbetor.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Biff Wallenberg med gräddsås, ärtor, lingon och potatispuré.
+2. Älgskav med kantarellsås ,lingon och potatismos.
 
 
 ### Onsdag
 
-1. Böhmisk kotlett med strimlad skinka och champinjonlök samt rödvinsås och stekt potatis.
-2. Fiskgratäng medräksås, sallad och kokt potatis.
+1. Ostpanerad schnitzel (Piccata Milanaise) med såsmilanaise och sallad samt råstekt potatis.
+2. Smörstekt rödspätta med skaldjursås, grönsaker och kokt potatis.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
-2. Skomakalåda med baconsås, lingonpuré och potatismos.
+1. Gulaschsoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
+2. Italiensk färsbiff med tomatlöksås, broccoli och stekt potatis.
  
 ### Fredag
  
-1. Lövbiff Black & White samt grönsaker och stekt potatis.
-2. Gulaschgryta med ris och sallad.
+1. Baconinbakad kycklingfilé med bladspenat, grädd-ädelostsås, griljerad tomat samt grönsaksris.
+2. Skomakarlåda med potatismos, kasslersås och lingonsylt.
 
 ** A la carte finns dagligen **  
 
