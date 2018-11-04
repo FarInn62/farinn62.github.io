@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.44
+title: Lunch V.45
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 65:-
 
 ### Måndag
 
-1. Oxbringa med rotmos, pepparotsås samt rödbetor.
-2. Stekt falukorv med stuvade makaroner.
+1. Karrégryta med äppelmos, sallad samt kokt potatis.
+2. Köttbullar med grädsås, lingonsylt och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Älgskav med kantarellsås, lingon och potatismos.
+2. Ost/skinkafylld köttfärslimpa med champinjonsås, rönnbärgsgelé samt kokt potatis.
 
 
 ### Onsdag
 
-1. Ostpanerad schnitzel (Piccata Milanaise) med såsmilanaise och sallad samt råstekt potatis.
-2. Smörstekt rödspätta med skaldjursås, grönsaker och kokt potatis.
+1. Wiener schnitzel med ärter, brunsås och stekt potatis.
+2. Gratinerad torskfilé med vitvinsås, räkor, grönsaker och potatispuré.
 
 ### Torsdag
  
-1. Gulaschsoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
-2. Italiensk färsbiff med tomatlöksås, broccoli och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
+2. Grekisk färsbiff med fetaostsås, olivsallad, soltorkade tomater samt kokt potatis.
  
 ### Fredag
  
-1. Baconinbakad kycklingfilé med bladspenat, grädd-ädelostsås, griljerad tomat samt grönsaksris.
-2. Skomakarlåda med potatismos, kasslersås och lingonsylt.
+1. Helstekt fläskytterfilé med moulin rosésås, grönsaker och potatisgratäng.
+2. Skomakarlåda med baconsås och lingon samt potatispuré.
 
 ** A la carte finns dagligen **  
 
