@@ -18,7 +18,7 @@ Alla rätter: 80:- Take away: 65:-
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Ost/skinkafylld köttfärslimpa med champinjonsås, rönnbärgsgelé samt kokt potatis.
+2. Ost/skinkfylld köttfärslimpa med champinjonsås, rönnbärgsgelé samt kokt potatis.
 
 
 ### Onsdag
