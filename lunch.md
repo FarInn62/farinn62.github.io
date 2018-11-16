@@ -18,12 +18,12 @@ Alla rätter: 80:- Take away: 70:-
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Texmex biff med paprikasalsa samtsallad och kokt potatis.
+2. Texmex biff med paprikasalsa samt sallad och kokt potatis.
 
 
 ### Onsdag
 
-1. Kebabgryta med gregisk sallad och ris.
+1. Kebabgryta med grekisk sallad och ris.
 2. Stekt falukorv med stuvad pasta och sallad.
 
 ### Torsdag
@@ -34,7 +34,7 @@ Alla rätter: 80:- Take away: 70:-
 ### Fredag
  
 1. Lax frestelse med smörsås och räkor.
-2. Renskav med chmpinjonsås och potatismos, lingonsylt.
+2. Renskav med champinjonsås och potatismos, lingonsylt.
 
 ** A la carte finns dagligen **  
 
