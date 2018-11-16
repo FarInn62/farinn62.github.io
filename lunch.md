@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.46
+title: Lunch V.47
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Kycklinggryta med bacon-currysås samt sallad och ris.
-2. Baconlindad lunchkorv med persiljestuvad potatis och bostongurka.
+1. Kalvfärsbiff med sås creme, lingonsylt, ärtor och potatismos.
+2. Smörstekt torskfilé med räksås, grönsaker och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stektfläsk, lingonsylt.
-2. Smörstekt torskfilé med dillsås, räkor, grönsaker samt kokt potatis.
+2. Texmex biff med paprikasalsa samtsallad och kokt potatis.
 
 
 ### Onsdag
 
-1. Nötköttgryta med rotgrönsaker och kokt potatis.
-2. Biff lindström med rödvinsås, persiljesmör samt boljonkokta morötter och kokt potatis.
+1. Kebabgryta med gregisk sallad och ris.
+2. Stekt falukorv med stuvad pasta och sallad.
 
 ### Torsdag
  
-1. Ärtsoppa med tunna pannkakor, sylt och grädde.
-2. Basel schnitzel med äppelcidersås, wokgrönsaker och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
+2. Skomakarlåda med baconsås, potatispuré och lingon.
  
 ### Fredag
  
-1. Entrécote London house, grönsaker och råstekt potatis.
-2. lasagne med sallad.
+1. Lax frestelse med smörsås och räkor.
+2. Renskav med chmpinjonsås och potatismos, lingonsylt.
 
 ** A la carte finns dagligen **  
 
