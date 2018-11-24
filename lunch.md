@@ -17,7 +17,7 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Tisdag
 
-1. Stektfläsk med löksås, lingon och kokt potatis.
+1. Stekt fläsk med löksås, lingon och kokt potatis.
 2. Skagensås gratinerad torskfilé med ärter och kokt potatis.
 
 
