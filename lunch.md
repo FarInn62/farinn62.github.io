@@ -24,7 +24,7 @@ Alla rätter: 80:- Take away: 70:-
 ### Onsdag
 
 1. Kycklinggryta med ris och sallad.
-2. Nötlevergryta med ris och lingon.
+2. Nötlevergryta med kokt potatis och lingon.
 
 ### Torsdag
  
