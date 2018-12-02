@@ -17,7 +17,7 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Tisdag
 
-1. Stekt fläsk medraggmunkar, lingonsylt.
+1. Stekt fläsk med raggmunkar, lingonsylt.
 2. Stekt lax med vitvinsås, räkor och kokt potatis.
 
 
