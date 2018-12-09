@@ -28,8 +28,8 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Torsdag
  
-1. Rödbetssoppa med spetana samt tunna pannkakor, sylt och grädde.
-2. Fläskfilé noisätte med stekt ananas och café de parissås, griljerad tomat och stekt potatis.
+1. Rödbetssoppa med smetana samt tunna pannkakor, sylt och grädde.
+2. Fläskfilé noisette med stekt ananas och café de parissås, griljerad tomat och stekt potatis.
  
 ### Fredag
  
