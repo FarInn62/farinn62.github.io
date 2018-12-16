@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.50
+title: Lunch V.51
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,30 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Oxbringa med rotmos och pepparotsås samt rödbetor.
-2. Stekt rödspätta med remouladsås, räksallad och kokt potatis.
+1. Jägarnoisette med kantarellsås och lingonsylt samt kokt potatis.
+2. Stakt falukorv med stuvade makaroner.
 
 ### Tisdag
 
 1. Stekt fläsk med raggmunkar, lingonsylt.
-2. Baconinbakad köttfärslimpa med vinägersås, grekisksallad och kokt potatis.
+2. Lax frestelse med smörsås, räkor och grönsaker.
 
 
 ### Onsdag
 
-1. Ostgratinerad kassler med dragonsås, ärter och potatiskaka.
-2. Dansk sjömansbiff med öllöksås och persiljasmör samt råstekt potatis.
+1. Älgfärsbiff med vildsås, rårörda lingon och kokt potatis.
+2. Köttgryta med rotgrönsaker samt kokt potatis.
 
 ### Torsdag
  
-1. Rödbetssoppa med smetana samt tunna pannkakor, sylt och grädde.
-2. Fläskfilé noisette med stekt ananas och café de parissås, griljerad tomat och stekt potatis.
+1. Köttfärssoppa samt tunna pannkakor, sylt och grädde.
+2. Pytt i panna med stekt ägg och rödbetor.
+3. Litet julbord med små varmt. Pris 140:-
  
 ### Fredag
  
-1. Lasagne med sallad.
-2. Lövbiff med bearnaisesås, grönsaker och stekt potatis.
+1. Kyckling Schnitzel med rosepepparsås, grönsaker och stekt potatis.
+2. Skomakarlåda med baconsås samt lingon och potatismos.
 
 ** A la carte finns dagligen **  
 
