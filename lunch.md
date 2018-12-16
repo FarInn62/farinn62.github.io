@@ -30,7 +30,7 @@ Alla rätter: 80:- Take away: 70:-
  
 1. Köttfärssoppa samt tunna pannkakor, sylt och grädde.
 2. Pytt i panna med stekt ägg och rödbetor.
-3. Litet julbord med små varmt. Pris 140:-
+3. Litet julbord med små varmt, årets sista.  Pris 140:-
  
 ### Fredag
  
