@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.51
+title: Lunch V.52
 permalink: /lunch/
 published: true
 ---
@@ -12,30 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Jägarnoisette med kantarellsås och lingonsylt samt kokt potatis.
-2. Stakt falukorv med stuvade makaroner.
+1. STÄNGT.
+2. Önskar alla våra kunder God Jul.
 
 ### Tisdag
 
-1. Stekt fläsk med raggmunkar, lingonsylt.
-2. Lax frestelse med smörsås, räkor och grönsaker.
+1. STÄNGT.
+2. Önskar alla våra kunder God Jul.
 
 
 ### Onsdag
 
-1. Älgfärsbiff med vildsås, rårörda lingon och kokt potatis.
-2. Köttgryta med rotgrönsaker samt kokt potatis.
+1. A LA CARTE.
+2. GOD FORTSÄTTNING.
 
 ### Torsdag
  
-1. Köttfärssoppa samt tunna pannkakor, sylt och grädde.
-2. Pytt i panna med stekt ägg och rödbetor.
-3. Litet julbord med små varmt, årets sista.  Pris 140:-
+1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+2. Fläskfilé med bearnaisesås, grönsaker och stekt potatis.
  
 ### Fredag
  
-1. Kyckling Schnitzel med rosepepparsås, grönsaker och stekt potatis.
-2. Skomakarlåda med baconsås samt lingon och potatismos.
+1. Helstekt oxryggbiff med madeirasås, grönsaker och stekt potatis.
+2. Pannbiff med löksås, grönsaker och kokt potatis.
 
 ** A la carte finns dagligen **  
 
