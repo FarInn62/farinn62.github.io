@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.1
+title: Lunch V.2
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. ALA Carte.
-2. GOTT NYTT ÅR
+1. Karréstek med chmpinjonsås, lingonsylt och kokt potatis.
+2. Stektströmming med smörsås samt kräftstjärtar och potatismos.
 
 ### Tisdag
 
-1. STÄNGT.
-2. Önskar alla våra kunder GOD FORTSÄTTNING.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Panerad rödspätta med vertesås och räkor samt grönsaker och kokt potatis.
 
 
 ### Onsdag
 
-1. Raggmunkar med stekt fläsk samt lingon sylt.
-2. Stekt rödspätta med vertesås och räkor samt kokt ptatis.
+1. Köttfärslimpa med baconsås, lingonsylt och potatispuré.
+2. Kyckling gryta med banan och currysås samt anannas sallad och ris.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde.
-2. Italiensk färsbiff med soltorkade tomater, ostsås samt pasta penne.
+1. Ärtsoppa samt tunna pannkakor, sylt och grädde.
+2. Ostpanerad noisette med tomatiserad bearnaisesås, grönsaker och stekt potatis.
  
 ### Fredag
  
-1. Paprikafylld kycklingfilé med rosépepparsås samt grönsaker och rostad potstis.
-2. Pytt i panna med stekt ägg och rödbetor.
+1. Älgskav med kantarellsås samt lingon och potatismos.
+2. Dansk sjömansbiff med öl-läksås, persiljesmör och råstekt potatis.
 
 ** A la carte finns dagligen **  
 
