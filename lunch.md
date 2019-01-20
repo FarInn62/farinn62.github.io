@@ -28,8 +28,8 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fräiche samt pannkakor med sylt och grädde.
-2. Spaghtti med sås bolognese samt grönsaker och ost.
+1. Köttfärssoppa med creme fraiche samt pannkakor med sylt och grädde.
+2. Spagehtti med sås bolognese samt grönsaker och ost.
  
 ### Fredag
  
