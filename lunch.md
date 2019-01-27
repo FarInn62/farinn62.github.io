@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.4
+title: Lunch V.5
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Nasi goreng med anannas sallad.
-2. Stekt rödspätta med remouladsås, räkor och kokt potatis.
+1. Kokt rimmad skinka med rotmos, pepparots creme och rödbetor.
+2. Skomakarlåda med baconsås och lingonpuré samt potatismos.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingon och kokt potatis.
-2. Oxjärpar med cremesås, grönskaer och potatismos.
+1. Raggmunkar med stekt fläsk, lingonsylt.
+2. Biffstroganoff med ris och gurka smetana.
 
 
 ### Onsdag
 
-1. Chili con carne med ris och sallad.
-2. Duchesse överbakad schnitzel med café de parissås samt wok grönsaker.
+1. Koktlax med skagensås, grönsaker och kokt potatis.
+2. Grekisk färsbiff med tzatziki deressing, paprikasallad samt råstekt potatis.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt pannkakor med sylt och grädde.
-2. Spagehtti med sås bolognese samt grönsaker och ost.
+1. Ärtsoppa samt Tunna pannkakor med sylt och grädde.
+2. Älgskav med kantarellsås, lingon och potatispuré.
  
 ### Fredag
  
-1. Böhmisk skinkgryta med strimlad potatis och sallad.
-2. Räksås gratinerad torskfilé med räksallad och kokt potatis.
+1. Fläskfilé schnitzel med tryffelsås samt grönsaker och potatisgratäng.
+2. Stekt falukorv med stuvade makaroner och sallad.
 
 ** A la carte finns dagligen **  
 
