@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Onsdag
 
-1. Koktlax med skagensås, grönsaker och kokt potatis.
+1. Kokt lax med skagensås, grönsaker och kokt potatis.
 2. Grekisk färsbiff med tzatziki deressing, paprikasallad samt råstekt potatis.
 
 ### Torsdag
