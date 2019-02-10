@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.6
+title: Lunch V.7
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Kalops med rödbetor och kokt potatis.
-2. Baconinbakad lunch korv med persiljestuvade potatis samt bostongurka.
+1. Biff Wallenberg med gräddsås, lingon, ärter och potatispuré.
+2. Levergryta med ris och lingon.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Pytti panna toppad med stekt ägg och rödbetor.
+2. Smörstekt rödspätta med skaldjursås samt sallad och kokt potatis.
 
 
 ### Onsdag
 
-1. Kyckling schnitzel med curry bearnaisesås och grönsaksris.
-2. Stekt torskfilé med smörsås och räkor samt grönsaker och kokt potatis.
+1. Flöskfilé ala chateau med sherrysås och råstekta potatis.
+2. Lasagne med sallad.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt Tunna pannkakor med sylt och grädde.
-2. Ostpanerad noisette med tomatiserad löksås samt broccoli och stekt potatis.
+1. Ärtsoppa samt Tunna pannkakor med sylt och grädde.
+2. Skomakarlåda med baconsås samt lingonsylt och potatismos.
  
 ### Fredag
  
-1. Kebab med pasta penne och salsasås samt tomatsallad.
-2. Herrgårds stek med gräddsås och rårörda lingon samt grönsaker och kokt potatis.
+1. Biff ala lindström med rödvinsås och persiljesmör samt grönsaker och kokt potatis.
+2. Laxfrestelse med smörsås, räkor och grönsaker.
 
 ** A la carte finns dagligen **  
 
