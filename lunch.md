@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 70:-
  
 ### Fredag
  
-1. Portesstek med rotgrönsaker vinbärsås och kokt potatis.
+1. Porterstek med rotgrönsaker vinbärsås och kokt potatis.
 2. Pannbiff med baconsås, lingonpuré och potatismos.
 
 ** A la carte finns dagligen **  
