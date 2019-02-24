@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.8
+title: Lunch V.9
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Wiener schnitzel madeirasås och citron, ärter och stekt potatis.
-2. Senapsmarinerad strömmingsflundra samt citronsås och grönsaker, lingon och potatispuré.
+1. Kasslergryta med äpplemos samt sallad och ris.
+2. Pytti panna topad med stekt ägg och rödbetor.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Italiensk köttfärslimpa med Milanaisesås samt sallad och kokt potatis.
+1. Stekt fläsk med lök och gräddsås samt lingonsylt och kokt potatis.
+2. Köttbullar i brunsås och potatismos, boston gurka.
 
 
 ### Onsdag
 
-1. Panerad kotlett med kantarellsås, äppelmos, grönsaker och kokt potatis.
-2. Stekt falukorv med stuvade pasta samt sallad.
+1. Dansk sjömansbiff med ölsås, persiljesmör och råstekt potatis.
+2. Kycklingfilé med spinat och ädelostsås samt stekt potatis.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt Tunna pannkakor med sylt och grädde.
-2. Helstekt fläskfilé med tryffelsås, wokgrönsaker och stekt potatis.
+1. Köttsoppa samt Tunna pannkakor med sylt och grädde.
+2. Stekt torskfilé med skaldjursås och kokt potatis.
  
 ### Fredag
  
-1. Biffstek med stektlök och vinsås samt grönsaker och stekt potatis.
-2. Stekt gösfilé med pestosås, räkor och kokt potatis.
+1. Portesstek med rotgrönsaker vinbärsås och kokt potatis.
+2. Pannbiff med baconsås, lingonpuré och potatismos.
 
 ** A la carte finns dagligen **  
 
