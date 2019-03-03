@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.9
+title: Lunch V.10
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Kasslergryta med äpplemos samt sallad och ris.
-2. Pytti panna topad med stekt ägg och rödbetor.
+1. Kycklinggryta indiana med banan, grönsaker och ris.
+2. Ostgratinerad makaronlåda med köttfärs och sallad.
 
 ### Tisdag
 
-1. Stekt fläsk med lök och gräddsås samt lingonsylt och kokt potatis.
-2. Köttbullar i brunsås och potatismos, boston gurka.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Stekt falukorv med potatismos och bostongurka dressing .
 
 
 ### Onsdag
 
-1. Dansk sjömansbiff med ölsås, persiljesmör och råstekt potatis.
-2. Kycklingfilé med spinat och ädelostsås samt stekt potatis.
+1. Kebab med risotto och sallad samt creme fraiche.
+2. Stekt strömmingsflundra med kaviar majonäs, räkor och potatispuré.
 
 ### Torsdag
  
-1. Köttsoppa samt Tunna pannkakor med sylt och grädde.
-2. Stekt torskfilé med skaldjursås och kokt potatis.
+1. Ärtsoppa samt Tunna pannkakor, sylt och grädde.
+2. Basel schnitzel med cidersås samt äpplemos, grönsaker och råstekt potatis.
  
 ### Fredag
  
-1. Porterstek med rotgrönsaker vinbärsås och kokt potatis.
-2. Pannbiff med baconsås, lingonpuré och potatismos.
+1. Biff ala Greta med tärnade potatis samt senapsås och stekt lök.
+2. Baconbiff med grönpepparsås samt grönsaker och stekt potatis.
 
 ** A la carte finns dagligen **  
 
