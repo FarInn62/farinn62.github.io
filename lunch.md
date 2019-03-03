@@ -24,7 +24,7 @@ Alla rätter: 80:- Take away: 70:-
 ### Onsdag
 
 1. Kebab med risotto och sallad samt creme fraiche.
-2. Stekt strömmingsflundra med kaviar majonäs, räkor och potatispuré.
+2. Stekt strömmingsflundra med kaviarmajonäs, räkor och potatispuré.
 
 ### Torsdag
  
