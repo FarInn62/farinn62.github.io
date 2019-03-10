@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 70:-
  
 ### Fredag
  
-1. Kaivfärsbiff med gräddsås, rårörda lingon samt potatismos.
+1. Kalvfärsbiff med gräddsås, rårörda lingon samt potatismos.
 2. Fläskfilégryta med kokt potatis och grekisk sallad.
 
 ** A la carte finns dagligen **  
