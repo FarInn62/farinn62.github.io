@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.11
+title: Lunch V.12
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Älgfärsbiff med viltsås, lingonsylt och kokt potatis.
-2. Baconinbakad köttfärstornados med kantarellsås, grönsaker och stekt potatis.
+1. Älgskavgryta med potatismos samt lingon.
+2. Stekt lunchkorv med persiljastuvad potatis och grönsaker.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Spaghetti bolagnese samt ost och sallad.
+2. Kokt lax med räksås, grönsaker och kokt potatis .
 
 
 ### Onsdag
 
-1. Korvstroganoff med ris och gurka smetana.
-2. Lax ferestelse med smörsås samt heta räkor och sallad.
+1. Kyckling Marngo med champinjoner, kräftsjärtar, mild tomatsås, ris och sallad.
+2. Texmexbiff med såsespanjole, potatispuré och skinksallad.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt Tunna pannkakor, sylt och grädde.
-2. Schnitzel med sherrysås, ärter och stekt potatis.
+1. Ärtsoppa samt Tunna pannkakor, sylt och grädde.
+2. Köttfärs gratäng med ädelostsås,grönsaker och kokt potatis.
  
 ### Fredag
  
-1. Kalvfärsbiff med gräddsås, rårörda lingon samt potatismos.
-2. Fläskfilégryta med kokt potatis och grekisk sallad.
+1. Fläskfilé Oscar toppad med sparris och kräftor samt tomatiserad bearnaisesås och stekt potatis.
+2. Pyttipanna med stekt ägg och inlagd rödbetor.
 
 ** A la carte finns dagligen **  
 
