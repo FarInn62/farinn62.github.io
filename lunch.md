@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Onsdag
 
-1. Hergårdsgryta med svart vinbärs gelé och kokt potatis.
+1. Herrgårdsgryta med svart vinbärs gelé och kokt potatis.
 2. Kycklingfilé med dragonsås, stekt potatis och sallad.
 
 ### Torsdag
