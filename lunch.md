@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.13
+title: Lunch V.14
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Vitvinkokt torskfilé med krabbsås och kokt potatis.
-2. Skomakarlåda med baconsås lingon och potatismos.
+1. Oxbringa med rotmos, rödbetor och pepparotsås.
+2. Korvstroganoff med ris och inlagd gurka.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Ostgratinerad kassler med ananns samt sås café de paris och kokt potatis .
+2. Köttfärslimpa med grädd-baconsås samt potatismos och lingon .
 
 
 ### Onsdag
 
-1. Herrgårdsgryta med svart vinbärs gelé och kokt potatis.
-2. Kycklingfilé med dragonsås, stekt potatis och sallad.
+1. Kycklinggryta Indiana med banan currysås, paprika och ris.
+2. Köttbullar med gräddsås, lingon, inlagd gurka och potatisouré.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt Tunna pannkakor, sylt och grädde.
-2. Ost och skinkfylled schnitzel med vinsås, ärter samt stekt potatis.
+1. Köttsoppa samt Tunna pannkakor, sylt och grädde.
+2. Smörstekt rödspätta med remouladsås, räkor och kokt potatis.
  
 ### Fredag
  
-1. Helstekt oxryggbiff med tryfflesås, wokgrönsaker och råstekta potatis.
-2. Pestolax med skagensås och kokt potatis.
+1. Schnitzel (princesse) med bearnaisesås, griljerad tomat, ärter, stekt potatis.
+2. Stekt Gösfilé med hummersås, räksallad och kokt potatis.
 
 ** A la carte finns dagligen **  
 
