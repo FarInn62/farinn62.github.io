@@ -13,7 +13,7 @@ Alla rätter: 80:- Take away: 70:-
 ### Måndag
 
 1. Jägarmästaren´s älgskav med kantarellsås, lingonsylt och potatismos.
-2. Biff lindström med rödvinskyoch persiljesmör samt grönsaker och kokt potatis.
+2. Biff lindström med rödvinsky och persiljesmör samt grönsaker och kokt potatis.
 
 ### Tisdag
 
