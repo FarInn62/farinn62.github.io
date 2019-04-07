@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.14
+title: Lunch V.15
 permalink: /lunch/
 published: true
 ---
@@ -12,29 +12,29 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Oxbringa med rotmos, rödbetor och pepparotsås.
-2. Korvstroganoff med ris och inlagd gurka.
+1. Jägarmästaren´s älgskav med kantarellsås, lingonsylt och potatismos.
+2. Biff lindström med rödvinskyoch persiljesmör samt grönsaker och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Köttfärslimpa med grädd-baconsås samt potatismos och lingon .
+2. Strömmingsflundra för finsmakare med smörsås, räkor, lingon och potatispuré .
 
 
 ### Onsdag
 
-1. Kycklinggryta Indiana med banan currysås, paprika och ris.
-2. Köttbullar med gräddsås, lingon, inlagd gurka och potatisouré.
+1. Fransk köttgryta med grönsaker och strimlad potatis.
+2. Kokt lax med hummersås, räkor och grönsaker samt kokt potatis.
 
 ### Torsdag
  
-1. Köttsoppa samt Tunna pannkakor, sylt och grädde.
-2. Smörstekt rödspätta med remouladsås, räkor och kokt potatis.
+1. Blomkålsoppa med strimlad bacon samt Tunna pannkakor, sylt och grädde.
+2. Wiener schnitzel med madeira-gräddsås samt ärtor och stekt potatis.
  
 ### Fredag
  
-1. Schnitzel (princesse) med bearnaisesås, griljerad tomat, ärter, stekt potatis.
-2. Stekt Gösfilé med hummersås, räksallad och kokt potatis.
+1. Helstekt fläskfilé med London housesås, grönsaker och råstekt potatis.
+2. Pannbiff med baconsås samt lingonsylt och potatismos.
 
 ** A la carte finns dagligen **  
 
