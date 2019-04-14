@@ -40,4 +40,4 @@ Alla rätter: 80:- Take away: 70:-
 
 
 ### Lördag & Söndag
-A la Carte  och Påsk tallrik - Välkommen
+A la Carte med Påsk tallrik - Välkommen
