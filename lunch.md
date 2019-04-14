@@ -12,19 +12,19 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Gratinerad torkfilé med vitvinsås, räkor och kokt potatis.
-2. Spaghetti bolagnaise toppad med ost.
+1. Gratinerad torskfilé med vitvinsås, räkor och kokt potatis.
+2. Spaghetti bolagnese toppad med ost.
 
 ### Tisdag
 
 1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Grekisk färskbiff med sllad och tzatziki dressing samt potatismos .
+2. Grekisk färskbiff med sallad och tzatziki dressing samt potatismos .
 
 
 ### Onsdag
 
 1. Lax wallenbergare med hummersås, ärter, lingon och potatispuré.
-2. Persilje järpar, brunsås, grönsaker och kokr potatis.
+2. Persilje järpar, brunsås, grönsaker och kokt potatis.
 
 ### Torsdag
  
@@ -33,7 +33,7 @@ Alla rätter: 80:- Take away: 70:-
  
 ### Fredag
 
-1.Stängd
+1.Stängt
 2.Glad PÅsk
 
 ** A la carte finns dagligen **  
