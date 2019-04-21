@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.16
+title: Lunch V.17
 permalink: /lunch/
 published: true
 ---
@@ -12,32 +12,32 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Gratinerad torskfilé med vitvinsås, räkor och kokt potatis.
-2. Spaghetti bolagnese toppad med ost.
+1. Endast Ala Carte.
+2. 
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Grekisk färskbiff med sallad och tzatziki dressing samt potatismos .
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Köttbullar i gräddsås, potatispuré, gurka och lingon.
 
 
 ### Onsdag
 
-1. Lax wallenbergare med hummersås, ärter, lingon och potatispuré.
-2. Persilje järpar, brunsås, grönsaker och kokt potatis.
+1. Dillköttgryta med morötter och kokt potatis.
+2. Stekt lunchkorv med bostongurka, strimlad bacon och stekt potatis.
 
 ### Torsdag
  
-1. Köttfärssoppa med creme fraiche samt Tunna pannkakor, sylt och grädde.
-2. Löv biff med bearnaise sås samt grönsaker och stekt potatis.
+1. Spinatsoppa med ägghalva samt Tunna pannkakor, sylt och grädde.
+2. Ostpanerad schnitzel med café de paris sås, haricots werte samt stekt potatis.
  
 ### Fredag
 
-1.Stängt
-2.Glad PÅsk
+1. Kyckling schnitzel med currysås, stekta grönsaker och potatisgratäng.
+2. Kokt lax med hummer och ostsås, skaldjur och potatismos.
 
 ** A la carte finns dagligen **  
 
 
 ### Lördag & Söndag
-A la Carte med Påsk tallrik - Välkommen
+A la Carte - Välkommen
