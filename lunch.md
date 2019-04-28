@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.17
+title: Lunch V.18
 permalink: /lunch/
 published: true
 ---
@@ -12,32 +12,34 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 
-1. Endast Ala Carte.
-2. 
+1. Ungersk Gulashgryta med ris och sallad.
+2. Stekt falukorv med stuvade pasta.
 
 ### Tisdag
+Valborgmessoafton
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Köttbullar i gräddsås, potatispuré, gurka och lingon.
+2. Ångkokt torsfile med ägg-persiljasås samt grönsaker och kokt potatis.
 
 
 ### Onsdag
 
-1. Dillköttgryta med morötter och kokt potatis.
-2. Stekt lunchkorv med bostongurka, strimlad bacon och stekt potatis.
+1. FÖRTSTA MAI A LA CARTE.
+
 
 ### Torsdag
  
-1. Spinatsoppa med ägghalva samt Tunna pannkakor, sylt och grädde.
-2. Ostpanerad schnitzel med café de paris sås, haricots werte samt stekt potatis.
+1. Baconsoppa med grönsaker samt Tunna pannkakor, sylt och grädde.
+2. Skomakarlåda med potatispuré och lingon.
  
 ### Fredag
 
-1. Kyckling schnitzel med currysås, stekta grönsaker och potatisgratäng.
-2. Kokt lax med hummer och ostsås, skaldjur och potatismos.
+1. Älgfärsbiff med gräddkokta kantarellsås samt grönsaker, lingonpuré och kokt potatis.
+2. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
+
+VECKANS SALLAD ÄR GREKISK MED STRIMLAD KYCLING SAMT DRESSING
 
 ** A la carte finns dagligen **  
-
 
 ### Lördag & Söndag
 A la Carte - Välkommen
