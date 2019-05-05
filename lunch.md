@@ -36,7 +36,7 @@ Alla rätter: 80:- Take away: 70:-
 1. Wienerfärslimpa med murkelsås samt grönsaker och kokt potatis.
 2. Fläskfilé noisette med sherrysås, stekta champinjoner, grönsaker och potatispuré.
 
-     (VAR MED MÅNADEN LOTTNIING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
+     (VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
 
 ** A la carte finns dagligen **  
 
