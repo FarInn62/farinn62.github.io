@@ -35,8 +35,8 @@ Alla rätter: 80:- Take away: 70:-
 1. Fransk köttgryta med broccoli och blomkål, kokt potatis.
 2. Rostbiff med lingoncreme och potatisgratäng.
 
-     (VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
-                        ** A la carte finns dagligen **  
+(VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
+                  ** A la carte finns dagligen **  
 
 ### Lördag & Söndag
 A la Carte - Välkommen
