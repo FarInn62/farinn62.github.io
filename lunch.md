@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.20
+title: Lunch V.21
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take away: 70:- 
 
 ### Måndag
-1. Grillkarré med vodka-enbärsås samt sallad och stekt potatis .
-2. Korvstroganoff med ris och inlagd gurka.
+1. Kebabgryta med ris och sallad .
+2. Ångkokt Sejfilé med dillstuvade räkor samt morötter och kokt potatis.
 
 ### Tisdag
-1. Stekt fläsk med löksås samt lingonsylt och kokt potatis.
-2. Dansk sjömansbiff med lök-ölsås, persiljesmör och råstekta potatis.
+1. Raggmunkar med stekt fläsk samt lingonsylt och kokt potatis.
+2. Baconinbakad lunchkorv med persijestuvad potatis och tomatsallad.
 
 ### Onsdag
-1. Panerad kotlett med dragonsås, grönsaker och stekt potatis.
-2. Stekt torskfilé med smörsås, räkor, grönsaker samt kokt potatis.
+1. Lax och räkfrestlse, smörsås och grönsaker.
+2. Skomakarlåda med baconsås samt lingon och potatispuré.
 
 ### Torsdag
-1. Sommarsoppa samt Tunna pannkakor, sylt och grädde.
-2. Italiensk färsbiff med milanaise sås samt Sallad och pasta.
+1. Köttfärssoppa med creme fraiche samt Tunna pannkakor, sylt och grädde.
+2. Panerad noisetter med kantarellsås, svartvinbärsjelé och stekt potatis.
  
 ### Fredag
-1. Fransk köttgryta med broccoli och blomkål, kokt potatis.
-2. Rostbiff med lingoncreme och potatisgratäng.
+1. Chili con carne med sallad och ris.
+2. Köttbullar och gräddsås med potatismos samt inlaggd gurka och lingon.
 
 (VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
                   ** A la carte finns dagligen **  
