@@ -23,7 +23,7 @@ Alla rätter: 80:- Take away: 70:-
 2. Ostgratinerad falukorv med potatismos, bostongurka dressing och sallad.
 
 ### Torsdag
-1. 15-årsjubileum - 
+1. 15-ÅRSJUBILEUM - 
    Fläsfilé noisette med tryffel och bearnaisesås samt grönsaker och pommes frites.
 2. A LA CARTE
  
