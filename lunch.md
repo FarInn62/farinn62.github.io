@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.23
+title: Lunch V.24
 permalink: /lunch/
 published: true
 ---
@@ -11,25 +11,25 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take away: 70:- 
 
 ### Måndag
-1. Orientalisk kycklinggryta med ananas, banan, bacon samt kokt ris .
-2. Panerad fläskytterfilé med dragonsås, grönsaker och stekt potatis.
+1. Marinerad karréstek med örtgårdssås, grönsaker och stekt potatis.
+2. Älgfärsbiff med kantarellsås, lingon och färsk potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt och kokt potatis.
-2. Smörstekt rödspätta med citron räksås och grönsaker samt kokt potatis.
+2. Skomakarlåda med baconsås, lingonpuré och potatismos.
 
 ### Onsdag
-1. Köttgryta med rotgrönsaker samt äppelmos och kokt potatis.
-2. Ostgratinerad falukorv med potatismos, bostongurka dressing och sallad.
+1. Smörstekt rödspätta med remouladsås samt grönsaker och kokt potatis.
+2. Stekt lunchkorv med stuvad pasta och sallad.
 
 ### Torsdag
-1. 15-ÅRSJUBILEUM - 
-   Fläsfilé noisette med tryffel och bearnaisesås samt grönsaker och pommes frites.
-2. A LA CARTE
+1.  Sommarsoppa med tunna pannkakor samt sylt och grädde. 
+2.  Kebabgryta med grönsaksris och tomatsallad.
  
 ### Fredag
-1. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekta potatis.
-2. Lasange med sallad.
+1. Slottstek med madeira-gräddsås, rotgrönsaker, röd vinbärsgelé samt kokt potatis.
+2. Kungsflundra med skagensås och potatispuré.
+
 
 (VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
                   ** A la carte finns dagligen **  
