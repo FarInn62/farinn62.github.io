@@ -32,6 +32,5 @@ Alla rätter: 80:- Take away: 70:-
 
 (VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
                   ** A la carte finns dagligen **  
-
 ### Lördag & Söndag
 A la Carte - Välkommen
