@@ -30,7 +30,6 @@ Alla rätter: 80:- Take away: 70:-
 1. Slottstek med madeira-gräddsås, rotgrönsaker, röd vinbärsgelé samt kokt potatis.
 2. Kungsflundra med skagensås och potatispuré.
 
-
 (VAR MED MÅNADEN LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
                   ** A la carte finns dagligen **  
 
