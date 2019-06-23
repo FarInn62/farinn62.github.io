@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.25
+title: Lunch V.26
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 80:- Take away: 70:- 
 
 ### Måndag
-1. Dillköttgryta med strimlade morötter och kokt potatis.
-2. Lasagne med sallad.
+1. Herrgårdsstek med grädsås samt lingon, grönsaker och kokt potatis.
+2. Stekt strömmingsflundra med smörsås, räkor, lingon samt potatismos.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk samt lingonsylt och kokt potatis.
-2. Rådjurslimpa med jägarmästarsåssås rårörda lingon samt potatispuré.
+1. Stekt fläsk med löksås, lingon och kokt potatis.
+2. Skomakarlåda med baconsås och potatispuré.
 
 ### Onsdag
-1. Basel schnitzel med äpplevinsås, grönsaker och stekt potatis.
-2. Mandelfisk med räksås och sallad samt kokt potatis.
+1. Grillkarré med champinjonsås, steka äpplen och potatisgratäng.
+2. Vitvinkokt kungsflundra med hummersås, heta räkor och kokt potatis.
 
 ### Torsdag
-1.  Köttfärssoppa med creme fraiche samt tunna pannkakor samt sylt och grädde. 
-2.  Grilerad kycklingfilé med ädelostsås,spenat, krossad tomat och ris.
+1.  Köttsoppa samt tunna pannkakor samt sylt och grädde. 
+2.  Stekt falukorv med stuvade makaroner.
  
 ### Fredag
-1. STÄNGT.
-2. GLAD MIDSOMMAR.
+1. Kycklinggryta indiana med ris och sallad.
+2. Italiensk färsbiff med strimlad potatis, rödvinsås, soltorkade tomater samt pastapenne.
 
 (VAR MED MÅNADENS LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
                   ** A la carte finns dagligen **  
