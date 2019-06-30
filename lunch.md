@@ -12,7 +12,7 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Måndag
 1. Pannbiff med stekt lök och brunsås, grönsaker och kokt potatis.
-2. Pyttpanna med stekt ägg och rödbetspickel.
+2. Pyttpanna med stekt ägg och rödbetor.
 
 ### Tisdag
 1. Stekt fläsk med Raggmunk, lingon och kokt potatis.
@@ -24,7 +24,7 @@ Alla rätter: 80:- Take away: 70:-
 
 ### Torsdag
 1.  Sommarsoppa samt tunna pannkakor samt sylt och grädde. 
-2.  Wiener schnitzel med rödvinsky, ärter och citron samt stekt potatis.
+2.  Wiener schnitzel med rödvinsky, ärter och citron, därtill stekt potatis.
  
 ### Fredag
 1. Smörstekt havsabbore med såsverté, räkor och kokt potatis.
