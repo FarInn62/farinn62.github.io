@@ -29,8 +29,8 @@ Alla rätter: 85:- Take away: 70:-
 ### Fredag
 1. Lax frestelse med smörsås, räkor och grönsaker.
 2. Rådjursbiff med enbärsås och rönnbärsgelé samt stekta grönsaker och kokt potatis.
-(Det blir ingen lottning denna månad)
-Välkommna
+                    (Det blir ingen lottning denna månad)
+                                Välkommna
                   ** A la carte finns dagligen **  
 ### Lördag & Söndag
 A la Carte - Välkommen
