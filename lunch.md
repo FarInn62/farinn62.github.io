@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.27
+title: Lunch V.28
 permalink: /lunch/
 published: true
 ---
@@ -8,29 +8,29 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
 Mån - Fre: 11:00 - 15:00  
-Alla rätter: 80:- Take away: 70:- 
+Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Pannbiff med stekt lök och brunsås, grönsaker och kokt potatis.
-2. Pyttpanna med stekt ägg och rödbetor.
+1. Skomakarlåda med baconsås, lingonsylt och potatismos.
+2. Korvstroganoff med ris och inlaggd gurka.
 
 ### Tisdag
-1. Stekt fläsk med Raggmunk, lingon och kokt potatis.
-2. Oxjärpar med cremesås samt gurka och potatismos.
+1. Stekt fläsk med Löksås, lingon och kokt potatis.
+2. Spaghtti med pestokycklingsås toppad med ost.
 
 ### Onsdag
-1. Helstekt fläskytterfilé med kantarellsås, gelé, grönsaker och kokt potatis.
-2. Fiskgratäng med skaldjursås samt sallad och kokt potatis.
+1. Fläsk noisette (holsteiner) med sås espanjol, kapris, rödbetor samt stekt potatis.
+2. Grekisk färsbiff med ztatziki dressing samt sallad och potatispuré.
 
 ### Torsdag
-1.  Sommarsoppa samt tunna pannkakor samt sylt och grädde. 
-2.  Wiener schnitzel med rödvinsky, ärter och citron, därtill stekt potatis.
+1.  Räksoppa samt tunna pannkakor samt sylt och grädde. 
+2.  Kålpudding med gräddsås, lingon och kokt potatis.
  
 ### Fredag
-1. Smörstekt havsabbore med såsverté, räkor och kokt potatis.
-2. Fläskfilé med café de paris sås samt grönsaker och stekt potatis.
-
-(VAR MED MÅNADENS LOTTNING MED VINST PÅ ETT LUNCHKORT VÄRD 700 KRONOR)
+1. Lax frestelse med smörsås, räkor och grönsaker.
+2. Rådjursbiff med enbärsås och rönnbärsgelé samt stekta grönsaker och kokt potatis.
+(Det blir ingen lottning denna månad)
+Välkommna
                   ** A la carte finns dagligen **  
 ### Lördag & Söndag
 A la Carte - Välkommen
