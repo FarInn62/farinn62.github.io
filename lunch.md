@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.28
+title: Lunch V.29
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Skomakarlåda med baconsås, lingonsylt och potatismos.
-2. Korvstroganoff med ris och inlaggd gurka.
+1. Marinerad Karréstek med champinjonsås, grönsaker och äpplemos, kokt potatis.
+2. Stekt lunchkorv med baconsås samt sallad och potatismos.
 
 ### Tisdag
-1. Stekt fläsk med Löksås, lingon och kokt potatis.
-2. Spaghtti med pestokycklingsås toppad med ost.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Stekt rödspätta med räkmajonäs, citron samt kokt potatis.
 
 ### Onsdag
-1. Fläsk noisette (holsteiner) med sås espanjol, kapris, rödbetor samt stekt potatis.
-2. Grekisk färsbiff med ztatziki dressing samt sallad och potatispuré.
+1. Peppar schnitzel med grönpepparsås, grönsaker och stekt potatis.
+2. Köttfärslimpa med kantarellsås samt lingonpuré grönsaker och kokt potatis.
 
 ### Torsdag
-1.  Räksoppa samt tunna pannkakor samt sylt och grädde. 
-2.  Kålpudding med gräddsås, lingon och kokt potatis.
+1.  Ärtsoppa samt tunna pannkakor samt sylt och grädde. 
+2.  Dansk sjömansbiff lök-ölsås och persljesmör samt råstekta potatis.
  
 ### Fredag
-1. Lax frestelse med smörsås, räkor och grönsaker.
-2. Rådjursbiff med enbärsås och rönnbärsgelé samt stekta grönsaker och kokt potatis.
+1. Herrgårdsstek gräddsås och lingonpuré samt sommar grönsaker och kokt potatis.
+2. Pytt i panna toppad med stekt ägg och inlaggde röbetor.
                     (Det blir ingen lottning denna månad)
                                 Välkommna
                   ** A la carte finns dagligen **  
