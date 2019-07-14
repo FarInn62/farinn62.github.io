@@ -24,12 +24,12 @@ Alla rätter: 85:- Take away: 70:-
 
 ### Torsdag
 1.  Ärtsoppa samt tunna pannkakor samt sylt och grädde. 
-2.  Dansk sjömansbiff lök-ölsås och persljesmör samt råstekta potatis.
+2.  Dansk sjömansbiff med lök-ölsås och persljesmör samt råstekta potatis.
  
 ### Fredag
-1. Herrgårdsstek gräddsås och lingonpuré samt sommar grönsaker och kokt potatis.
+1. Herrgårdsstek med gräddsås och lingonpuré samt sommar grönsaker och kokt potatis.
 2. Pytt i panna toppad med stekt ägg och inlaggde röbetor.
-                    (Det blir ingen lottning denna månad)
+                                               (Det blir ingen lottning denna månad)                          
                                 Välkommna
                   ** A la carte finns dagligen **  
 ### Lördag & Söndag
