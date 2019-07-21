@@ -28,7 +28,7 @@ Alla rätter: 85:- Take away: 70:-
  
 ### Fredag
 1. Skagensåsgratinerad lax med broccoli och potatisduchesse.
-2. Malen bundebiff, stekt vitkål och gräddsås, samt rödvinbärsgelé och stekt potatis.
+2. Malen bundebiff, stekt vitkål och gräddsås, samt röd vinbärsgelé och stekt potatis.
                                                (Det blir ingen lottning denna månad)                          
                                 Välkommna
                   ** A la carte finns dagligen **  
