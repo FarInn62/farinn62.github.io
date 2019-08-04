@@ -20,7 +20,7 @@ Alla rätter: 85:- Take away: 70:-
 
 ### Onsdag
 1. Kassler med rotmos och pepparots majonäs.
-2. Biff lundström med brunsås, persiljasmör, grönsaker och kokt potatis.
+2. Biff ala lindström med brunsås, persiljasmör, grönsaker och kokt potatis.
 
 ### Torsdag
 1.  Köttfärssoppa med cremefraiche samt tunna pannkakor samt sylt och grädde. 
