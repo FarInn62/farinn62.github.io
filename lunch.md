@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.32
+title: Lunch V.33
 permalink: /lunch/
 published: true
 ---
@@ -11,26 +11,26 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Skomakarlåda med baconsås, lingonsylt och potatismos.
-2. Stekt falukorv med stuvade makaroner.
+1. Baconfylld köttfärslimpa med champinjonsås, lingonsylt och kokt potatis.
+2. Stekt lunchkorv med persiljestuvad potatis samt rödbetor.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Smörstekt rödspätta med räksås grönsaker och kokt potatis.
+2. Spaghetti Carbonare med ost och sallad.
 
 ### Onsdag
-1. Kassler med rotmos och pepparots majonäs.
-2. Biff ala lindström med brunsås, persiljasmör, grönsaker och kokt potatis.
+1. Köttgryta med rotgrönsaker och potatismos.
+2. Stekt rödspåtta med remouladsås samt räkor och kokt potatis.
 
 ### Torsdag
-1.  Köttfärssoppa med cremefraiche samt tunna pannkakor samt sylt och grädde. 
-2.  Mandelfisk med smörsås, räkor och grönsaker samt kokt potatis.
+1.  Sommarsoppa samt tunna pannkakor samt sylt och grädde. 
+2.  Ost och ägg panerad schnitzel med dragonsås, grönsaker och stekt potatis.
  
 ### Fredag
-1. Schweizer schnitzel med rödvinsås, grönsaker och stekt potatis.
-2. Pytt i panna toppad med stekt ägg och rödabetor.
+1. Dansk sjömans biff med öl-löksås samt prsiljesmör och råstekt potatis.
+2. Kycklingfilé med spenat och ädelostsås samt tomatsalsa och stekt potatis.
                                                                         
-                                Välkommna
+                              Välkommna
                   ** A la carte finns dagligen **  
 ### Lördag & Söndag
 A la Carte - Välkommen
