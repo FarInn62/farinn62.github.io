@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.34
+title: Lunch V.35
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Chili con carne med ris och sallad.
-2. Stekt havsabbore med vitvinsås och kokt potatis.
+1. Kycklinggryta med banan och ananas (indiana) samt currysås och ris.
+2. Stekt falukorv med stuvade pasta och sallad.
 
 ### Tisdag
-1. Stekt fläsk med löksås samt lingonsylt och kokt potatis.
-2. Korvstroganoff med ris, creme fraiche och inlagd gurka.
+1. Raggmunk med Stekt fläsk samt lingonsylt .
+2. Smörstekt rödspätta med dillstuvade räkor, grönsaker och kokt potatis.
 
 ### Onsdag
-1. Biff ala Wallenberg med gräddsås, ärter, lingon samt potatismos.
-2. Ångad lax med skagensås samt grönsaker och kokt potatis.
+1. Pannbiff med baconsås, lingon och potatispuré.
+2. Grillkarré med mild pepparsås samt potatisgratäng.
 
 ### Torsdag
-1. Köttfärssoppa samt tunna pannkakor samt sylt och grädde. 
-2. Helstekt fläskfilé med kantarellsås, hjortron, grönsaker samt råstekt potatis.
+1. Ärtsoppa samt tunna pannkakor samt sylt och grädde. 
+2. Kalvfärs järpar med kantarellsås, gurka, lingon och kokt potatis.
  
 ### Fredag
-1. Minut biffstekt med tryffelsås, persiljesmör samt grönsaker och stekt potatis.
-2. Fiskarens frestelse med såsholandaise samt heta räkor och sallad.
+1. Herrgårdsstak med cremesås, grönsaker, rödvingelé och kokt potatis.
+2. Lasagne och sallad.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
