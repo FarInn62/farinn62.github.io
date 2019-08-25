@@ -11,11 +11,11 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Kycklinggryta med banan och ananas (indiana) samt currysås och ris.
+1. Kycklinggryta med banan och ananas (Indiana) samt currysås och ris.
 2. Stekt falukorv med stuvade pasta och sallad.
 
 ### Tisdag
-1. Raggmunk med Stekt fläsk samt lingonsylt .
+1. Raggmunk med Stekt fläsk och lingonsylt .
 2. Smörstekt rödspätta med dillstuvade räkor, grönsaker och kokt potatis.
 
 ### Onsdag
