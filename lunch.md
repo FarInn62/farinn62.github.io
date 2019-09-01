@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.35
+title: Lunch V.36
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Kycklinggryta med banan och ananas (Indiana) samt currysås och ris.
-2. Stekt falukorv med stuvade pasta och sallad.
+1. Kycklingfilé med dragonsås, salad och stekt potatis.
+2. Stekt havsabbore med räksås, spenat och kokt potatis.
 
 ### Tisdag
 1. Raggmunk med Stekt fläsk och lingonsylt .
-2. Smörstekt rödspätta med dillstuvade räkor, grönsaker och kokt potatis.
+2. Stekt falukorv med stuvade vitkål och kokt potatis.
 
 ### Onsdag
-1. Pannbiff med baconsås, lingon och potatispuré.
-2. Grillkarré med mild pepparsås samt potatisgratäng.
+1. Köttfärsgratäng med bacon, rödvinsås, grönsaker och kokt potatis
+2. Basel kotlett med ädelostsås, stekta äpplen samt tomat och råstekt potatis.
 
 ### Torsdag
-1. Ärtsoppa samt tunna pannkakor samt sylt och grädde. 
-2. Kalvfärs järpar med kantarellsås, gurka, lingon och kokt potatis.
+1. Lax och räksoppa samt tunna pannkakor samt hjotronsylt och grädde. 
+2. Fläskfilégryta med sherry-tryffelsås samt grönsaker och potatispuré.
  
 ### Fredag
-1. Herrgårdsstak med cremesås, grönsaker, rödvingelé och kokt potatis.
-2. Lasagne och sallad.
+1. Jägarstek med kantarellsås, hjotron, grönsaker och kokt potatis.
+2. Skomakarlåda med baconsås samt lingon och potatismos.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
