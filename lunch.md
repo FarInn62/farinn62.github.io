@@ -19,11 +19,11 @@ Alla rätter: 85:- Take away: 70:-
 2. Stekt lunchkorv med persiljestuvad potatis samt sallad.
 
 ### Onsdag
-1. Kokt lax med hummersås,räkor samt grönsaker och kokt potatis
+1. Kokt lax med hummersås, räkor samt grönsaker och kokt potatis
 2. Älgfärsbiff med viltsås, hjortron och grönsaker samt kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor samt hjotronsylt och grädde. 
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
 2. Karrégryta med grönsaker, äpplemos och kokt potatis.
  
 ### Fredag
