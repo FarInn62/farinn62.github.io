@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.37
+title: Lunch V.38
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Kebabgryta med paprikasås, sallad och ris.
-2. Pytt i panna toppad med stekt ägg och inlagd rödbetor.
+1. Köttfärslimpa med champinjonsås, grönsaker, äpplemos och kokt potatis.
+2. Stekt falukorv med styuvade makaroner och sallad.
 
 ### Tisdag
 1. Raggmunk med Stekt fläsk och lingonsylt .
-2. Stekt lunchkorv med persiljestuvad potatis samt sallad.
+2. Kokt torskfilé med äggsås och kokt potatis.
 
 ### Onsdag
-1. Kokt lax med hummersås, räkor samt grönsaker och kokt potatis
-2. Älgfärsbiff med viltsås, hjortron och grönsaker samt kokt potatis.
+1. Grekisk färsbiff med fetaostsås samt sallad och ris.
+2. Lasagne med sallad.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Karrégryta med grönsaker, äpplemos och kokt potatis.
+1. Ärtsoppa samt tunna pannkakor sylt och grädde. 
+2. Peppar schnitzel med grönpepparsås, grönsaker och stekt potatis.
  
 ### Fredag
-1. Grillad kycklingfilé med rosepepparsås samt grönsaker och stekt potatis.
-2. Dansk sjömansbiff med lök-ölsås, aromsmör och råstekt potatis.
+1. Fläskfilé med London House sås, samt grönsaker och mandelpotatis.
+2. Kokt lax med krabbsås, grönsaker och kokt potatis.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
