@@ -19,7 +19,7 @@ Alla rätter: 85:- Take away: 70:-
 2. Skomakarlåda med baconsås, lingon och potatispuré.
 
 ### Onsdag
-1. Ostpanerad schnitzel med milanaisesås samt grönsaker och pasta.
+1. Ostpanerad schnitzel med såsmilanaise samt grönsaker och pasta.
 2. Stekt rödspätta med räksås och spenat samt kokt potatis.
 
 ### Torsdag
