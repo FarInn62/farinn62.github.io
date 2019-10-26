@@ -19,7 +19,7 @@ Alla rätter: 85:- Take away: 70:-
 2. Kokt torskfilé med äggsås och kokt potatis.
 
 ### Onsdag
-1. Köttfäesgratäng med brunsås samt grönsaker och kokt potatis.
+1. Köttfärsgratäng med brunsås samt grönsaker och kokt potatis.
 2. Kyckling noisette med café de parissås-pesto samt ris.
 
 ### Torsdag
