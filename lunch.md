@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.44
+title: Lunch V.45
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Mån - Fre: 11:00 - 15:00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Biff wallenberg med gräddsås. lingon, ärtor och potatismos.
-2. Stekt falukorv med stuvade pasta penne samt sallad.
+1. Ostbringa med rotmos och pepparotsås samt rödbetor.
+2. Koktlax med vitvinsås, räkor, sallad och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kokt torskfilé med äggsås och kokt potatis.
+2. Stekt torskfilé med skagensås, spenat och kokt potatis.
 
 ### Onsdag
-1. Köttfärsgratäng med brunsås samt grönsaker och kokt potatis.
-2. Kyckling noisette med café de parissås-pesto samt ris.
+1. Köttgryta med rotgrönsaker samt kokt potatis.
+2. Köttbullar med gräddsås samt lingon, gurka och potatispuré.
 
 ### Torsdag
-1. Lax och räksoppa samt tunna pannkakor sylt och grädde. 
-2. Fläskytterfilé med pepparsås, grönsaker och råstekt potatis.
+1. Köttfärssoppa med cremefraiche samt tunna pannkakor sylt och grädde. 
+2. Skomakarlåda med baconsås samt lingopuré och potatismos.
  
 ### Fredag
-1. lövbiff med madaira- bearnaisesås samt grönsaker och potatis.
-2. pytt i pana med stekt ägg ochrödbetor.
+1. Kycklinggryta (Indiana) med banan currysås samt sallad och ris.
+2. Baconinbakad lunchlorv med stuvad persiljepotatis.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
