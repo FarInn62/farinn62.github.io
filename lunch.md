@@ -12,7 +12,7 @@ Alla rätter: 85:- Take away: 70:-
 
 ### Måndag
 1. Ostbringa med rotmos och pepparotsås samt rödbetor.
-2. Koktlax med vitvinsås, räkor, sallad och kokt potatis.
+2. Kokt lax med vitvinsås, räkor, sallad och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
@@ -24,7 +24,7 @@ Alla rätter: 85:- Take away: 70:-
 
 ### Torsdag
 1. Köttfärssoppa med cremefraiche samt tunna pannkakor sylt och grädde. 
-2. Skomakarlåda med baconsås samt lingopuré och potatismos.
+2. Skomakarlåda med baconsås samt lingonpuré och potatismos.
  
 ### Fredag
 1. Kycklinggryta (Indiana) med banan currysås samt sallad och ris.
