@@ -7,11 +7,12 @@ published: true
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
-Mån - Fre: 11:00 - 15:00  
+Lunchtider  Mån-sön:11:00 - 15:00
+Kvällsöppet Ons-Lör:15:00 - 21.00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Ostbringa med rotmos och pepparotsås samt rödbetor.
+1. Oxbringa med rotmos och pepparotsås samt rödbetor.
 2. Kokt lax med vitvinsås, räkor, sallad och kokt potatis.
 
 ### Tisdag
