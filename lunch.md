@@ -12,7 +12,7 @@ Kvällsöppet Ons-Lör:15:00 - 21.00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Älgfärs järpar med kantarellsås, äpplemos och potatismos.
+1. Älgfärsjärpar med kantarellsås, äpplemos och potatismos.
 2. Kålpudding med gräddsås samt lingonsylt och kokt potatis.
 
 ### Tisdag
