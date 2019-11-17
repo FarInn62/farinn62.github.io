@@ -29,7 +29,7 @@ Alla rätter: 85:- Take away: 70:-
  
 ### Fredag
 1. Winer schnitzel med portvinsås, ärter och citron samt stekt potatis.
-2. Gratinerad torskfilé med räksallad och potatis duchesse.
+2. Morneysåsgratinerad torskfilé med räksallad och potatis duchesse.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
