@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.47
+title: Lunch V.48
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ Kvällsöppet Ons-Lör:15:00 - 21.00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Kokt falukorv med stuvad vitkål och kokt potatis.
-2. Köttbullar med brunsås samt potatismos, gurka och lingon.
+1. Lax wallenberg med potatismmos, smörsås, räkor och ärter.
+2. Älgfärsbiff med kantarellsås, lingonsylt och kokt potatis.
 
 ### Tisdag
-1. Stektfläsk med gräddlöksås samt kokt potatis och lingonsylt.
-2. Smörstekt torskfilé med skagensås, spenat och potatispuré.
+1. Raggmunkar med stekt fläsk samt lingonsylt.
+2. Skomakarläda med baconsås och potatispuré.
 
 ### Onsdag
-1. Biff ala Lindström, rödvinsås, grönsaker och kokt potatis.
-2. Chili con carne med ris och sallad.
+1. Köttgryta med rotgrönsaker och kokt potatis.
+2. Stekt rödspätta med remouladsås samt räkor och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och grädde. 
-2. Helstekt fläskytterfilé med pepparsås och grönsaker samt strimlad potatis.
+1. Ärtsoppa samt tunna pannkakor med sylt och grädde. 
+2. Ost och äggpanerad schnitzel (Piccola Milanaise) med tomat-vinsås samt grönsaker och stekt potatis.
  
 ### Fredag
-1. Winer schnitzel med portvinsås, ärter och citron samt stekt potatis.
-2. Morneysåsgratinerad torskfilé med räksallad och potatis duchesse.
+1. Biff ala greta (tärnat kött) med sallad.
+2. Stekt falukorv med stuvade makaroner samt sallad.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
