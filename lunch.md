@@ -12,12 +12,12 @@ Kvällsöppet Ons-Lör:15:00 - 21.00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Lax wallenberg med potatismmos, smörsås, räkor och ärter.
+1. Lax wallenberg med potatismos, smörsås, räkor och ärter.
 2. Älgfärsbiff med kantarellsås, lingonsylt och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Skomakarläda med baconsås och potatispuré.
+2. Skomakarlåda med baconsås och potatispuré.
 
 ### Onsdag
 1. Köttgryta med rotgrönsaker och kokt potatis.
