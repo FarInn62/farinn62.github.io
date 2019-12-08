@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.49
+title: Lunch V.50
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ Kvällsöppet Ons-Lör:15:00 - 21.00
 Alla rätter: 85:- Take away: 70:- 
 
 ### Måndag
-1. Griljerad kycklingfilé med ädelostsås, spenat, tomatsalsa och stekt potatis.
-2. Lunchkorv med stuvad potatis och rödbetor.
+1. Kycklingschnitzel med pepparsås, grönsaker och stekt potatis.
+2. Älfärsbiff med kantarellsås samt lingonsylt och potatismos.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Stekt torskfilé med hollandaisesås, räkor, grönsaker och kokt potatis.
+2. Chili con carne med ris och sallad.
 
 ### Onsdag
-1. Honungsmarinerad karréstek med körsbärssås samt grönsaker och kokt potatis.
-2. Dansk sjömans biff med öl-löksås, persiljesmör samt råstekt potatis.
+1. Farmarbiff med löksås, stekt vitkål, äppelmos och kokt potatis.
+2. Spaghetti bolognese med ost och sallad.
 
 ### Torsdag
-1. Köttsoppa samt tunna pannkakor med sylt och grädde. 
-2. Baconbiff med kantarellsås, ligonsylt och strimlad potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och grädde. 
+2. Stekt bergtunga med spenat och hummersås samt heta räkor och potatispuré.
  
 ### Fredag
-1. Fläskfilé noisette med madiera och bearnaissås samt grönsaker och stekt potatis.
-2. Lasagne med sallad.
+1. Pytt i panna av kebab med rödbetor salsa och stekt ägg.
+2. Slottstek med gräddsås, rårörda lingon, morötter och kokt potatis.
                                                                         
                               Välkommna
                   ** A la carte finns dagligen **  
