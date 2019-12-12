@@ -30,8 +30,7 @@ A LA Carte Finns dagligen.
 ### Fredag
 1. Pytt i panna av kebab med rödbetor salsa och stekt ägg.
 2. Slottstek med gräddsås, rårörda lingon, morötter och kokt potatis.
-                                                                        
-                              Välkommna
+                                                                                                    
                    
 ### Lördag & Söndag
 A la Carte - Välkommen
