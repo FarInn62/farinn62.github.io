@@ -8,8 +8,8 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 15:00
-Kvällsöppet Ons-Lör:15:00 - 21.00
-Alla rätter: 85:- Take away: 70:- 
+Alla rätter: 85:- Take away: 70:-
+A LA Carte Finns dagligen.
 
 ### Måndag
 1. Kycklingschnitzel med pepparsås, grönsaker och stekt potatis.
@@ -32,6 +32,6 @@ Alla rätter: 85:- Take away: 70:-
 2. Slottstek med gräddsås, rårörda lingon, morötter och kokt potatis.
                                                                         
                               Välkommna
-                  ** A la carte finns dagligen **  
+                   
 ### Lördag & Söndag
 A la Carte - Välkommen
