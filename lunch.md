@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.50
+title: Lunch V.51
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ Alla rätter: 85:- Take away: 70:-
 A LA Carte Finns dagligen.
 
 ### Måndag
-1. Kycklingschnitzel med pepparsås, grönsaker och stekt potatis.
-2. Älfärsbiff med kantarellsås samt lingonsylt och potatismos.
+1. Karré-kasslergryta med grönsaker och kokt potatis.
+2. Stekt rödspätta med hummersås koktpotatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Chili con carne med ris och sallad.
+2. Kycklingfilé med rosépepparsås, grönsaker och stektpotatis.
 
 ### Onsdag
-1. Farmarbiff med löksås, stekt vitkål, äppelmos och kokt potatis.
-2. Spaghetti bolognese med ost och sallad.
+1. Biff backman med stekta rödbetor och kapris samt såsespanjol och stekt potatis.
+2. Marinerad strömmingsflundra med sffransås samt räkor, lingon och potatismos.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och grädde. 
-2. Stekt bergtunga med spenat och hummersås samt heta räkor och potatispuré.
+1. Ärtsoppa samt tunna pannkakor med sylt och grädde. 
+2. Basel schnitzel med cidersås samt grönsaker och strimlad potatis.
  
 ### Fredag
-1. Pytt i panna av kebab med rödbetor salsa och stekt ägg.
-2. Slottstek med gräddsås, rårörda lingon, morötter och kokt potatis.
+1. JUL LUNCH        (Årets sista julmat),       pris: 120: -
+2. Fläskfilé med bearnaissås, grönsaker och stekt potatis.
                                                                                                     
                    
 ### Lördag & Söndag
