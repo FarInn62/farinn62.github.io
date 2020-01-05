@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.1. 2020
+title: Lunch V.2. 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ Alla rätter: 85:- Take away: 70:-
 A LA Carte Finns dagligen.
 
 ### Måndag
-1. Biff Stroganoff med ris, gurka och smetana.
-2. Spaghetti Bolognese med sallad.
+1. ALa Carte.
+
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Benfri kotlett med champignjonsås, äppelmos och stekt potatis.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Köttbullar med gräddsås, lingon och potatismos.
 
 ### Onsdag
-1. Nyårs lunch, Kokt lax med sylvestersås, räkor, grönsaker och potatismos.
-2. ALA Carte meny.
+1. Smörstekt torskfilé med vitvinsås, räkor, grönsaker och kokt potatis.
+2. Lasagne med sallad.
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
-21. Pytti panna toppad med stekt ägg och rödbetor.
+2. Kalvfärsbiff (Wallenberg) med sås creme, rårörda lingon samt ärter och potatispuré.
 
 ### Fredag
-1. Fläskfile noisette med bearnaissås, stekta grönsaker och råstekt potatis.
-2. Stekt falukorv med stuvad makaroner och sallad.
+1. Kycklinggryta (Indiana) med currysås, banana och ris.
+2. Panerad fläsknoisette med pepparsås, grönsaker och strimlad potatis.
                                                                                                     
                    
 ### Lördag & Söndag
