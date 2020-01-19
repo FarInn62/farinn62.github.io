@@ -17,7 +17,7 @@ A LA Carte Finns dagligen.
 
 
 ### Tisdag
-1. Raggmunk med stekt fläsk samt linginsylt.
+1. Raggmunk med stekt fläsk samt lingonsylt.
 2. Dansk sjömansbiff med löksås, grönsaker och kokt potatis.
 
 ### Onsdag
@@ -25,7 +25,7 @@ A LA Carte Finns dagligen.
 2. Smörstekt havskattfilé med räksås, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och visp grädde. 
 2. Fläskfilé noisette med pepparsås, wokgrönsaker och örtpotatis.
 
 ### Fredag
