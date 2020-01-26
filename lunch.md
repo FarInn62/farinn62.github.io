@@ -13,7 +13,7 @@ A LA Carte Finns dagligen.
 
 ### Måndag
 1. Stekt kassler med Senapsås och rotmos.
-2. Pytt i panna toppad med stekt ägg och inlaggd röbetor.
+2. Pytt i panna toppad med stekt ägg och inlaggd rödbetor.
 
 
 ### Tisdag
