@@ -12,8 +12,8 @@ Alla rätter: 85:- Take away: 70:-
 A LA Carte Finns dagligen.
 
 ### Måndag
-1. Stekt kassler med Senapsås samt rotmos och röbetor.
-2. Pytt i panna toppad med stekt ägg och röbetor.
+1. Stekt kassler med Senapsås och rotmos.
+2. Pytt i panna toppad med stekt ägg och inlaggd röbetor.
 
 
 ### Tisdag
