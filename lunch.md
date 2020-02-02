@@ -25,7 +25,7 @@ A LA Carte Finns dagligen.
 2. Biff ala lindström med rödvinsås, persiljesmör, grönsaker samt kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och visp grädde. 
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
 2. Stekt falukorv med stuvade pasta samt sallad.
 
 ### Fredag
