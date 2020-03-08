@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.10. 2020
+title: Lunch V.11. 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ Alla rätter: 85:- Take away: 70:-
 A LA Carte Finns dagligen.
 
 ### Måndag
-1. Chili con carne med ris och sallad.
-2. Stekt falukorv med stuvade makaroner samt sallad.
+1. Örtmarinerad fläskkarré med gräddkokta champinjoner, äppelmos och kokt potatis.
+2. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
 
 ### Tisdag
-1. Stekt fläsk med grädd-löksås samt lingonsylt.
-2. Hackad biff Backman med stekta röbetor och kapris, grönpepparsås samt stekt potatis.
+1. Raggmunkar med Stekt fläsk och lingonsylt.
+2. Koktlax med räksås, grönsaker och kokt potatis.
 
 ### Onsdag
-1. Köttgryta med grönsaker, lingon och kokt potatis.
-2. Vitvinkokt torskfilé med äggsås och potatispuré.
+1. Älgskav med kantarellsås, lingon och potatismos.
+2. Kalvfärsbiff med gräddsås, ärter samt svart vinbärsgelé och kokt potatis.
 
 ### Torsdag
-1. Grönsakssoppa med bacon samt tunna pannkakor, sylt och vispgrädde. 
-2. Kyckling schitzel Café de parissås, skivad anannas samt strimlad potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
+2. Skomakarlåda med baconsås samt lingonpuré och potatismos.
 
 ### Fredag
-1. Lövbiff med rödvinsås, persiljesmör samt grönsaker och råstekt potatis.
-2. Kalvfärs järpar med kantarellsås samt rårörda lingon och potatismos.
+1. Helstekt fläskfilé med sherrysås samt potatisgratäng och sallad.
+2. Wiener schnitzel med rödvinsås och citron, ärte samt stekt potatis.
                                                                                                     
                    
 ### Lördag & Söndag
