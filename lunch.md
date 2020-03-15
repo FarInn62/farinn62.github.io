@@ -5,11 +5,11 @@ permalink: /lunch/
 published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
-
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
 A LA Carte Finns dagligen.
+OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
 
 ### Måndag
 1. Jägarstek med viltsås, grönsaker, äppelmos och kokt potatis.
@@ -30,7 +30,7 @@ A LA Carte Finns dagligen.
 ### Fredag
 1. Stillahavs spätta med krabbsås, citron och kokt potatis.
 2. Thailends färsbiff med soltorkade tomater och dragonsås, ostsallad och råstekt potatis.
-OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: - 
+ 
                                                                                                     
                    
 ### Lördag & Söndag
