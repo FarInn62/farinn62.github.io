@@ -8,7 +8,6 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
-A LA Carte Finns dagligen.
 OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
 
 ### Måndag
