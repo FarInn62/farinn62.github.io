@@ -30,7 +30,7 @@ OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
 
 ### Fredag
 1. Stillahavs spätta med krabbsås, citron och kokt potatis.
-2. Thailends färsbiff med soltorkade tomater och dragonsås, ostsallad och råstekt potatis.
+2. Italiensk färsbiff med soltorkade tomater och dragonsås, ostsallad och råstekt potatis.
  
                                                                                                     
                    
