@@ -8,7 +8,8 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
-                           OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
+Ala carté finns
+                           
 
 ### Måndag
 1. Jägarstek med viltsås, grönsaker, äppelmos och kokt potatis.
