@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.13. 2020
+title: Lunch V.14 2020
 permalink: /lunch/
 published: true
 ---
@@ -13,24 +13,24 @@ OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
                            
 
 ### Måndag
-1. Schnitzel Bolognese, gräddstuvade champinjoner, grönsaker och stekt potatis.
-2. Nötlevergryta med ris och lingon.
+1. Ost och ägg panerad schnitzel med rosésås, grönsaker och stekt potatis.
+2. Pittipanna med stekt ägg och rödbetor.
 
 ### Tisdag
-1. Raggmunkar med Stekt fläsk och lingonsylt.
-2. Dansk sjömansbiff med lök-ölsås, persiljesmör och råstekt potatis.
+1. Stekt fläsk och brunabönor kokt potatis.
+2. Skomakarlåda med baconsås lingon och potatismos.
 
 ### Onsdag
-1. Fläskfilégryta med löksylt, bacon, morotter samt champinjon sallad och kokt potatis.
-2. Ångad torskrygg med äggsås, grönsaker och kokt potatis.
+1. Bacon lindad kycklingfilé med äpplevinsås, strimlad potatis och sallad.
+2. Fiskgratäng med skagensås och duchesse potatis.
 
 ### Torsdag
-1. Grönsakssoppa med bacon samt tunna pannkakor, sylt och vispgrädde. 
-2. Kycklingfilé med dragonsås anannas och krossade tomater samt råstade potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
+2. Dillköttgryta med morötter och kokt potatis.
 
 ### Fredag
-1. Älgfärs tornedos med kantarellsås, rårörda lingon samt stekta grönsaker och potatisgratäng.
-2. Korvstroganoff med ris och inlagd gurka smat cremefraiche.
+1. Rådjurfärsbiff med viltsås, svart vinbärgelé samt grönsaker och potatis.
+2. Stekt falukorv med stuvad kål samt kokt potatis och sallad.
  
                                                                                                     
                    
