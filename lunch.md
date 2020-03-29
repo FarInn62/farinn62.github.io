@@ -13,8 +13,8 @@ OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
                            
 
 ### Måndag
-1. Ost och ägg panerad schnitzel med rosésås, grönsaker och stekt potatis.
-2. Pittipanna med stekt ägg och rödbetor.
+1. Ost och ägg panerad schnitzel med Moulanrosésås, grönsaker och stekt potatis.
+2. Pyttipanna med stekt ägg och rödbetor.
 
 ### Tisdag
 1. Stekt fläsk och brunabönor kokt potatis.
