@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.14 2020
+title: Lunch V.15 2020
 permalink: /lunch/
 published: true
 ---
@@ -13,24 +13,24 @@ OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
                            
 
 ### Måndag
-1. Ost och ägg panerad schnitzel med Moulanrosésås, grönsaker och stekt potatis.
-2. Pyttipanna med stekt ägg och rödbetor.
+1. Holsteiner schnitzel med rödvinsås samt stekt kapris, rödbetor och stekt potatis.
+2. Köttbullar med gräddsås och lingon,inlagd gurka och potatismos.
 
 ### Tisdag
-1. Stekt fläsk och brunabönor kokt potatis.
-2. Skomakarlåda med baconsås lingon och potatismos.
+1. Raggmunkar med stekt fläsk samt lingonsylt.
+2. Spaghetti med baconsås och sallad.
 
 ### Onsdag
-1. Bacon lindad kycklingfilé med äpplevinsås, strimlad potatis och sallad.
-2. Fiskgratäng med skagensås och duchesse potatis.
+1. Ostgratinerad kassler med kantarellsås, grönsaker och kokt potatis.
+2. Stekt rödspätta med räksås och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
-2. Dillköttgryta med morötter och kokt potatis.
+1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och vispgrädde. 
+2. Fläskfilegryta med ris och sallad.
 
 ### Fredag
-1. Rådjurfärsbiff med viltsås, svart vinbärgelé samt grönsaker och potatis.
-2. Stekt falukorv med stuvad kål samt kokt potatis och sallad.
+1. Långfredag öppet.
+2. A LA Carté.
  
                                                                                                     
                    
