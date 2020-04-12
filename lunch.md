@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.15 2020
+title: Lunch V.16 2020
 permalink: /lunch/
 published: true
 ---
@@ -13,24 +13,24 @@ OBS...För att vara på säkra sisdan hämta gärna maten istället för 70: -
                            
 
 ### Måndag
-1. Holsteiner schnitzel med rödvinsås samt stekt kapris, rödbetor och stekt potatis.
-2. Köttbullar med gräddsås och lingon,inlagd gurka och potatismos.
+1. A LA Carté öppet.
+2. GLAD PÅSK.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Spaghetti med baconsås och sallad.
+2. Lasagne med sallad.
 
 ### Onsdag
-1. Ostgratinerad kassler med kantarellsås, grönsaker och kokt potatis.
-2. Stekt rödspätta med räksås och kokt potatis.
+1. Räkfylld laxfärsbiff med smörsås, citron, grönsaker och ris.
+2. Benfri kotlett med grönpepparsås, grönsaker och stekt potatis.
 
 ### Torsdag
-1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och vispgrädde. 
-2. Fläskfilegryta med ris och sallad.
+1. Ärtsoppa samt tunna pannkakor, sylt och vispgrädde. 
+2. Köttfärsbiff med baconsås, lingonsylt och potatismos.
 
 ### Fredag
-1. Långfredag öppet.
-2. A LA Carté.
+1. Fläskfilé noisette med sherrysås, grilerad tomat, sparris samt strimlad potatis.
+2. Älgskav med kantarellsås, lingon och potatispuré.
  
                                                                                                     
                    
