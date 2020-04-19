@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.16 2020
+title: Lunch V.17 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
                            
 
 ### Måndag
-1. A LA Carté öppet.
-2. GLAD PÅSK.
+1. Kycklingsgryta flygande jakob med ris och sallad.
+2. Stekt falukorv med potatismos, bostongurka och salsa.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Lasagne med sallad.
+2. Kokt lax med räksås, citron och kokt potatis.
 
 ### Onsdag
-1. Räkfylld laxfärsbiff med smörsås, citron, grönsaker och ris.
-2. Benfri kotlett med grönpepparsås, grönsaker och stekt potatis.
+1. Biff ala Wallenberg med gräddsås, ärter, lingon samt potatispuré.
+2. Panerad schnitzel, bearnaissås, grönsaker,och råstekpotatis.
 
 ### Torsdag
-1. Ärtsoppa samt tunna pannkakor, sylt och vispgrädde. 
-2. Köttfärsbiff med baconsås, lingonsylt och potatismos.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
+2. Panerad rödspätta med räkmjönäs, ångade grönsaker och kokt potatis.
 
 ### Fredag
-1. Fläskfilé noisette med sherrysås, grilerad tomat, sparris samt strimlad potatis.
-2. Älgskav med kantarellsås, lingon och potatispuré.
+1. Biff ala rydberg med tärnade potatis, stekt lök och senap majonäs.
+2. Kebab pytt med mildsås och tomat sallad.
  
                                                                                                     
                    
