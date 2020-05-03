@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.18 2020
+title: Lunch V.19 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,23 +12,24 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
                            
 
 ### Måndag
-1. Biff ala Lindström med rödvinsås, persiljesmör, grönsaker och kokt potatis.
-2. Stekt falukorv med stuvade vitkål och kokt potatis.
+1. Kalops med rödbetor och kokt potatis.
+2. Stekt falukorv med stuvade makaroner och sallad.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Köttbulla med brunsås,inlagd gurka och rårörda lingon samt potatispuré.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Grillstekt kycklingfilé med ostsås, grönsaker och strimlad potatis.
 
 ### Onsdag
-1. Ångad torskfilé med ägg-persiljesås samt morötter och kokt potatis.
-2. Biff  stroganoff med smetana, gurka och ris.
+1. Dansk Kotlett med pepparsås, grönsaker och potatisgratäng.
+2. Stekt strömming flundra med hummersås, räkor, lingon och potatismos.
 
 ### Torsdag
 1. Grönsakssoppa med bacon samt tunna pannkakor, sylt och vispgrädde. 
-2. Fläskfilégratäng med ost-baconsås samt grönsaker och stekt potatis.
+2. Stekt kassler med rotmos, pepparotscreme och rödbetor.
 
 ### Fredag
-1. Första Maj serveras ALA Carté.
+1. Fläskfile noisette med café de parissås , grönsaker och råstekt potatis.
+2. Baconinbakad lunchkorv med stuvade potatis samt senap och majonäs, sallad.
                                                                                                     
                    
 ### Lördag & Söndag
