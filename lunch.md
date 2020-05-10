@@ -13,7 +13,7 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
 
 ### Måndag
 1. Köttlevergryta med ris och lingonsylt.
-2.Skomakarlåda med baconsås samt lingonsylt och potatismos.
+2. Skomakarlåda med baconsås samt lingonsylt och potatismos.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
