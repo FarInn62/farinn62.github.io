@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.20 2020
+title: Lunch V.21 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
                            
 
 ### Måndag
-1. Nöttlevergryta med ris och lingonsylt.
-2. Skomakarlåda med baconsås samt lingonsylt och potatismos.
+1. Dansk sjömansbiff med öl-löksås och persiljesmör samt råstekt potatis.
+2. Lunchkorv med stuvade morötter, senapsderessing och potatispuré.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Stekt torskfilé med dill och räksås samt sallad och kokt potatis.
+1. Stekt rimmat fläsk med löksås, lingonsylt och kokt potatis.
+2. Fläskfilégryta med grönsaker och ris.
 
 ### Onsdag
-1. Currykryddad kycklinggryta med ananas sallad och grönsaksris.
-2. Korvstrogonoff med ris och inlagd gurka.
+1. Marinerad karréstek med kantarellsås, äpplemos och kokt potatis.
+2. Panerad noisette med grönpepparsås, lingonpuré och stekt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och vispgrädde. 
-2. Wienerschnitzel med såsespaniole, kapris, citron, ärtor samt stekt potatis.
+1. Biff ala backman med stekt ägg, rödabetor, kapris, rödvinsås samt råstekt potatis. 
+2. Eller Ala Carté.
 
 ### Fredag
-1. Fläskfilé med tomatiserad bearnaissås, sparris, kräfftstjärtar samt örtpotatis.
-2. Chefs räksallad med Rohdisland dressing.
+1. Lövbiff med tryffelsås, grönsaker och stekt potatis.
+2. Spaghetti Bolognese med sallad.
                                                                                                     
                    
 ### Lördag & Söndag
