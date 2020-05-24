@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.21 2020
+title: Lunch V.22 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,25 +12,24 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
                            
 
 ### Måndag
-1. Dansk sjömansbiff med öl-löksås och persiljesmör samt råstekt potatis.
-2. Lunchkorv med stuvade morötter, senapsderessing och potatispuré.
+1. Biff ala Wallenberg med gräddsås, lingon, ärter och potatismos.
+2. Kokt kax med vitvinsås, räkor och koktpotatis.
 
 ### Tisdag
-1. Stekt rimmat fläsk med löksås, lingonsylt och kokt potatis.
-2. Fläskfilégryta med grönsaker och ris.
+1. Raggmunkar med stekt fläsk, lingonsylt och kokt potatis.
+2. Dillkötgryta med morötter och kokt potatis.
 
 ### Onsdag
-1. Marinerad karréstek med kantarellsås, äpplemos och kokt potatis.
-2. Panerad noisette med grönpepparsås, lingonpuré och stekt potatis.
+1. Kycklingfilé med ädelossås samt spenat och stekt potatis.
+2. Smörstekt torskfilé skagensås, sallad och kokt potatis.
 
 ### Torsdag
-1. Biff ala backman med stekt ägg, rödabetor, kapris, rödvinsås samt råstekt potatis. 
-2. Eller Ala Carté.
+1. Grönsakssoppa med bacon samt tunna pannkakor, sylt och grädde. 
+2. Skomakarlåda med lingonpuré och potatismos.
 
 ### Fredag
-1. Lövbiff med tryffelsås, grönsaker och stekt potatis.
-2. Spaghetti Bolognese med sallad.
+1. Biff ala rydberg med tärnade potatis samt senapdressing.
+2. Köttfärslimpa med svartvinbärssås, stekta grönsaker och potatisgratäng.
                                                                                                     
-                   
 ### Lördag & Söndag
 A la Carte - Välkommen
