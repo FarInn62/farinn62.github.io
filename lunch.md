@@ -13,14 +13,14 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
 
 ### Måndag
 1. Biff ala Wallenberg med gräddsås, lingon, ärter och potatismos.
-2. Kokt kax med vitvinsås, räkor och koktpotatis.
+2. Kokt lax med vitvinsås, räkor och koktpotatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt och kokt potatis.
-2. Dillkötgryta med morötter och kokt potatis.
+2. Dillköttgryta med morötter och kokt potatis.
 
 ### Onsdag
-1. Kycklingfilé med ädelossås samt spenat och stekt potatis.
+1. Kycklingfilé med ädelostsås samt spenat och stekt potatis.
 2. Smörstekt torskfilé skagensås, sallad och kokt potatis.
 
 ### Torsdag
@@ -28,13 +28,13 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
 2. Skomakarlåda med lingonpuré och potatismos.
 
 ### Fredag
-1. Biff ala rydberg med tärnade potatis samt senapdressing.
+1. Biff ala Rydberg med tärnad potatis samt senapdressing.
 2. Köttfärslimpa med svartvinbärssås, stekta grönsaker och potatisgratäng.
    
 ### Lördag & Söndag
     MORSDAGMENY
     Boka bord eller boka hämtning
-    Oxfilé rosini med tryffelsås, wokgrönsaker och råstekt potatis.
+    Oxfilé rossini med tryffelsås, wokgrönsaker och råstekt potatis.
     Eller, Smörstekt Gösfilé sås amore samt sparris och räkor och kokt potatis.
 
    
