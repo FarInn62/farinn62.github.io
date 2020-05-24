@@ -34,3 +34,8 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
 ### Lördag & Söndag
     MORSDAGMENY
     Boka bord eller boka hämtning
+    Oxfilé
+    Boka bord eller boka hämtning Rosini med tryffelsås, wokgrönsaker och råstekt potatis.
+    Eller, Smörstekt Gösfilé sås amore samt sparris och räkor och kokt potatis.
+   
+     
