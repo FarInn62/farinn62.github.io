@@ -30,6 +30,8 @@ OBS.För att vara på säkra sisdan hämta gärna maten istället.
 ### Fredag
 1. Biff ala rydberg med tärnade potatis samt senapdressing.
 2. Köttfärslimpa med svartvinbärssås, stekta grönsaker och potatisgratäng.
+   SÖNDAG MORSDAGMENY
+   Boka bord eller boka hämtning
                                                                                                     
 ### Lördag & Söndag
 A la Carte - Välkommen
