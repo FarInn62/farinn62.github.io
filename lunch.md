@@ -21,8 +21,8 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
 
 
 ### Onsdag
-1. Kycklingfilé med ädelostsås samt spenat och stekt potatis.
-2. Smörstekt torskfilé skagensås, sallad och kokt potatis.
+1. Fransk köttgryta med grönsker och kokt potatis.
+2. Panerad rödspätta med räkmajonäs och potatispuré.
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
