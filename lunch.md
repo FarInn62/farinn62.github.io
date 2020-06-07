@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.23 2020
+title: Lunch V.24 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,25 +12,25 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
                            
 
 ### Måndag
-1. köttfärsfylld Makaronlåda med ost och bechemelsås samt sallad.
-2. Kebab pytt med mild sås samt tomatsalsa.
+1. Helstekt fläskytterfilé med portvin stuvade champinjoner, åpplemos och kokt potatis.
+2. Baconinbakad lunchkorv med stuvad potatis och senapsdressing.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Grillkarré med äpplemos, champinjonsås och kokt potatis
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Fransk köttgryta med potatis och sallad.
 
 
 ### Onsdag
-1. Fransk köttgryta med grönsker och kokt potatis.
-2. Panerad rödspätta med räkmajonäs och potatispuré.
+1. Köttfärslimpa med kantarellsås, lingon och kokt potatis.
+2. Kycklinggryta med banan och currysås samt ris och sallad.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Basel schnitzel med äppelcidersås, stekt äpple och strimlad potatis.
+1. Lax och räksoppa samt tunna pannkakor, sylt och grädde. 
+2. Pannbiff med öl-löksås, persiljesmör och råstekt potatis.
 
 ### Fredag
-1. Fläskfilé med London house sås, grönsaker samt mandelkrydad potatis.
-2. Stekt falukorv med stuvad vitkål samt kokt potatis.
+1. Ångad torskrygg med äggsås, ärter och kokt potatis.
+2. Älgfärsbiff med viltsås, svart vinbersgelé samt grönsaker och stekt potatis.
    
 ### Lördag & Söndag
     ALA Carté
