@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.24 2020
+title: Lunch V.25 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,25 +12,25 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
                            
 
 ### Måndag
-1. Helstekt fläskytterfilé med portvin stuvade champinjoner, åpplemos och kokt potatis.
-2. Baconinbakad lunchkorv med stuvad potatis och senapsdressing.
+1. Panerad rödspätta med räksås, grönsaker och kokt potatis.
+2. Kalvfärs järpar med pepparsås och lingonsylt, grönsaker och potatismos.
 
 ### Tisdag
-1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Fransk köttgryta med potatis och sallad.
+1. Raggmunkar med stekt fläsk.
+2. GrillKarré med champinjonsås, gelé, grönsaker samt koktg potatis.
 
 
 ### Onsdag
-1. Köttfärslimpa med kantarellsås, lingon och kokt potatis.
-2. Kycklinggryta med banan och currysås samt ris och sallad.
+1. Skomakarlåda med baconsås samt lingon och potatispuré.
+2. Laxfärsbiff med dillsås, räkor och grönsaksris.
 
 ### Torsdag
-1. Lax och räksoppa samt tunna pannkakor, sylt och grädde. 
-2. Pannbiff med öl-löksås, persiljesmör och råstekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Rostbiff med potatissallad, lingondressing, pikles samt rostade lök.
 
 ### Fredag
-1. Ångad torskrygg med äggsås, ärter och kokt potatis.
-2. Älgfärsbiff med viltsås, svart vinbersgelé samt grönsaker och stekt potatis.
+1. Stängt.
+2. Glad middsommar.
    
 ### Lördag & Söndag
     ALA Carté
