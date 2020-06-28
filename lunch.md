@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.26 2020
+title: Lunch V.27 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,25 +12,24 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
                            
 
 ### Måndag
-1. Kokt lax med räksås, grönsaker och kokt potatis.
-2. Spaghetti Bolagnese med sallad.
+1. Panbiff med stektlök, brunsås och rårördalingon samt potatismos.
+2. Stekt lunchkorv med stuvade potatis och sallad.
 
 ### Tisdag
-1. Stekt fläsk med löksås, lingon, sylt och kokt potatis.
-2. Basel schnitzel med äpplecidersås samt grönsaker och strimlad potatis.
-
+1. Raggmunkar med stekt fläsk, lingonsylt.
+2. Kycklingfilé med ädelostsås, tomatsalsa och stekt potatis.
 
 ### Onsdag
-1. Chili Con Carne med ris och sallad.
-2. Stekt falukorv med stuvad makaroner.
+1. Ost och skink fylld köttfärslimpa med tomatiserad gräddsås, soltorkade tomater och kokt potatis.
+2. Stekt rödspätta med remouladsås, citron, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Baconsoppa med grönsaker samt tunna pannkakor, sylt och grädde. 
-2. Kyckling filé med dragonsås, gelé, grönsker och stekt potatis.
+1. Räksoppa samt tunna pannkakor, sylt och grädde. 
+2. Helstekt fläskytterfilé med champinjonsås, äpplemos och kokt potatis.
 
 ### Fredag
-1. Fläskfilé noisette med rödvinsås, potatisgratäng och sallad.
-2. Räksallad med ägg och rohdeisland´s dressing.
+1. Fläskfilé noisette med sherrysås, mandelmunkar, grönsaker.
+2. Lasagne med sallad.
    
 ### Lördag & Söndag
     ALA Carté
