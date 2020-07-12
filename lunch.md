@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.28 2020
+title: Lunch V.29 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
                            
 
 ### Måndag
-1. Korvstrogonoff med ris och inlgd gurka.
-2. Marinerad strömmingsflundra med smörsås, ärter, lingon och potatispuré.
+1. Biff Wallenberg med ärter, lingon, gräddsås och potatismos.
+2. Pyttipanna med stekt ägg och inlagd röbeter.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Dansk sjömansbiff med löksås, persiljesmör samt råstekt potatis.
+2. Ostegratinerad kassler med morotspuré samt örtagårdsås.
 
 ### Onsdag
-1. Kasslergryta med grönsaker, kokt potatis.
-2. Kyckling noisette med rosépepparsås, grönsaker och stekt potatis.
+1. Stekt torskfilé med skaldjursås samt grönsaker och kokt potatis.
+2. Köttbullar med tomtiserad gräddsås, rårörda lingon och potatispuré.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Pestolax med limesås, räkor, spenad och kokt potatis.
+1. Ärtsoppa samt tunna pannkakor, sylt och grädde. 
+2. Panerad schnitzel med café de parissås samt wokgrönsaker och strimlad potatis.
 
 ### Fredag
-1. Älgfärsjärpar med kantarellsås, lingonsylt samt potatismos.
-2. Spaghetti Bolognese med ost och tomatsallad.
+1. Kycklingfilé med spenat, ädelostsås, griljerad tomat och strimlad potatis.
+2. Italiensk färskbiff med milanaisesås, pasta penne och sallad.
    
 ### Lördag & Söndag
     ALA Carté
