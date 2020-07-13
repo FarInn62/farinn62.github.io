@@ -13,7 +13,7 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
 
 ### Måndag
 1. Biff Wallenberg med ärter, lingon, gräddsås och potatismos.
-2. Pyttipanna med stekt ägg och inlagd röbeter.
+2. Pyttipanna med stekt ägg och inlagda röbetor.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
@@ -21,7 +21,7 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
 
 ### Onsdag
 1. Stekt torskfilé med skaldjursås samt grönsaker och kokt potatis.
-2. Köttbullar med tomtiserad gräddsås, rårörda lingon och potatispuré.
+2. Köttbullar med tomatiserad gräddsås, rårörda lingon och potatispuré.
 
 ### Torsdag
 1. Ärtsoppa samt tunna pannkakor, sylt och grädde. 
@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
 
 ### Fredag
 1. Kycklingfilé med spenat, ädelostsås, griljerad tomat och strimlad potatis.
-2. Italiensk färskbiff med milanaisesås, pasta penne och sallad.
+2. Italiensk färsbiff med milanaisesås, pasta penne och sallad.
    
 ### Lördag & Söndag
     ALA Carté
