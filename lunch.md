@@ -32,7 +32,7 @@ OBS.PÅ GRUND AV CORONA Var gärna på säkra sisdan och hämta gärna maten ist
 2. Kokt falukorv med pepparotsås, rotgrönsaker och kokt potatis.
    
 ### Lördag & Söndag
-    ALA Carté
+    DAGENS & ALA Carté
 
    
     
