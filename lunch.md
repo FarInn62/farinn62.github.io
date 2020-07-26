@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.30 2020
+title: Lunch V.31 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Dillköttgryta med morötter och kokt potatis.
-2. Kalvfärsrulle fylld av skinka och ost samt gräddsås, lingon och kokt potatis.
+1. Korvstrogonoff med smetana, inlaggd gurka och ris.
+2. Smörstekt rödspätta, räksås, grönsaker samt kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Skomakarlåda med baconsås, lingon och potatismos.
+2. Pannbiff med stektlök, brunsås, lingon och kokt potatis.
 
 ### Onsdag
-1. Ostpanerad schitzel med tomatörtsås samt ris och sallad.
-2. Pytt Bellman med rödbetor.
+1. Älgfärsbiff med viltsås, lingon, grönsaker och stekt potatis.
+2. Kycklinggryta med anannas-currysåsn samt grönsaksrisotto.
 
 ### Torsdag
-1. Sommarsoppa samt tunna pannkakor, sylt och grädde. 
-2. Jägarstek med kantarellsås, hjortronsylt, broccoli och kokt potatis.
+1. Köttfärssoppa samt tunna pannkakor, sylt och grädde. 
+2. Fläsknoisette med baconsås, grönsaker, äpplemos samt potatispuré.
 
 ### Fredag
-1. Lövbiff med rödvinsås, persiljesmör och råstekt potatis.
-2. Kokt falukorv med pepparotsås, rotgrönsaker och kokt potatis.
+1. Fläskfile med London housesås, tomat och haricuve verte samt råstekt potatis.
+2. Köttbullar i gräddsås och inlaggd gurka samt rödvinbärsgelé och potatismos.
    
 ### Lördag & Söndag
     DAGENS & ALA Carté
