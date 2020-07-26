@@ -28,7 +28,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Fläsknoisette med baconsås, grönsaker, äpplemos samt potatispuré.
 
 ### Fredag
-1. Fläskfile med London housesås, tomat och haricuve verte samt råstekt potatis.
+1. Fläskfilé med London housesås, tomat och haricuve verte samt råstekt potatis.
 2. Köttbullar i gräddsås och inlaggd gurka samt rödvinbärsgelé och potatismos.
    
 ### Lördag & Söndag
