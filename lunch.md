@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.33 2020
+title: Lunch V.34 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Kalvfärslimpa med murkelsås, lingon, sallad och kokt potatis.
-2. Stekt falukorv med stuvade makaroner.
+1. Panerad schnitzel med grönpepparsås samt grönsaker och stekt potatis.
+2. Stekt rödspätta med räksås, sallad och kokt potatis.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Spagehtti bolognese med sallad.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Lasagne med sallad.
 
 ### Onsdag
-1. Kokt torskfilé med ägg-persiljesås, morötter och kokt potatis.
-2. Stekt kassler med kantarellsås, grönsaker och kokt potatis.
+1. Kalvfärsbiff med kantarellsås, svart vinbärsgelé, grönsaker och kokt potatis.
+2. Stekt strömmingsflundra med smörsås, räkor, lingon och potatismos.
 
 ### Torsdag
-1. Ärtsoppa samt tunna pankakor med sylt och visp grädde. 
-2. Dansk sjömansbiff med öl-löksås samt persiljesmör och råstekt potatis.
+1. Baconsoppa med grönsaker samt tunna pankakor med sylt och visp grädde. 
+2. Skomakarlåda med baconsås, lingosylt och potatismos.
 
 ### Fredag
-1. Kycklingfilé med ädelostsås samt smörkkokt spenat och strimlad potatis.
-2. Köttbullar i gräddsås, inlagd gurka, lingonsylt och potatismos.
+1. Helstekt fläskfilé med dragonsås, sparris och potatisgratäng.
+2. Älgfärsbiff med champinjonsås samt rårörda lingon, stekta äpplen och kokt potatis.
    
 ### Lördag & Söndag
     DAGENS & ALA Carté
