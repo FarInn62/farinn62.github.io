@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.37 2020
+title: Lunch V.38 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Fransk köttgryta med sallad och kokt potatis.
-2. Ostgratinerad falukorv med senapdressing och potatismos.
+1. Kålpudding med gräddsås och lingonsylt.
+2. Korvstroganoff med ris och inlagd gurka.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Smörstekt rödspätta med skagenröra, grönsaker och kokt potatis.
+2. Köttbullar med brunsås och potatismos, lingon.
 
 ### Onsdag
-1. Vildsvinbiff med murkelsås samt grönsaker och potatispuré.
-2. Kycklinggryta med ananas och currysås samt ris.
+1. Kycklingfilé med spenat, ädelostsås samt strimlad potatis.
+2. Stekt torskfilé med smörsås, räkor, sparris samt kokt potatis.
 
 ### Torsdag
-1. Lax och räksoppa samt tunna pankakor med sylt och visp grädde. 
-2. Biff ala wallenberg med lingon, ärtor, gräddsås samt potatispuré.
+1. Köttfärssoppa med creme fraiche samt tunna pankakor med sylt och visp grädde. 
+2. Marinerad karréstek med gräddkokta kantareller samt äpplemos.
 
 ### Fredag
-1. Fläskfilé noisette med café de parissås samt grönsaker och råstekt potatis.
-2. Lasagne med sallad.
+1. Biff lindström,rödvinsås, persiljesmör, grönsaker och kokt potatis.
+2. Kebabpytt med salsa, mildsås samt grönsallad.
    
 ### Lördag & Söndag
     DAGENS & ALA Carté
