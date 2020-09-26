@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.39 2020
+title: Lunch V.40 2020
 permalink: /lunch/
 published: true
 ---
