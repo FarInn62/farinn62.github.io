@@ -17,15 +17,15 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kyckling schnitzel med ädelossås samt grönsaker och stekt potatis.
+2. Kyckling schnitzel med ädelostsås samt grönsaker och stekt potatis.
 
 ### Onsdag
 1. Fläskfilégryta med grönsaker och potatisouré.
 2. Laxfrestelse med smörsås samt räkor och grönsaker.
 
 ### Torsdag
-1. Ungersk gulashsoppa samt tunna pankakor med sylt och visp grädde. 
-2. Dansk sjömansbiff med öl-löksås, persijesmör och råstekt potatis.
+1. Ungersk gulaschsoppa samt tunna pannkakor med sylt och visp grädde. 
+2. Dansk sjömansbiff med öl-löksås, persijlesmör och råstekt potatis.
 
 ### Fredag
 1. Ost och skinkfylld schnitzel med sparris och moulinrosesås samt stekt potatis.
