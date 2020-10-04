@@ -12,7 +12,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Kalvfärsjärpar med kantarellsås och rårörda lingonoch samt inlaggd gurka och kokt potatis.
+1. Kalvfärsjärpar med kantarellsås och rårörda lingon och samt inlaggd gurka och kokt potatis.
 2. Stekt lunchkorv med bostongurka, senapdressing och potatismos.
 
 ### Tisdag
@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Fredag
 1. Helstekt fläskfilé med madeira och bearnaisesås samt grönsaker och stekt potatis.
-2. Vildsvinsbiff med vodka-enbärssås samt lingon grönsaker och kokt potatios
+2. Vildsvinsbiff med vodka-enbärssås samt lingon grönsaker och kokt potatis.
    
 ### Lördag & Söndag
     DAGENS & ALA Carté
