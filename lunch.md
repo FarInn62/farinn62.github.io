@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.41 2020
+title: Lunch V.42 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Kalvfärsjärpar med kantarellsås och rårörda lingon och samt inlaggd gurka och kokt potatis.
-2. Stekt lunchkorv med bostongurka, senapdressing och potatismos.
+1. Schnitzel med Café de Parissås, grönsaker och stekt potatis.
+2. Stekt falukorv med stuvade makaroner och tomatdressing.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Smörstekt rödspätta med dill och räksås samt grönsakeroch kokt potatis.
+2. Farmorbiff med grönpepparsås samt sallad och råstekt potatis.
 
 ### Onsdag
-1. Texmex biff med salsasås samt strimlad paprika och ris.
-2. Laxgratäng med skagensås, grönsaker och kokt potatis.
+1. Köttgryta med rotgrönsaker, rödbetor och kokt potatis.
+2. Smörstekt havskattfilé med vertesås, kräftsjärtar, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och visp grädde. 
-2. Grillstekt kycklingfilé med rosepepparsås samt sallad och strimlad potatis.
+1. Köttsoppa samt tunna pannkakor med sylt och visp grädde. 
+2. Pannbiff med baconsås, lingonsylt och potatismos.
 
 ### Fredag
-1. Helstekt fläskfilé med madeira och bearnaisesås samt grönsaker och stekt potatis.
-2. Vildsvinsbiff med vodka-enbärssås samt lingon grönsaker och kokt potatis.
+1. Benfri kottlet med trattkantarellsås, hjrtronsylt, grönsaker samt strimlad potatis.
+2. Kycklingfilé med curry/ bearnaissås samt anannassallad och ris.
    
 ### Lördag & Söndag
     DAGENS & ALA Carté
