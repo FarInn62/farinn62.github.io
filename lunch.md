@@ -17,18 +17,18 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Farmorbiff med grönpepparsås samt sallad och råstekt potatis.
+2. Farmarbiff med grönpepparsås samt sallad och råstekt potatis.
 
 ### Onsdag
 1. Köttgryta med rotgrönsaker, rödbetor och kokt potatis.
-2. Smörstekt havskattfilé med vertesås, kräftsjärtar, grönsaker och kokt potatis.
+2. Smörstekt havskattfilé med vertesås, kräftstjärtor, grönsaker och kokt potatis.
 
 ### Torsdag
 1. Köttsoppa samt tunna pannkakor med sylt och visp grädde. 
 2. Pannbiff med baconsås, lingonsylt och potatismos.
 
 ### Fredag
-1. Benfri kottlet med trattkantarellsås, hjrtronsylt, grönsaker samt strimlad potatis.
+1. Benfri kotlett med trattkantarellsås, hjortronsylt, grönsaker samt strimlad potatis.
 2. Kycklingfilé med curry/ bearnaissås samt anannassallad och ris.
    
 ### Lördag & Söndag
