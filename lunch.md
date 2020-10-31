@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.44 2020
+title: Lunch V.45 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Stekt Torskfilé med smörsås och räkor samt grönsaker och kokt potatis.
-2. Jägarstek med kantarellsås. lingon, grönsaker och kokt potatis.
+1. Biffstroganoff med gurka, semetana samt ris eller kokt potatis.
+2. Stekt falukorv med stuvade makaroner och tomatdressing.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Farmarbiff med pepparsås, grönsaker och stekt potatis.
+2. Wiener färslimpa med gräddsås, lingon och kokt potatis.
 
 ### Onsdag
-1. Älgfärsbiff med chmpinjonsås, äppelemos samt grönsaker och kokt potatis.
-2. Senapmarinerad strömmingsflundra med citronsås, räkor, lingon samt potatispuré.
+1. Basel schnitzel med äpplesidersås, stekt äpple och grönsaker samt stekt potatis.
+2. Kålpudding med brunsås, lingonpuré och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och visp grädde. 
-2. Fläsknoisette med ädelostsås, spenat, griljerad tomat och råstekt potatis.
+1. Bacon och grönsakssoppa samt tunna pannkakor med sylt och visp grädde. 
+2. Smörstekt lax med vitvinsås, wokade räkor samt frukt grönsaker och potatismos.
 
 ### Fredag
-1. Helstekt fläskfilé med tryffel och bearnaisesås samt wokgrönsaker och stekt potatis.
-2. Italiensk färsbiff med rödvinsås, soltrokade tomater samt tomatsallad och stekt potatis.
+1. Helstekt Entrcote med sherrysås, grönsaker och potatisgratäng.
+2. Skomakarlåda med baconsås samt lingonpuré och potatismos.
 
    
 ### Lördag & Söndag
