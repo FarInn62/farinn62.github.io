@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.45 2020
+title: Lunch V.46 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                            
 
 ### Måndag
-1. Biffstroganoff med gurka, semetana samt ris eller kokt potatis.
-2. Stekt falukorv med stuvade makaroner och tomatdressing.
+1. Kycklinggryta Indiana med banan-currysås, sallad och ris.
+2. Stekt torskfilé med spenatsås, räkor, grönsaker och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Wiener färslimpa med gräddsås, lingon och kokt potatis.
+2. Spaghetti bolagnese med sallad.
 
 ### Onsdag
-1. Basel schnitzel med äpplesidersås, stekt äpple och grönsaker samt stekt potatis.
-2. Kålpudding med brunsås, lingonpuré och kokt potatis.
+1. Grekisk färsbiff med tzatzikidressing, ratatouille grönsaker och strimlad potatis.
+2. Dillköttgryta med morötter och kokt potatis.
 
 ### Torsdag
-1. Bacon och grönsakssoppa samt tunna pannkakor med sylt och visp grädde. 
-2. Smörstekt lax med vitvinsås, wokade räkor samt frukt grönsaker och potatismos.
+1. Ärtsoppa samt tunna pannkakor med sylt och visp grädde. 
+2. Schweizer schnitzel med rosépepparsås samt grönsaker och stekt potatis.
 
 ### Fredag
-1. Helstekt Entrcote med sherrysås, grönsaker och potatisgratäng.
-2. Skomakarlåda med baconsås samt lingonpuré och potatismos.
+1. Jägarstek med kantarellsås och hjortronsylt samt grönsaker och kokt potatis.
+2. Köttbullar med potatismos, gurka samt rårörda lingon och gräddsås.
 
    
 ### Lördag & Söndag
