@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Fredag
 1. Jägarstek med kantarellsås och hjortronsylt samt grönsaker och kokt potatis.
-2. Köttbullar med potatismos, gurka samt rårörda lingon och gräddsås.
+2. Köttbullar med potatismos, inlagd gurka samt rårörda lingon och gräddsås.
 
    
 ### Lördag & Söndag
