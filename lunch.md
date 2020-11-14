@@ -17,7 +17,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Tisdag
 1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Korvstroganoff med ris, inlaggd gurga och smetana.
+2. Korvstroganoff med ris, inlagd gurka och smetana.
 
 ### Onsdag
 1. Kalvfärsbiff med kantarellsås, lingon och potatismos.
@@ -25,7 +25,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Lax-räksoppa samt tunna pannkakor med sylt och visp grädde. 
-2. Plummenfyld kycklingfilé med apelsin drgonsås samt råstekt potatis.
+2. Plommonfyld kycklingfilé med apelsin drgonsås samt råstekt potatis.
 
 ### Fredag
 1. Pepparschnitzel med paprika, gräddsås, grönsaker och kokt potatis.
