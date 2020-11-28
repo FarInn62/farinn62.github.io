@@ -12,28 +12,28 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 OBS.JULTALLRIK SERVERAS 6/12 SAMT 24/12
                            
 ### Måndag
-1. Biff lindström med grönsaker, persiljesmör, rödvinsky och kokt potatis.
-2. Lasagne med sallad.
+1. Helstekt Entrecote med pepparsås, grönsaker och stekt potatis.
+2. Stekt torskfilé med skagensås, grönsaker och potatismos.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Charrtzo korv med stuvad potatis, röbetor och senapdressing.
+2. Vegetarisk biff med dragonsås, grönsaker, ris och dadelsirap.
 
 ### Onsdag
-1. Skomakarlåda med baconsås, lingon och potatismos.
-2. Smörstekt torskfilé med räkor och vitvinsås samt spenat och kokt potatis.
+1. Fläskfilé med sherry-tryffelsås, grönsaker, gelé samt stekt potatis.
+2. Smörstekt rödspätta med remouladsås, räkor och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och visp grädde. 
-2. Herrgårdsstek med öl-löksås samt grönsaker och kokt potatis.
+1. Ärtsoppa samt tunna pannkakor med sylt och visp grädde. 
+2. Älgfärs järpar med kantarellsås, gurka, lingonsylt och potatismos.
 
 ### Fredag
-1. Kyckling schnitzel med curry- bearnaisesås, grönsaker samt strimlade potatis.
-2. Stekt falukorv med stuvade makaroner.
+1. Benfri kotlett med portvinsås samt baconsteka champinjoner och potatisgratäng.
+2. Köttbullar med gräddsås, lingon och potatismos.
 
    
 ### Lördag & Söndag
-    DAGENS & ALA Carté
+    DAGENS & ALA Carté SAMT JULTALLRIK
 
    
     
