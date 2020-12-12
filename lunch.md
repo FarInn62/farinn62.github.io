@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.50 2020
+title: Lunch V.51 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      OBS.JULTALLRIK SERVERAS 6/12 SAMT 24/12 Pris 160:-
                            
 ### Måndag
-1. Oxbringa med rotmos och pepparotsås, rödbetor.
-2. Lunchkorv med bostongurka dressing och potatismos.
+1. Kalvfärsbiff med gräddsås, lingonsylt och kokt potatis.
+2. Kokt torsfilé med äggsås, grönsaker och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Fransk köttgryta med grönsaker och koktpotatis.
+2. Stekt rödspätta med skagensås, citron och kokt potatis.
 
 ### Onsdag
-1. Kålpudding med gräddsås, lingon och kokt potatis.
-2. Wienerschnitzel med skysås, citron och stekt potatis.
+1. Viltmarinerad fläskkkarré med rödvinkokta champinjioner samt grönsaker och kokt potatis.
+2. Laxfärsbiff med hummersås samt sparris, räkor och kokt potatis.
 
 ### Torsdag
-1. Köttsoppa samt tunna pannkakor med sylt och visp grädde. 
-2. Grillstekt kycklingfilé med chiligräddsås, banansallad och stekt potatis.
+1. Köttfärssoppa samt tunna pannkakor med sylt och visp grädde. 
+2. Viltfärsbiff med kantarellsås, rårörda lingon och potatismos.
 
 ### Fredag
-1. Hackad sjömansbiff med öl-löksås samt persiljesmör och råstekt potatis.
-2. Laxfrestelse med saffransås, kräftstjärtar samt spenat och grönsaker.
+1. Stekt falukorv med senapdressing och stuvade makaroner.
+2. Marinerad kycklingfilé med ädelostsås, spenat samt griljerad tomat och potatisgratäng.
 
    
 ### Lördag & Söndag
