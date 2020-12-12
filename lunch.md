@@ -12,7 +12,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      OBS.JULTALLRIK SERVERAS 6/12 SAMT 24/12 Pris 160:-
                            
 ### Måndag
-1. Kalvfärsbiff med gräddsås, lingonsylt och kokt potatis.
+1. Kalvfärsbiff med gräddsås, lingonsylt, ärter och potatismos.
 2. Kokt torsfilé med äggsås, grönsaker och kokt potatis.
 
 ### Tisdag
@@ -25,7 +25,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Köttfärssoppa samt tunna pannkakor med sylt och visp grädde. 
-2. Viltfärsbiff med kantarellsås, rårörda lingon och potatismos.
+2. Viltfärsbiff med kantarellsås, rårörda lingon och potatispuré.
 
 ### Fredag
 1. Stekt falukorv med senapdressing och stuvade makaroner.
