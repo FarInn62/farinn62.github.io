@@ -31,7 +31,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Kokt torsk med äggsås och kokt potatis.
 
    ### Lördag Stängt
-       Söndag öppet 11,00-15,00
+       Söndag öppet11,00-15,00
     
 
    
