@@ -26,8 +26,8 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 ### Torsdag
 1. Julafton öppet med Jultalrik och småvarmt samt ris ala malta, 12,00-15,00. 
 
-### Fredag
-1. Dagens hämträtt mellan 11,00-12,00, Kokt skinka med senapsås samt rödkål och kokt potatis.
+### Fredag Öppett Endast för Hämtning av dagensrätt mellan 11,00-12,00. 
+1. Kokt skinka med senapsås samt rödkål och kokt potatis.
 2. Kokt torsk med äggsås och kokt potatis.
 
    ### Lördag Stängt
