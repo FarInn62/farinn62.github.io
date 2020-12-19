@@ -16,7 +16,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Farmar biff med baconsås, lingon och potatismos.
 
 ### Tisdag
-1. JULLTALRIK MED SMÅ VARMT.
+1. JULTALLRIK MED SMÅ VARMT.
 2. Fläskfilé med café de parissås, grönsaker och stekt potatis.
 
 ### Onsdag
