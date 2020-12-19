@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.51 2020
+title: Lunch V.52 2020
 permalink: /lunch/
 published: true
 ---
@@ -12,28 +12,27 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      OBS.JULTALLRIK SERVERAS 6/12 SAMT 24/12 Pris 160:-
                            
 ### Måndag
-1. Kalvfärsbiff med gräddsås, lingonsylt, ärter och potatismos.
-2. Kokt torsfilé med äggsås, grönsaker och kokt potatis.
+1. Stekt torskfilé med räksås, grönsaker och kokt potatis.
+2. Farmar buff med baconsås, lingon och potatismos.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Stekt rödspätta med skagensås, citron och kokt potatis.
+1. JULTALRIK MED SMÅ VARMT.
+2. Fläskfilé med café de parissås, grönsaker och stekt potatis.
 
 ### Onsdag
-1. Viltmarinerad fläskkkarré med rödvinkokta champinjioner samt grönsaker och kokt potatis.
-2. Laxfärsbiff med hummersås samt sparris, räkor och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Spaghetti Bolognese med sallad.
 
 ### Torsdag
-1. Köttfärssoppa samt tunna pannkakor med sylt och visp grädde. 
-2. Viltfärsbiff med kantarellsås, rårörda lingon och potatispuré.
+1. Julafton öppet med Jultalrik och småvarmt samt ris ala malta, 12,00-15,00. 
 
 ### Fredag
-1. Stekt falukorv med senapdressing och stuvade makaroner.
-2. Marinerad kycklingfilé med ädelostsås, spenat samt griljerad tomat och potatisgratäng.
+1. Dagens hämträtt mellean 11,00-12,00, Kokt skinka med senapsås samt rödkål och kokt potatis.
+2. Kokt torsk med äggsås och kokt potatis.
 
-   
-### Lördag & Söndag
-    DAGENS & ALA Carté SAMT JULTALLRIK
+   ### Lördag Stängt
+       Söndag öppet 11,00-15,00
+    
 
    
     
