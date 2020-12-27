@@ -25,7 +25,8 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Fläskfilé noisette med bearnaisesås, kräftstjärtar, sparris samt råstekt potatis. 
-2. GOTT NYTT ÅR
+2. Lasagne med sallad
+3. GOTT NYTT ÅR
 
 ### Fredag   A LA CARTÈ
 ### Lördag   A LA CARTÈ
