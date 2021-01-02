@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.53 2020
+title: Lunch V.1 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,25 +12,29 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      
                            
 ### Måndag
-1. Biff ala Lindström med brunsås grönsaker och kokt potatis.
-2. Korvstroganoff med ris och inlagd gurka.
+1. Biff ala wallenberg med gräddsås, lingonsylt, ärter och potatismos.
+2. Stekt gösfilé med räksås, grönsaker och kokt potatis.
 
 ### Tisdag
 1. Raggmunk med stekt fläsk samt lingonsylt.
-2. Smörstekt gösfilé med vitvinsås, räkor samt grönsaker och kokt potatis.
+2. Hackad sjömansbiff med lök-ölsås, persiljesmör och råstekt potatis.
 
 ### Onsdag
-1. Älgfärsbiff med kantarellsås, lingonsylt, grönsaker och kokt potatis.
-2. Kycklingfilé med dragonsås, grönsaker och stekt potatis.
+1. Basel schnitzel med äppelcidersås, grönsaker och stekt potatis.
+2. A LA Carté finns.
 
 ### Torsdag
-1. Fläskfilé noisette med bearnaisesås, kräftstjärtar, sparris samt råstekt potatis. 
-2. Lasagne med sallad
-3. GOTT NYTT ÅR
+1. Räksoppa och tunna pannkakor samt sylt och grädde. 
+2. Kålpudding med cremesås, lingon och kokt potatis
 
-### Fredag   A LA CARTÈ
-### Lördag   A LA CARTÈ
-    Söndag   A LA CARTÈ
+### Fredag  
+1. Skomakarlåda med baconsås samt lingonpuré och potatismos.
+2. Korvstroganoff med ris och inlagd gurka.
+
+### Lördag och söndag  A LA CARTÈ
+
+Välkommen
+    
        
     
 
