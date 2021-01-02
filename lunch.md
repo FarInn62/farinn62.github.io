@@ -31,9 +31,9 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 1. Skomakarlåda med baconsås samt lingonpuré och potatismos.
 2. Korvstroganoff med ris och inlagd gurka.
 
-### Lördag och söndag  A LA CARTÈ
+### Lördag och söndag   A LA CARTÈ
 
-Välkommen
+    Välkommen
     
        
     
