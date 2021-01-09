@@ -31,7 +31,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 1. Karréstek med kantarellsås samt lingonpuré, grönsaker och kokt potatis.
 2. Lasagne med sallad.
 
-   Veckans sallad: Kycklingsallad med ris cohfrukt,fransk dressing.
+   Veckans sallad: Kycklingsallad med ris och frukt,fransk dressing.
 
 ### Lördag och söndag   A LA CARTÈ
 
