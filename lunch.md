@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.1 2021
+title: Lunch V.2 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,26 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      
                            
 ### Måndag
-1. Biff ala wallenberg med gräddsås, lingonsylt, ärter och potatismos.
-2. Stekt gösfilé med räksås, grönsaker och kokt potatis.
+1. Kebabpytt med sallad och grekisk dressing.
+2. Köttgryta med grönsaker och kokt potatis.
 
 ### Tisdag
 1. Raggmunk med stekt fläsk samt lingonsylt.
-2. Hackad sjömansbiff med lök-ölsås, persiljesmör och råstekt potatis.
+2. Stekt rödspätta med skaldjursås, citron, grönsaker och potatispuré.
 
 ### Onsdag
-1. Basel schnitzel med äppelcidersås, grönsaker och stekt potatis.
-2. A LA Carté finns.
+1. Kycklinggryta (Indiana) med chili-gräddsås samt banan och ris.
+2. Nöttlever i gräddsås, lingon och kokt potatis.
 
 ### Torsdag
-1. Räksoppa och tunna pannkakor samt sylt och grädde. 
-2. Kålpudding med cremesås, lingon och kokt potatis
+1. Bacon och grönsakssoppa samt tunna pannkakor samt sylt och grädde. 
+2. Pannbiff med löksky samt grönsaker och råstekt potatis.
 
 ### Fredag  
-1. Skomakarlåda med baconsås samt lingonpuré och potatismos.
-2. Korvstroganoff med ris och inlagd gurka.
+1. Karréstek med kantarellsås samt lingonpuré, grönsaker och kokt potatis.
+2. Lasagne med sallad.
+
+   Veckans sallad: Kycklingsallad med ris cohfrukt,fransk dressing.
 
 ### Lördag och söndag   A LA CARTÈ
 
