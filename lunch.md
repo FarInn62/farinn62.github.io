@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.3 2021
+title: Lunch V.4 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,25 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      
                            
 ### Måndag
-1. Oxjärpar med baconsås, lingon och potatismos.
-2. Stekt torsfilé med smörsås, grönsallad, räkor och kokt potatis.
+1. Kalvfärsbiff med kantarellsås, hjortronsylt och potatismos.
+2. Stekt laxfilé med skaldjursås samt spinat och kokt potatis.
 
 ### Tisdag
 1. Raggmunk med stekt fläsk samt lingonsylt.
-2. Spaghetti Bolognese topad med ost.
+2. Stekt fläsk med bruna böner och kokt potatis.
+3. Kålpudding med gräddsås, lingon och kokt potatis
 
 ### Onsdag
-1. Fläskfilégryta med stekt potatis samt sallad.
-2. Griljerad kycklingfilé med ädelostsås, spinat och strimlad potatis.
+1. Frityrstekt kyckling schnitzel med rosépepparsås samt grönsaker och råstekt potatis.
+2. Köttbullar med cremesås, ärter, lingon och potatispuré.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor samt sylt och grädde. 
-2. Vildmarksbiff med dragonsås, rårörda lingon samt potatispuré.
+1. Ärtsoppa samt tunna pannkakor samt sylt och grädde. 
+2. Grekisk färsbiff serverad med ris och tzatziki dressing samt tomatsallad och feta ost.
 
 ### Fredag  
-1. Helstekt Entrecote med vermouthsås samt grönsaker och potatisgratäng.
-2. Lax frestelse med vitvinsås, räkor och citron.
+1. Franska filégryta med sallad och strimlad potatis.
+2. Spahetti med bacon-ostsås samt krossade tomater.
 
 
 ### Lördag och söndag   A LA CARTÈ
