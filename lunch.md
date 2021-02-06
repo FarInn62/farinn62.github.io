@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.5 2021
+title: Lunch V.6 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
      
                            
 ### Måndag
-1. Kebabgryta med mild tomatsalsa, sallad och ris.
-2. Stekt falukorv med stuvade makaroner samt tomatdressing.
+1. Ostpanerad schnitzel ( Piccata) med milanaisesås och pastapenne samt sallad.
+2. Korvstroganoff med ris och inlagd gurka.
 
 ### Tisdag
 1. Raggmunk med stekt fläsk samt lingonsylt.
-2. Stekt rödtunga med skagensås, grönsaker och potatispuré.
+2. Lasagne med sallad.
 
 ### Onsdag
-1. Helstekt fläskytterfilé med Café de Parissås samt grönsaker och stekt potatis.
-2. Kalvfärsjärpar med gräddsås, rårörda lingon och potatismos.
+1. Älgskav med champinjonsås, lingon och potatismos.
+2. Panerad rödspätta med smörsås, spenat, räkor samt kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche, tunna pannkakor samt sylt och grädde. 
-2. Karrégryta med sallad och kokt potatis.
+1. Spenatsoppa med ägghalva, tunna pannkakor samt sylt och grädde. 
+2. Dansk sjömansbiff med lök-ölsås, persiljesmör samt råstekt potatis.
 
 ### Fredag  
-1. Fläskfilé noisette med pepparsås, wokgrönsaker och rostad potatis.
-2. Buljongkokt kycklingfilé med currysås, grönsaksris samt anannas och strimlad paprika.
+1. Helstekt fläskfile med sherrysås samt grönsaker och potatisgratäng.
+2. Spaghetti med tonfisksås samt ost, räkor och sallad.
 
 
 ### Lördag och söndag   A LA CARTÈ
