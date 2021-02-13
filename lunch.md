@@ -26,6 +26,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 1. Köttsoppa, tunna pannkakor samt sylt och grädde. 
 2.Kokt torskrygg med ägg och persiljesås samt ärter och kokt potatis.
 
+
 ### Fredag  
 1. Schweizer schnitzel med äpplecidersås samt grönsaker och stekt potatis.
 2. Makaronlåda med köttfärssås samt tomatdressing och grönsallad.
