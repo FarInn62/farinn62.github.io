@@ -24,7 +24,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Köttsoppa, tunna pannkakor samt sylt och grädde. 
-2.Kokt torskrygg med ägg och persiljesås samt ärter och kokt potatis.
+2. Kokt torskrygg med ägg och persiljesås samt ärter och kokt potatis.
 
 
 ### Fredag  
