@@ -9,8 +9,7 @@ Menyn gäller följande tider:
 Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
-     
-                           
+                                
 ### Måndag
 1. Wienerfärslimpa med brunsås, grönsaker och kokt potatis.
 2. Stekt falukorv med stuvad vitkål, potatis och sallad.
