@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.7 2021
+title: Lunch V.8 2021
 permalink: /lunch/
 published: true
 ---
@@ -11,25 +11,25 @@ Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
                                 
 ### Måndag
-1. Wienerfärslimpa med brunsås, grönsaker och kokt potatis.
-2. Stekt falukorv med stuvad vitkål, potatis och sallad.
+1. Kålpudding med gräddsås, lingonsylt och kokt potatis.
+2. Stekt torskfilé med räksås samt grönsaker och ris.
 
 ### Tisdag
-1. Raggmunk med stekt fläsk samt lingonsylt.
-2. Köttbullar i gräddsås samt potatispuré och lingon .
+1. Raggmunkar med stekt fläsk samt lingonsylt.
+2. Pannbiff med baconsås, lingonpuré och potatismos .
 
 ### Onsdag
-1. Karréstek med kantarellsås, hjortron, grönsaker och kokt potatis.
-2. Kycklingfilé med madaerasås, ratatouille grönsaker och stekt potatis.
+1. Kalvfärsbiff med chili-gräddsås, stekt bacon och pastapenne.
+2. Lax frestelse med smörsås samt spinat ,räkor och citron.
 
 ### Torsdag
-1. Köttsoppa, tunna pannkakor samt sylt och grädde. 
-2. Kokt torskrygg med ägg och persiljesås samt ärter och kokt potatis.
+1. Ärtsoppa, tunna pannkakor samt sylt och grädde. 
+2. Fransk filégryta med grönsaker och strimlad potatis.
 
 
 ### Fredag  
-1. Schweizer schnitzel med äpplecidersås samt grönsaker och stekt potatis.
-2. Makaronlåda med köttfärssås samt tomatdressing och grönsallad.
+1. Oxfilé noisette med tryffel och bearnaisesås samt stekta grönsaker och råstekt potatis.
+2. Spagehtti Bolognese med ost.
 
 
 ### Lördag och söndag   A LA CARTÈ
