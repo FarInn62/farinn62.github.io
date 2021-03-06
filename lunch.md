@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.9 2021
+title: Lunch V.10 2021
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
                                 
 ### Måndag
-1. Baconfyllda köttfärslimpa med brunsås och kokt potatis.
-2. Panerad torskfilé med såshollandaise samt räkoe och potatismos.
+1. Kalops med rödbtor och kokt potatis.
+2. Lax wallenbergare med dillsmör sås, inlagd gurka, ärter och potatismos.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Stekt falukorv med stuvad pasta, senapdressing och sallad.
+1. Stekt fläsk med löksås samt lingon och kokt potatis.
+2. Skomakarlåda med baconsås samt lingon och potatispuré.
 
 ### Onsdag
-1. Kycklinggryta med chlisås samt banan, saltanötter och ris.
-2. Pyttipanna med röbetor toppad med stekt ägg och tomatdressing.
+1. Vildsvinbiff med enbärsås, grönsaker, äpplemos samt kokt potatis.
+2. Gratinerad torsrygg med skagensås, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche, tunna pannkakor samt sylt och grädde. 
-2. Wiener schnitzel med citron, ärter samt sherrysås och stekt potatis.
+1. Baconsoppa med grönsaker, tunna pannkakor samt sylt och grädde. 
+2. Ost och skinkfylld schnitzel med sherrysås, wokgrönsaker och stekt potatis.
 
 ### Fredag  
-1. Oxbringa med rotmos, pepparotsås och rödbetor.
-2. Fläskfilé med London house sås, tomat och sparris samt potatisgratäng.
+1. Fläsfilégryta i pepparsås, samt svart vinbärsgele, stekt bacon och kokt potatis.
+2. Kålpudding med gräddsås, rårörda lingon och kokt potatis.
 
 
 ### Lördag och söndag   A LA CARTÈ
