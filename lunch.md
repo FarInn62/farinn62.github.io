@@ -27,7 +27,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Ost och skinkfylld schnitzel med sherrysås, wokgrönsaker och stekt potatis.
 
 ### Fredag  
-1. Fläsfilégryta i pepparsås, samt svart vinbärsgele, stekt bacon och kokt potatis.
+1. Fläskfilégryta i pepparsås, samt svart vinbärsgele, stekt bacon och kokt potatis.
 2. Kålpudding med gräddsås, rårörda lingon och kokt potatis.
 
 
