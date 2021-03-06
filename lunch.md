@@ -11,7 +11,7 @@ Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
                                 
 ### Måndag
-1. Kalops med rödbtor och kokt potatis.
+1. Kalops med rödbetor och kokt potatis.
 2. Lax wallenbergare med dillsmör sås, inlagd gurka, ärter och potatismos.
 
 ### Tisdag
@@ -20,7 +20,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Onsdag
 1. Vildsvinbiff med enbärsås, grönsaker, äpplemos samt kokt potatis.
-2. Gratinerad torsrygg med skagensås, grönsaker och kokt potatis.
+2. Gratinerad torskrygg med skagensås, grönsaker och kokt potatis.
 
 ### Torsdag
 1. Baconsoppa med grönsaker, tunna pannkakor samt sylt och grädde. 
