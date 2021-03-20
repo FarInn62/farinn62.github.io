@@ -11,7 +11,7 @@ Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
                                 
 ### Måndag
-1. Dillköttgryta med morötter, pojelök samt kokt potatis.
+1. Dillköttgryta med morötter, porjelök samt kokt potatis.
 2. Stekt falukorv med stuvade makaroner och sallad.
 
 ### Tisdag
