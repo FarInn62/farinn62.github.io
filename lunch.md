@@ -11,24 +11,24 @@ Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
                                 
 ### Måndag
-1. Stekt fläskkarré med kantarellsås, lingon, grönsaker och potatisgratäng.
-2. Lasagne med sallad.
+1. Dillköttgryta med morötter, pojelök samt kokt potatis.
+2. Stekt falukorv med stuvade makaroner och sallad.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Stekt rödspätta med remouladsås samt räkor och potatis.
+2. Biff lindström med persiljesmör, rödvinsås, grönsaker och potatis.
 
 ### Onsdag
-1. Grillstekt kycklingfilé med spenat och ädelostsås samt stekt potatis.
-2. Vegetarisk biff med café de parissås samt grönsaker och ris.
+1. Kalvfärsjärpar kantarellsås, rårörda lingon och potatismos.
+2. Strömmingsflundra med smörsås, räkor, lingon och potatispuré.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche, tunna pannkakor samt sylt och grädde. 
-2. Baconlindrad lunchkorv med senapsås, bostongurka och potatismos.
+1. Räksoppa, tunna pannkakor samt sylt och grädde. 
+2. Basel schnitzel med äpplevinsås, wokgrönsaker, rödvinbärsgelé samt stekt potatis.
 
 ### Fredag  
-1. Sjömansbiff med öl-löksås, persiljesmör samt råstekt potatis.
-2. Kokt lax med kräftsås, grönsaker och potatispuré.
+1. Helstekt fläskfilé med tryffelsås och toppad med bearnaisesås, sparris, kräftstjartor samt potatisgratäng.
+2. Laxfärsbiff med hollandisesås, stekt frukt, bacon, räkor, grönsaker och potatismos.
 
 
 ### Lördag och söndag   A LA CARTÈ
