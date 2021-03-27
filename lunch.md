@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 ### Fredag  
 1. Lövbiff med café de parissås samt grönsaker och stekt potatis.
 2. Påsktallrik med småvarmt.   160:-
-3. För avhämtning Torsdag, Fredag, Lördag var god ring restaurangen på 0563 50007
+3. För avhämtning Torsdag, Fredag, Lördag, var god ring restaurangen på 0563 50007
 
 
 ### Söndag Stängd
