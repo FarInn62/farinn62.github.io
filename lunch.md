@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.12 2021
+title: Lunch V.13 2021
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,28 @@ Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
                                 
 ### Måndag
-1. Dillköttgryta med morötter, purjolök samt kokt potatis.
-2. Stekt falukorv med stuvade makaroner och sallad.
+1. Pyttipanna med stektägg och rödbetor.
+2. Stekt torskfilé med dill-räksås, grönsaker och kokt potatis.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Biff lindström med persiljesmör, rödvinsås, grönsaker och potatis.
+1. Stekt fläsk med löksås samt lingon och kokt potatis.
+2. Spaghetti Bolognese med ost och sallad.
 
 ### Onsdag
-1. Kalvfärsjärpar kantarellsås, rårörda lingon och potatismos.
-2. Strömmingsflundra med smörsås, räkor, lingon och potatispuré.
+1. Grekisk färsbiff med tzatziki dressing samt paprikasallad och ris.
+2. Panerad schnitrzel med grönpepparsås, lingonpuré, grönsaker och stekt potatis.
 
 ### Torsdag
-1. Räksoppa, tunna pannkakor samt sylt och grädde. 
-2. Baselschnitzel med äpplevinsås, wokgrönsaker, rödvinbärsgelé samt stekt potatis.
+1. Köttfärssoppa med creme fraiche, tunna pannkakor samt sylt och grädde. 
+2. Köttbullar med gräddsås, gurka, lingon och potatismos.
 
 ### Fredag  
-1. Helstekt fläskfilé med tryffelsås och toppad med bearnaisesås, sparris, kräftstjärtar samt potatisgratäng.
-2. Laxfärsbiff med hollandaisesås, stekt frukt, bacon, räkor, grönsaker och potatismos.
+1. Lövbiff med café de parissås samt grönsaker och stekt potatis.
+2. Påsktallrik med småvarmt.   160:-
+3. För avhämtning Torsda, Fredag, Lördag var god ring restaurangen på 0563 50007
 
 
-### Lördag och söndag   A LA CARTE
+### Söndag Stängd
 
     Välkommen
     
