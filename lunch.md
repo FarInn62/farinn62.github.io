@@ -10,6 +10,7 @@ Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
 OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning, 3. För avhämtning: var god ring restaurangen på 0563 50007
                                 
+
 ### Måndag
 1. PÅSK ALA CARTÉ.
 2. Kycklinggryta Indiana med banan-currysås samt sallad och ris.
