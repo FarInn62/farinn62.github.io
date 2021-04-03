@@ -8,7 +8,7 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
-OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning.
+OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning, 3. För avhämtning: var god ring restaurangen på 0563 50007
                                 
 ### Måndag
 1. PÅSK ALA CARTÉ.
@@ -29,7 +29,6 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 ### Fredag  
 1. Schweizisk schnitzel med madairasås, grönsaker och stekt potatis.
 2. Korvstroganoff med ris, gurka samt smetana
-3. För avhämtning: var god ring restaurangen på 0563 50007
 
 
 ### Lördag & Söndag ALA CARTÈ
