@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.16 2021
+title: Lunch V.17 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Plommon marinerad fläskkarré med champinjonsås, grönsaker, äpplemos och kokt potatis.
-2. Pyttipanna med stekt ägg och rödbetor.
+1. Kåldolmar med brunsås, lingon och potatismos.
+2. Baconinbakad lunchkorv med persiljestuvad potatis och sallad.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Lax schnitzel och heta räkor med citronsås, spenat och potatismos .
+2. Köttfärslimpa med kantarellsås samt grönsaker, lingonpuré och kokt potatis.
 
 ### Onsdag
-1. Pannbiff med löksky samt persiljesmör och råstekt potatis.
-2. Dillköttgryta med morötter och kokt potatis.
+1. Kycklingnoisette med paprika-gräddsås, apelsindressing samt ris.
+2. Strömmingsflundra med smörsås, räkor, lingon och potatismos.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche, tunna pannkakor samt sylt och grädde. 
-2. Holsteiner schnitzel med rödvinsås, kapris och steka rödbetor samt strimlad potatis.
+1. Baconsoppa med broccoli samt tunna pannkakor samt sylt och grädde. 
+2. Fläskfilégryta med grönsaker och kokt potatis.
 
 ### Fredag  
-1. Filé mignon Black & White med tryffel och bearnaisesås samt grönsaker och stekt potatis.
-2. Boljonkokta kycklingfilé med dragonsås, grönsaker och ris.
+1. Helstekt Entrcote med pepparsås, wokgrönsaker samt råstade potatis.
+2.Smörstekt makrillfilé med spenat, räkor samt smörsås och kokt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
