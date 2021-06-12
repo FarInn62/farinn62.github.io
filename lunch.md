@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.22 2021
+title: Lunch V.23 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Älgfärs järpar med kantarellsås, lingonsylt, grönsaker och kokt potatis.
-2. Mandeltorsk med limesås samt räkor, grönsker och ris.
+1. Älgskav med champinjonsås, lingonsylt och potatismos.
+2. Spagehtti bolognese toppad med ost.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Köttbullar med gräddsås samt inlagd gurka, lingon och potatismos.
+2. Kålpudding med brunsås, lingon och kokt potatis.
 
 ### Onsdag
-1. Kycklingfilé med ädelsås, smörkokt spenat samt tomat och stekt potatis.
-2. lax frestelse med räksås, grönsaker och citron.
+1. Stekt rödspätta med räkmajonäs och citron samt grönsaker och kokt potatis .
+2. Dillköttgryta med morötter och kokt potatis.
 
 ### Torsdag
-1. Sommarsoppa med bacon samt pannkakor, sylt och grädde. 
-2. Biff ala Lindström med rödvinsås, persiljesmör, ångade grönsaker samt kokt potatis.
+1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
+2. Basel schnitzel med rosépepparsås samt grönsaker och råstekt potatis.
 
 ### Fredag  
-1. Biff ala Wallenberg med gräddsås, lingon, ärter och potatismos.
-2. Fläskfilé stroganoff med smetana, gurka och ris .
+1. Helstekt Entrécote med madeira och bearnaisesås samt grönsaker och potatisgratäng .
+2. Texmex kycklinggryta med ris och sallad .
 
 
 ### Lördag & Söndag ALA CARTÈ
