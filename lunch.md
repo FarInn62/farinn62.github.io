@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.24 2021
+title: Lunch V.25 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Älgskav med champinjonsås, lingonsylt och potatismos.
-2. Spagehtti bolognese toppad med ost.
+1. Baconlindad kalvfärslimpa med murkelsås, hjortronsylt, grönsaker och potatismos.
+2. Stekt falukorv med stuvade vitkål, senapsdressing och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Kålpudding med brunsås, lingon och kokt potatis.
+2. Pytt i panna toppad med stekt ägg och rödabetor.
 
 ### Onsdag
-1. Stekt rödspätta med räkmajonäs och citron samt grönsaker och kokt potatis .
-2. Dillköttgryta med morötter och kokt potatis.
+1. Gulaschgryta med paprikasallad och potatismos .
+2. Ostgratinerad köttfärslåda med baconsås, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
-2. Basel schnitzel med rosépepparsås samt grönsaker och råstekt potatis.
+1. Spenadsoppa med ägghalva samt pannkakor, sylt och grädde. 
+2. Pannbiff med tomatiserad löksås, sallad med soltorkade tomater och fetaost samt stekt potatis.
 
 ### Fredag  
-1. Helstekt Entrécote med madeira och bearnaisesås samt grönsaker och potatisgratäng .
-2. Texmex kycklinggryta med ris och sallad .
+1. MIDSOMMARAFTON ÖPPET FÖR HÄMTNING AV MIDSOMMAR LÅDOR MELLAN 12.00-14.00 PRIS 150:- OBS:FÖRBESTÄLLA.
+2. ALA CARTÉ FINNS.
 
 
 ### Lördag & Söndag ALA CARTÈ
