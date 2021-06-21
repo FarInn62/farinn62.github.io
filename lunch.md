@@ -28,8 +28,8 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Pannbiff med tomatiserad löksås, sallad med soltorkade tomater och fetaost samt stekt potatis.
 
 ### Fredag  
-1. MIDSOMMARAFTON ÖPPET FÖR HÄMTNING AV MIDSOMMAR LÅDOR MELLAN 12.00-14.00 PRIS 150:- OBS:BESTÄLLA GÄRNA.
-2. ALA CARTÉ FINNS.
+1. MIDSOMMARAFTON ÖPPET FÖR HÄMTNING OCH UTKÖRNING AV MIDSOMMARTALRIK MELLAN 12.00-14.00 PRIS 150:- OBS: ENDAST BESTÄLLNING.
+2. FÖR BETÄLLNING RING DIREKT TILL RESTAURANGEN PÅ 0563-50007.
 
 
 ### Lördag & Söndag ALA CARTÈ
