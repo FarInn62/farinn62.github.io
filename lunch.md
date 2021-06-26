@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.25 2021
+title: Lunch V.26 2021
 permalink: /lunch/
 published: true
 ---
@@ -8,28 +8,28 @@ Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 15:00
 Alla rätter: 85:- Take away: 70:-
-OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning, 3. För avhämtning: var god ring restaurangen på 0563 50007
+OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkommen att komma till restaurangen med hänsyn till distanshålning, För avhämtning ring:0563-50007
                                 
 
 ### Måndag
-1. Baconlindad kalvfärslimpa med murkelsås, hjortronsylt, grönsaker och potatismos.
-2. Stekt falukorv med stuvade vitkål, senapsdressing och kokt potatis.
+1. Stekt torskfilé med räkmajonnäs, citron och potatismos.
+2. Spaghetti Carbonara med sallad.
 
 ### Tisdag
-1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Pytt i panna toppad med stekt ägg och rödabetor.
+1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
+2. Köttbullar med gräddsås, lingon, inlagd gurka och potatispuré.
 
 ### Onsdag
-1. Gulaschgryta med paprikasallad och potatismos .
-2. Ostgratinerad köttfärslåda med baconsås, grönsaker och kokt potatis.
+1. Äggpanerad schnitzel med paprika-gräddsås samt grönsaker och ris .
+2. Sommartallrik med rostbiff, skinka, samt lingoncreme och pickles.
 
 ### Torsdag
-1. Spenadsoppa med ägghalva samt pannkakor, sylt och grädde. 
-2. Pannbiff med tomatiserad löksås, sallad med soltorkade tomater och fetaost samt stekt potatis.
+1. Grönsakssoppa med bacon samt pannkakor, sylt och grädde. 
+2. Kokt torsk med äggsås, ärter och kokt potatis.
 
 ### Fredag  
-1. MIDSOMMARAFTON ÖPPET FÖR HÄMTNING OCH UTKÖRNING AV MIDSOMMARTALRIK MELLAN 12.00-14.00 PRIS 150:- OBS: ENDAST BESTÄLLNING.
-2. FÖR BETÄLLNING RING DIREKT TILL RESTAURANGEN PÅ 0563-50007.
+1. Slottstekt med sherrysås samt grönsaker och kokt potatis.
+2. Dansk sjömansbiff med lök-ölsås, persiljesmör och råstekt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
