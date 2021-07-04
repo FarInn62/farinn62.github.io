@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.26 2021
+title: Lunch V.27 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Stekt torskfilé med räkmajonnäs, citron och potatismos.
-2. Spaghetti Carbonara med sallad.
+1. Marinerad karréstek med jägarsås, äpplemos, grönsaker och kokt potatis.
+2. Baconlindad lunchkorv med persilje stuvad potatis och sallad.
 
 ### Tisdag
-1. Stekt fläsk med löksås, lingonsylt och kokt potatis.
-2. Köttbullar med gräddsås, lingon, inlagd gurka och potatispuré.
+1. Raggmunkar och stekt fläsk, lingonsylt.
+2. Ost och baconfylld köttfärsrulle med ädelostsås, grekisk sallad och kokt potatis.
 
 ### Onsdag
-1. Äggpanerad schnitzel med paprika-gräddsås samt grönsaker och ris .
-2. Sommartallrik med rostbiff, skinka, samt lingoncreme och pickles.
+1. Schwezisk schnitzel med dragonsås, grönsaker och stekt potatis.
+2. Smörstekt rödspätta med hummersås, kräftstjärtar samt kokt potatis.
 
 ### Torsdag
-1. Grönsakssoppa med bacon samt pannkakor, sylt och grädde. 
-2. Kokt torsk med äggsås, ärter och kokt potatis.
+1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
+2. Älgfärsbiff med jägarmästarsås, äpplemos, grönsaker och kokt potatis.
 
 ### Fredag  
-1. Slottstekt med sherrysås samt grönsaker och kokt potatis.
-2. Dansk sjömansbiff med lök-ölsås, persiljesmör och råstekt potatis.
+1. Lövbiff med madeirasås, persiljesmör och grönsaker samt kokt potatis.
+2. Lasagne med sallad.
 
 
 ### Lördag & Söndag ALA CARTÈ
