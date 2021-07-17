@@ -28,7 +28,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Benfrikotlett med dragonsås, svart vinbärsgelé , grönsaker och stekt potatis.
 
 ### Fredag  
-1. Äkta sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
+1. Äkta sjömansbiff(lövbiff) med öl-löksås, persiljesmör och råstekt potatis.
 2. Stekt laxfilé med saffran-smörsås samt räkor, grönsaker och potatispuré.
 
 
