@@ -12,7 +12,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Ostratinerad köttfärspudding med tomat-löksås samt sallad och kokt potatis.
+1. Ostgratinerad köttfärspudding med tomat-löksås samt sallad och kokt potatis.
 2. stekt falukorv med stuvad vitkål och kokt potatis.
 
 ### Tisdag
