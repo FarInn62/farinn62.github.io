@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.29 2021
+title: Lunch V.30 2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Biff ala backman med stekt ägg, rödbetor, kapris samt rödvinsås och stekt potatis .
-2. Köttbullar i gräddsås, lingonsylt, inlagd gurka och potatismos.
+1. Ostratinerad köttfärspudding med tomat-löksås samt sallad och kokt potatis.
+2. stekt falukorv med stuvad vitkål och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Älgfärslimpa med kantarellsås, rårördalingon, grönsaker och kokt potatis.
+2. Stekt rödspätta med skagenröra, grönsaker och potatispuré.
 
 ### Onsdag
-1. stekt kycklingfilé med sherrytryffelsås samt grönsaker och strimlad potatis.
-2. Smörstekt sejfilé med krabbsås samt citron, spenat och kokt potatis.
+1. Kalvfärs järpar med kantarellsås, rårörda lingon, inlagd gurka och potatismos.
+2. Lasagne med sallad.
 
 ### Torsdag
-1. Sparrisoppa samt pannkakor, sylt och grädde. 
-2. Benfrikotlett med dragonsås, svart vinbärsgelé , grönsaker och stekt potatis.
+1. Sommarsoppa samt pannkakor, sylt och grädde. 
+2. Ostpanerad schnitzel med rosépepparsås, ärter och stekt potatis.
 
 ### Fredag  
-1. Äkta sjömansbiff(lövbiff) med öl-löksås, persiljesmör och råstekt potatis.
-2. Stekt laxfilé med saffran-smörsås samt räkor, grönsaker och potatispuré.
+1. Fläskfilégryta med wokgrönsaker och stekt potatis.
+2. Kebab med mildsås, italiensk sallad och ris.
 
 
 ### Lördag & Söndag ALA CARTÈ
