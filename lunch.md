@@ -25,11 +25,11 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Köttfärssoppa samt pannkakor, sylt och grädde. 
-2. Korvstroganoff med smetana, inlagdgurka oc ris.
+2. Korvstroganoff med smetana, inlagdgurka och ris.
 
 ### Fredag  
 1. Biffstek med lök, vinsås, grönsaker och stekt potatis.
-2. Pyttipanna med stekt ägg, röbetor.
+2. Pytti panna med stekt ägg, röbetor.
 
 
 ### Lördag & Söndag ALA CARTÈ
