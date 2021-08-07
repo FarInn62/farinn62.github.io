@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.31    2021
+title: Lunch V.32    2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Rådjursbiff (hackad) med viltsås, rödvinbärsgelé, grönsaker och kokt potatis.
-2. Kokt sejfilé med vertesås, räkor, grönsaker och potatis.
+1. Mexikansk köttgryta (chili con carne), grönsallad samt strimlad paprikaris.
+2. Stekt strömmingsflundra med smörsås, räkor, lingon och potatispuré.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Köttbullar i gräddsås, inlagdgurka, lingon och potatismos.
+2. Oxfärslimpa med kantarellsås och rödvinbärspuré, grönsaker och kokt potatis.
 
 ### Onsdag
-1. Karrégryta med grönsaker, äpplemos och kokt potatis.
-2. Skomakarlåda med lingoncreme och potatispuré.
+1. Äggpanerad fläsknoisette med griljerad tomat, bladspenad, café de parissås samt stekt potatis.
+2. Smörstekt havs kattfilé med kräftsås samt grönsaker och potatismos.
 
 ### Torsdag
-1. Köttfärssoppa samt pannkakor, sylt och grädde. 
-2. Korvstroganoff med smetana, inlagdgurka och ris.
+1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
+2. Kyckling schnitzel med äpple-vinsås samt stekt grönsaker och strimlade potatis.
 
 ### Fredag  
-1. Biffstek med lök, vinsås, grönsaker och stekt potatis.
-2. Pytti panna med stekt ägg, röbetor.
+1. Fläskfilé med sherrysås, grönsaker och röstipotatis.
+2. lax-Wallenbergare med gurka, ärter och hummersås samt potatispuré.
 
 
 ### Lördag & Söndag ALA CARTÈ
