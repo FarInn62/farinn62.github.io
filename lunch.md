@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Biff ala Lindström med rödvinsås, persiljesmör, grönsaker och kokt potatis.
-2. Stekt lunchkorv med persiljstuvad potatis och sallad.
+1. Peppar schnitzel med grönpepparsås, gelé, grönsaker och stekt potatis.
+2. Kokt falukorv med pepparotsås samt kokt morötter och potatismos.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Lasagne med sallad.
+2. Stekt rödspätta med smörsås, räkor samt ärter och kokt potatis.
 
 ### Onsdag
-1. Kalvfärsbiff med gräddkokta kantareller, lingon, inlaggd gurka och potatismos.
-2. Spagheti Bolognese med sallad.
+1. Fläskfilégryta med grönsaker och kokt potatis.
+2. Kålpudding med gräddsås, lingon och koktpotatis.
 
 ### Torsdag
-1. Ärtsoppa samt pannkakor, sylt och grädde. 
-2. Katrinplommonfylld kycklingfilé med paprika-gräddsås, apelsindressing samt stekt potatis.
+1. Köttfärssoppa samt pannkakor, sylt och grädde. 
+2. Pulledpork med chilidressing, stekta grönsaker och råstekt potatis.
 
 ### Fredag  
-1. Dansk sjömansbiff med öl-löksås samt råstekt potatis.
-2. Kokt lax med vitvinsås, kräftstjärtar, grönsaker och kokt potatis.
+1. Biffstek med stekt lök och portersås, grönsaker och potatisgratäng.
+2. Kokt torskfilé med äggsås, grönsaker och kokt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
