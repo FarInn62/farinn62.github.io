@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.34    2021
+title: Lunch V.35    2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Peppar schnitzel med grönpepparsås, gelé, grönsaker och stekt potatis.
-2. Kokt falukorv med pepparotsås samt kokt morötter och potatismos.
+1. Köttfärsgratäng med baconsås samt grönsaker och stekt potatis.
+2. Stekt falukorv med stuvade makaroner och tomatsallad.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Stekt rödspätta med smörsås, räkor samt ärter och kokt potatis.
+2. Fläskytterfilé med champinjonsås, äpplesalsa och kokt potatis.
 
 ### Onsdag
-1. Fläskfilégryta med grönsaker och kokt potatis.
-2. Kålpudding med gräddsås, lingon och koktpotatis.
+1. Grekisk färsbiff med tomatsås och tzatzikidressing samt fetaost och ris.
+2. Stekt torskfilé med skagensås, grönsaker och potatispuré.
 
 ### Torsdag
 1. Köttfärssoppa samt pannkakor, sylt och grädde. 
-2. Pulledpork med chilidressing, stekta grönsaker och råstekt potatis.
+2. Kycklinggryta (Indiana) med grönsaksris och sallad.
 
 ### Fredag  
-1. Biffstek med stekt lök och portersås, grönsaker och potatisgratäng.
-2. Kokt torskfilé med äggsås, grönsaker och kokt potatis.
+1. Fläskfilé noisette med madeira och bearnaisesås samt grönsaker och råstekt potatis.
+2. Älgfärslimpa med viltsås, gelé, grönsaker och kokt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
