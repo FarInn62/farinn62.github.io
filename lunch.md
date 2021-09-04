@@ -13,15 +13,15 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Måndag
 1. Karréstek med kanel-gräddsås, äppelmos och kokt potatis.
-2. Spagehtti Bolognese med ost och sallad.
+2. Spaghetti Bolognese med ost och sallad.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Korvstroganoff med smetana och inlaggd gurka samt ris.
+2. Korvstroganoff med smetana och inlagd gurka samt ris.
 
 ### Onsdag
 1. Äggpanerad schnitzel med café de parissås samt grönsaker och stekt potatis.
-2. Ostsåsgratinerad torskfilé med heta räkor, grönskaer och potatismos.
+2. Ostsåsgratinerad torskfilé med heta räkor, grönsakaer och potatismos.
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Fredag  
 1. Älgskav med kantarellsås, rårörda lingon och potatismos.
-2. Kalvfärsbiff med såsverté samt grönsaker, svart vinbärspuré och kokt potatis.
+2. Kalvfärsbiff med såsvaulé samt grönsaker, svart vinbärspuré och kokt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
