@@ -25,7 +25,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
-2. Bundebiff med löksås samt stekt vitkål, lingon och kokt potatis.
+2. Bondebiff med löksås samt stekt vitkål, lingon och kokt potatis.
 
 ### Fredag  
 1. Älgskav med kantarellsås, rårörda lingon och potatismos.
