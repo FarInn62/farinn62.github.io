@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Köttfärsgratäng med baconsås samt grönsaker och stekt potatis.
-2. Stekt falukorv med stuvade makaroner och tomatsallad.
+1. Karréstek med kanel-gräddsås, äppelmos och kokt potatis.
+2. Spagehtti Bolognese med ost och sallad.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Fläskytterfilé med champinjonsås, äpplesalsa och kokt potatis.
+2. Korvstroganoff med smetana och inlaggd gurka samt ris.
 
 ### Onsdag
-1. Grekisk färsbiff med tomatsås och tzatzikidressing samt fetaost och ris.
-2. Stekt torskfilé med skagensås, grönsaker och potatispuré.
+1. Äggpanerad schnitzel med café de parissås samt grönsaker och stekt potatis.
+2. Ostsåsgratinerad torskfilé med heta räkor, grönskaer och potatismos.
 
 ### Torsdag
-1. Köttfärssoppa samt pannkakor, sylt och grädde. 
-2. Kycklinggryta (Indiana) med grönsaksris och sallad.
+1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
+2. Bundebiff med löksås samt stekt vitkål, lingon och kokt potatis.
 
 ### Fredag  
-1. Fläskfilé noisette med madeira och bearnaisesås samt grönsaker och råstekt potatis.
-2. Älgfärslimpa med viltsås, gelé, grönsaker och kokt potatis.
+1. Älgskav med kantarellsås, rårörda lingon och potatismos.
+2. Kalvfärsbiff med såsverté samt grönsaker, svart vinbärspuré och kokt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
