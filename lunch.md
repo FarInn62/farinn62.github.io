@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.36  2021
+title: Lunch V.37  2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Karréstek med kanel-gräddsås, äppelmos och kokt potatis.
-2. Spaghetti Bolognese med ost och sallad.
+1. Grillstekt kycklingfilé med ädelostsås spenat, krossad tomater samt stekt potatis.
+2. Pytti panna toppad med stekt ägg och rödbetor.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Korvstroganoff med smetana och inlagd gurka samt ris.
+2. Stekt torskfilé med skagenröra samt citron och potatispuré.
 
 ### Onsdag
-1. Äggpanerad schnitzel med café de parissås samt grönsaker och stekt potatis.
-2. Ostsåsgratinerad torskfilé med heta räkor, grönsakaer och potatismos.
+1. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
+2. Lasagne med sallad.
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
-2. Bondebiff med löksås samt stekt vitkål, lingon och kokt potatis.
+2. Kålpudding med gräddsås samt lingonsylt och kokt potatis.
 
 ### Fredag  
-1. Älgskav med kantarellsås, rårörda lingon och potatismos.
-2. Kalvfärsbiff med såsvaulé samt grönsaker, svart vinbärspuré och kokt potatis.
+1. Fläskfilegryta med grönsaker och kokt potatis.
+2. Basel schnitzel med äpplevinsås, stekta grönsaker och rösti potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
