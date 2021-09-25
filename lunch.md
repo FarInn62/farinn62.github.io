@@ -12,7 +12,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Grillkarré med chmpinjonsås, äpplemos och potatisgratäng.
+1. Grillkarré med champinjonsås, äpplemos och potatisgratäng.
 2. Spaghetti Bolognese med ost och sallad.
 
 ### Tisdag
@@ -25,10 +25,10 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt pannkakor, sylt och grädde. 
-2. Kyckling schnitzel med rosépepparsås, grönsaker och råstekt potatis.
+2. Kycklingschnitzel med rosépepparsås, grönsaker och råstekt potatis.
 
 ### Fredag  
-1. Wiener schnitzel med rödvinsky, citron, ärtor, anjovissmör samt stekt potatis.
+1. Wienerschnitzel med rödvinsky, citron, ärtor, anjovissmör samt stekt potatis.
 2. Lax frestelse med räkor, grönsaker och saffran-smörsås.
 
 
