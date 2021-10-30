@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.43  2021
+title: Lunch V.44  2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Kassler med rotmos, pepparotsås och sallad.
-2. Köttbullar med gräddsås, lingon, gurka samt kokt potatis.
+1. Kålpudding med gräddsås, lingon och kokt potatis.
+2. Korvstroganoff med ris, smetana och gurka.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Marinerad kycklingfilé med paprika-gräddsås samt strimlad potatis.
+2. Stekt rödspätta med smörsås, räkor, grönsaker och potatispuré.
 
 ### Onsdag
-1. Griljerad Karréstek med kantarellsås samt lingonpuré och kokt potatis.
-2. Koktlax med skagensås, spenat och kokt potatis.
+1. Kassler-karégryta med grönsaker, äpplemos och kokt potatis.
+2. Grillstekt kycklingfilé med curry-bearnaisesås samt sallad och stekt potatis.
 
 ### Torsdag
-1. Ärtsoppa samt tunna pannkakor och hjortronsylt och grädde. 
-2. Benfri kotlett med pepparsås, wokgrönsaker och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hjortronsylt och grädde. 
+2. Kalvfärs jägar med murkelsås, rårörda lingon och potatismos.
 
 ### Fredag  
-1. Lövbiff med madeirasås, persiljesmör samt potatisgratäng.
-2. Lasagne med sallad.
+1. Helstekt fläskfilé med sherry-tryffelsås, grönsaker samt pommes chateua.
+2. Biff backman, stekt ägg, rödbetor, kapris samt rödvinsås och stekt potatis.
 
 
 ### Lördag & Söndag ALA CARTÈ
