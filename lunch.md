@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.45  2021
+title: Lunch V.46  2021
 permalink: /lunch/
 published: true
 ---
@@ -12,26 +12,26 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Fransk köttgryta med kokt potatis och sallad.
-2. Stekt torskfilé med kräftsås, grönsaker och potatismos.
+1. Lax Wallenberg med hummer-gräddsås ärter, gurka och potatismos.
+2. Stekt falukorv med stuvade makaroner samt tomatdressing och sallad.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Viltkryddad jägerstek med gräddkokta champinioner och ingeferalingon samt kokt potatis.
+2. Fransk köttgryta med kokt potatis och sallad.
 
 ### Onsdag
-1. Kycklinggryta med chili-gräddsås samt strimlad bacon och ris.
-2. Kebab med mildsås, sallad och strimlad potatis.
+1. Kalvfärslimpa med jägaramästarsås, görsaker och lingonsylt samt kokt potatis.
+2. Senapsmarinerad strummingsflundra med smörsås, räkor, lingon och potatis duchesse.
 
 ### Torsdag
-1. Bacon-grönsakssoppaa samt tunna pannkakor och hjortronsylt och grädde. 
-2. Farmarbiff med café de parissås samt grönsaker och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hjortronsylt och grädde. 
+2. Älgfärsbiff med viltsås, gelé, grönsaker samt stekt potatis.
 
 ### Fredag  
-1. Hackad sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
-2. Ost och skinkfylld schnitzel med vinsås, stekta grönsaker samt råstekt potatis.
+1. Helstekt Entrécote med tryffelsås, grönsaker och potatisgratäng.
+2. Holsteiner schnitzel med röbetor, kapris, stektägg samt sherrysås och stekt potatis.
 
-
+    SMAKLIGT MÅLTID
 ### Lördag & Söndag ALA CARTÈ
 
     Välkommen
