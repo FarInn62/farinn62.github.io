@@ -13,7 +13,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Måndag
 1. Basel schnitzel med äppelvinsås, grönsaker och stekt potatis.
-2. Pyttipanna med stekt ägg och rödbetor.
+2. Pytt i panna med stekt ägg och rödbetor.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
