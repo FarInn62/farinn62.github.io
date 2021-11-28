@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.47  2021
+title: Lunch V.48  2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Basel schnitzel med äppelvinsås, grönsaker och stekt potatis.
-2. Pytt i panna med stekt ägg och rödbetor.
+1. Kålpudding med gräddsås, lingon och kokt potatis.
+2. Spagehtti Bolagnese med ost.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Lasagne med sallad.
+2. Helstakt fläskytterfilé med kantarellsås, lingon, grönsaker och kokt potatis.
 
 ### Onsdag
-1. Stekt rödspätta med krabbsås, citron, grönsaker och potatispuré.
-2. Texmex biff med chilisås, ris och sallad.
+1. Kycklingfilé Indiana med currysås samt banan, sallad och ris.
+2. Köttfärslimpa med beconsås, grönsaker, lingon och potatismos.
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hjortronsylt och grädde. 
-2. Ångad laxfilé med vitvinsås, räkor, sparris och koktpotatis.
+2. Stekttorskfilé med hållandaisesås, heta räkor och kokt potatis.
 
 ### Fredag  
-1. Oxfilégryta med grönsaker och potatismos.
-2. Kycklingfilé med currysås, stekt bananer och ris.
+1. Grönpeppargryta med fläskfilé samt grönsaker och strimlade potatis.
+2. Pannbiff med löksky, persiljesmör och råstekt potatis.
 
     SMAKLIGT MÅLTID
 ### Lördag & Söndag ALA CARTÈ
