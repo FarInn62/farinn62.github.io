@@ -24,7 +24,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Stekt rödspätta med dill-räksås, citron, grönsasker och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hjortronsylt och grädde. 
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hallonsylt och grädde. 
 2. Italiensk färsbiff med tomat-löksås, sallad och pastapenne.
 
 ### Fredag  
