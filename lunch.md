@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.50  2021
+title: Lunch V.51  2021
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Kalvbringa med rotmos, senapsås och röbetor.
-2. Stekt lunchkorv med stuvade broccoli och potatismos.
+1. Skånsk kalops med rödbetor och kokt potatis.
+2. Ostsåsgratinerad torskfilé med kräftstjätar, grönsakr och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Kebabgryta med sallad och strimlad potatis.
+2. Spaghetti Bolagnese med ost.
 
 ### Onsdag
-1. Kycklingfilé med tigersås, grönsaker och ris.
-2. Stekt rödspätta med dill-räksås, citron, grönsasker och kokt potatis.
+1. Jullunch, litet julbuffé med småvarmt (årets sista)  150: -
+2. Helstekt fläskfilé med bearnaisesås, grönsaker och stekt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hallonsylt och grädde. 
-2. Italiensk färsbiff med tomat-löksås, sallad och pastapenne.
+1. Baconsoppa med grönsaker samt tunna pannkakor och hallonsylt och grädde. 
+2. Skomakarlåda med lingonpuré och potatismos.
 
 ### Fredag  
-1. Fläskfilégryta med pepparsmak, stekta grönsaker och potatispuré.
-2. Lax frestelse med räkor, saffransås och sallad.
+1. Julafton, Jultalrik med småvarmt (endast hämtning kl.11-12).
+2. Ring gärna på torsdag för bestälning.
 
     SMAKLIGT MÅLTID
 ### Lördag & Söndag ALA CARTÈ
