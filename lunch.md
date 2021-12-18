@@ -25,7 +25,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Torsdag
 1. Baconsoppa med grönsaker samt tunna pannkakor och hallonsylt och grädde. 
-2. Skomakarlåda med lingonpuré och potatismos.
+2. Skomakarlåda med lingonpuré och potatismos
 
 ### Fredag  
 1. Julafton, Jultalrik med småvarmt (endast hämtning kl.11-12).
