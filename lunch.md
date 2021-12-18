@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Fredag  
 1. Julafton, Jultalrik med småvarmt (endast hämtning kl.11-12).
-2. Ring gärna på torsdag för bestälning.
+   Ring gärna på torsdag för bestälning.
 
     SMAKLIGT MÅLTID
 ### Lördag & Söndag ALA CARTÈ
