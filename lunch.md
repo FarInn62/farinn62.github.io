@@ -28,7 +28,8 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Lövbiff black and white med grönsaker och pommes chateua.
 
 ### Fredag  
-1. A la Carte.
+1. Nyårsafton severas endast A la Carte till kl. 14,30.
+2. Gott nytt år önskar personalen.
    
 
     SMAKLIGT MÅLTID
