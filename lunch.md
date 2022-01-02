@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.52  2021
+title: Lunch V.1  2022
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Kålpudding med gräddsås, lingon och kokt potatis.
-2. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
+1. Marinerad karréstek med körsbärsås, grönsaker och kokt potatis.
+2. Spagehtti med lax och räksås, sallad.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Stekt rödspätta med skagensås samt citron, grönsaker och kokt potatis.
+2. Köttfärslimpa med baconsås samt lingon och potatismos.
 
 ### Onsdag
-1. Curry kycklinggryta med ris och sallad.
-2. Älgfärsbiff med gräddkokta kantareller samt lingon, grönsaker och kokt potatis.
+1. Fransk köttgryta med grönsaker och kokt potatis.
+2. Stekt torskfilé med vitvinsås, räkor, grönsaker samt potatispuré.
 
 ### Torsdag
 1. Köttfärssoppa samt tunna pannkakor och hallonsylt och grädde. 
-2. Lövbiff black and white med grönsaker och pommes chateua.
+2. A LA Carte.
 
 ### Fredag  
-1. Nyårsafton severas endast A la Carte till kl. 14,30.
-2. Gott nytt år önskar personalen.
+1. Kokt kycklingfilé med chiligräddsås samt ris och sallad.
+2. Köttbullar med brunsås, gurka, lingon och potatismos.
    
 
     SMAKLIGT MÅLTID
