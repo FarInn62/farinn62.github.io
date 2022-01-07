@@ -28,7 +28,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Fläskfilé med bearnaisesås och stekta chmpinjoner samt stekt potatis.
 
 ### Fredag  
-1. Piccata Milamaise (ostpanerad Noisetter) med Milanaisesås, tomatsallad samt pastapenne.
+1. Piccata Milamaise (ostpanerad Noisetter) med Milanaisesås,tomatsallad samt pastapenne.
 2. Pannbiff med löksky samt persiljesmör och potatisgratäng.
    
 
