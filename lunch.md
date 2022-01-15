@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.2  2022
+title: Lunch V.3  2022
 permalink: /lunch/
 published: true
 ---
@@ -12,24 +12,24 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Panerad schnitzel med pepparsås, gelé, sallad och stekt potatis.
-2. Oxfärsjärpar med kantarellsås. lingon samt råstekt potatis.
+1. Kokt rimmad skinka med rotmos, senapsås och sallad.
+2. Kalvfärslimpa med murkelsås samt grönsaker kokt potatis.
 
 ### Tisdag
 1. Raggmunkar och stekt fläsk, lingonsylt.
-2. Stekt falukorv med stuvade makaroner och sallad.
+2. Stekt rödspätta med skagensås, citron och potatismos.
 
 ### Onsdag
-1. Fransk köttgryta med ris och sallad.
-2. Stekt lax med hummersås, spenat och potatismos.
+1. Dragon schnitzel med rosépepparsås, stekt annanas, tomat och stekt potatis.
+2. Korvstroganoff med ris samt smetana och saltgurka.
 
 ### Torsdag
-1. Ärtsoppa samt tunna pannkakor och hallonsylt och grädde. 
-2. Fläskfilé med bearnaisesås och stekta chmpinjoner samt stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hallonsylt och grädde. 
+2. Kokt torskfilé med ägg och persiljesås, ärter och kokt potatis.
 
 ### Fredag  
-1. Piccata Milamaise (ostpanerad Noisetter) med Milanaisesås,tomatsallad samt pastapenne.
-2. Pannbiff med löksky samt persiljesmör och potatisgratäng.
+1. Helstekt fläskytterfilé med tryffelsås samt grönsaker och råstekt potatis.
+2. Lasagne med sallad.
    
 
     SMAKLIGT MÅLTID
