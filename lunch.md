@@ -29,7 +29,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 
 ### Fredag  
 1. Laxfrestelse med vitvinsås, räkor och grönsaker.
-2. Fläskfilégryta med grönsaker samt gelé och potatispuré.
+2. Fläskfilégryta med grönsaker samt gelé och potatispuré..
    
 
     SMAKLIGT MÅLTID
