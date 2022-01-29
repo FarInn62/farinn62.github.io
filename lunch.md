@@ -12,7 +12,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
                                 
 
 ### Måndag
-1. Winerschnitzel med rödvinsås, citron, ärter och stekt potatis.
+1. Wienerschnitzel med rödvinsås, citron, ärter och stekt potatis.
 2. Stekt lunchkorv med persiljestuvad potatis, senapdressing och potatismos.
 
 ### Tisdag
@@ -20,7 +20,7 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Kebabgryta med ris och sallad.
 
 ### Onsdag
-1. Ost och skinkfylld köttfärsrolle med dragonsås samt grönsaker och stekt potatis.
+1. Ost och skinkfylld köttfärsrulle med dragonsås samt grönsaker och stekt potatis.
 2. Hummersås gratinerad torskfilé med heta räkor och potatispuré.
 
 ### Torsdag
@@ -28,11 +28,11 @@ OBS.PÅ GRUND AV CORONA: Boka och Hämta gärna maten istället, du är välkomm
 2. Älgskav med kantarellsås samt lingon och potatispuré.
 
 ### Fredag  
-1. Helstakt fläskfilé med sherrysås, grönsaker och potatisgtratäng.
-2. Gräddkokt nöttlever med lingon och ris.
+1. Helstekt fläskfilé med sherrysås, grönsaker och potatisgtratäng.
+2. Gräddkokt nötlever med lingon och ris.
    
 
-    SMAKLIGT MÅLTID
+    SMAKLIG MÅLTID
 ### Lördag & Söndag ALA CARTÈ
 
     Välkommen
