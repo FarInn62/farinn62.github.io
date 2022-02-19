@@ -30,11 +30,11 @@ Alla rätter: 85:- Take away: 70:-
 ### Fredag  
 1. Lövbiff med rödvinsås, persiljesmör, grönsaker och potatisgratäng.
 2. Lasagne med sallad.
-   
 
-  
-  SMAKLIG MÅLTID
-### Lördag & Söndag ALA CARTÈ
+   SMAKLIG MÅLTID
+   
+### Lördag & Söndag 
+    DAGENS & ALA CARTÈ
 
     Välkommen
     
