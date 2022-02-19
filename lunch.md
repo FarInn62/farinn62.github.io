@@ -4,13 +4,11 @@ title: Lunch V.8  2022
 permalink: /lunch/
 published: true
 ---
-
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 85:- Take away: 70:-
                                 
-
 ### Måndag
 1. Köttfärsgratäng med kantarellsås, rårörda lingon samt grönsaker och kokt potatis.
 2. Strömmingsrullader med kaviarsås, räkor och potatismos.
