@@ -27,7 +27,7 @@ Alla rätter: 85:- Take away: 70:-
 
 ### Fredag  
 1. Helstekt Entrcoté med tryffelsås, grönsaker och stekt potatis.
-2. Sjömansbiff (hackad) med öl-löksås samt persiljesmör och råstekt potatis.
+2. Sjömansbiff hackad med öl-löksås samt persiljesmör och råstekt potatis.
 
    SMAKLIG MÅLTID
    ### Lördag & Söndag 
