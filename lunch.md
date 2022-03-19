@@ -27,7 +27,7 @@ Alla rätter: 85:- Take away: 70:-
 
 ### Fredag  
 1. Fläskfilégryta med grönpepparsmak, grönsaker, gelé och kokt potatis.
-2. Vitvinkoktsejfilé med räkor, pestosås, grönsaker och potatismos.
+2. Vitvinskokt sejfilé med räkor, pestosås, grönsaker och potatismos.
 
    SMAKLIG MÅLTID
    ### Lördag & Söndag 
