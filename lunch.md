@@ -10,7 +10,7 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 85:- Take away: 70:-
                                 
 ### Måndag
-1. Korvs troganoff med ris, gurka och smetana.
+1. Korv stroganoff med ris, gurka och smetana.
 2. Spaghetti baconcarbonara med ost och sallad.
 
 ### Tisdag
