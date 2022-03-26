@@ -10,24 +10,24 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 85:- Take away: 70:-
                                 
 ### Måndag
-1. Korv stroganoff med ris, gurka och smetana.
-2. Spaghetti baconcarbonara med ost och sallad.
+1. Grillstekt kycklingfilé med ädelostsås, spenat och stekt potatis.
+2. Lunchkorv med persiljestuvad potatis och sallad.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Skomakarlåda med baconsås, lingon och potatismos.
+2. Köttfärslimpa med murkelsås, grönsaker och kokt potatis.
 
 ### Onsdag
-1. Tupp i vin med sallad och kokt potatis.
-2. Stekt rödspätta med räkor, vinsås samt grönsaker och potatispuré.
+1. Grekisk färsbiff med fetaostsås, sallad och potatismos.
+2. Stekt falukorv med stuvade makaroner och tomatsallad.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hallonsylt och grädde. 
-2. Basel schnitzel med äppelvinsås samt grönsaker och strimlad potatis.
+1. Sparrissoppa samt tunna pannkakor och hallonsylt och grädde. 
+2. Wiener schnitzel med rödvinsås, citron, ärter samt stekt potatis.
 
 ### Fredag  
-1. Fläskfilégryta med grönpepparsmak, grönsaker, gelé och kokt potatis.
-2. Vitvinskokt sejfilé med räkor, pestosås, grönsaker och potatismos.
+1. Biff ala Greta med senapdressing samt törnad potatis och sallad.
+2. Stekt gösfilé med hummersås, krabba, citron, dill och potatispuré.
 
    SMAKLIG MÅLTID
    ### Lördag & Söndag 
