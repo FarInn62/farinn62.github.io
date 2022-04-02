@@ -1,33 +1,33 @@
 ---
 layout: foodmenu
-title: Lunch V.13  2022
+title: Lunch V.14  2022
 permalink: /lunch/
 published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 14:30
-Alla rätter: 85:- Take away: 70:-
+Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Grillstekt kycklingfilé med ädelostsås, spenat och stekt potatis.
-2. Lunchkorv med persiljestuvad potatis och sallad.
+1. Kålpudding med gräddsås, lingon och potatis.
+2. Marinerad strömmingsflundra med smörsås. räkor, lingon och potatismos.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Köttfärslimpa med murkelsås, grönsaker och kokt potatis.
+2. Älgfärsbiff med kantarellsås, hjortronsylt, grönsaker och kokt potatis.
 
 ### Onsdag
-1. Grekisk färsbiff med fetaostsås, sallad och potatismos.
-2. Stekt falukorv med stuvade makaroner och tomatsallad.
+1. Kycklinggryta indiana med currysås, banan, grönsaker och ris.
+2. Köttbullar med brunsås samt gurka, lingon och potatispuré.
 
 ### Torsdag
-1. Sparrissoppa samt tunna pannkakor och hallonsylt och grädde. 
-2. Wiener schnitzel med rödvinsås, citron, ärter samt stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor och hallonsylt och grädde. 
+2. Kalvfärsbiff med gräddsås, rårörda lingon, grönsaker och kokt potatis.
 
 ### Fredag  
-1. Biff ala Greta med senapdressing samt törnad potatis och sallad.
-2. Stekt gösfilé med hummersås, krabba, citron, dill och potatispuré.
+1. Fläskfilé noisette med sherrysås, grilerad tomat, gröna böner och råstekt potatis.
+2. Lasagne med sallad.
 
    SMAKLIG MÅLTID
    ### Lördag & Söndag 
