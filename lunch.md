@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.15  2022
+title: Lunch V.16  2022
 permalink: /lunch/
 published: true
 ---
@@ -10,24 +10,24 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Jägarstek med portvinkokta champinjoner, äpplemos, grönsaker och kokt potatis.
-2. Spaghetti Bolognese med ost.
+1. Dagensrätt.
+2. Ala Carté.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Stekt rödsspätta med remuladsås, citron och koktpotatis.
+2. Kebabgryta med ris och sallad.
 
 ### Onsdag
-1. Grillstekt kycklingfilé med ädelostsås, smörkokta spenat och strimlad potatis.
-2. Pannbiff med baconsås samt lingonpuré och potatismos.
+1. Fransk köttgryta med grönsaker och kokt potatis.
+2. Ost och skinkfylld schnitzel med grönpepparsås, grönsaker och stekt potatis.
 
 ### Torsdag
-1. Baconsoppa med sommar grönsaker samt tunna pannkakor och hallonsylt och grädde. 
-2. Basel schnitzel med äpplecidersås, stektäpple med grönsaker och stektpotatis.
+1. Lax och räksoppa samt tunna pannkakor och hallonsylt och grädde. 
+2. Helstekt fläskyttersilé med kantarellsås samt lingon, grönsaker och stekt potatis.
 
 ### Fredag  
-1. A LA Carte´
-2. PÅ LÖRDAG FINNS DET PÅSKTALLRIK
+1. Stekt torskfilé med skagensås samt citron och potatismos.
+2. Dansk sjömansbiff med persiljesmör, lök-ölsås samt råstekt potatis
 
    SMAKLIG MÅLTID
    ### Lördag & Söndag 
