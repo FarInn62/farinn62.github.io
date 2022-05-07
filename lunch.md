@@ -11,7 +11,7 @@ Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
 1. Kebabgryta med ris och sallad.
-2. Pytt i panna med äg och rödbetor.
+2. Pytt i panna med ägg och rödbetor.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
