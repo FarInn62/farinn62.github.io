@@ -10,7 +10,7 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Viltmarinerad järparstek med kantarellsås, lingonsylt, grönsaker och kokt potatis.
+1. Viltmarinerad jägarstek med kantarellsås, lingonsylt, grönsaker och kokt potatis.
 2. Ala Carté.
 
 ### Tisdag
