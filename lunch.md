@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.23  2022
+title: Lunch V.24  2022
 permalink: /lunch/
 published: true
 ---
@@ -10,27 +10,28 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Viltmarinerad jägarstek med kantarellsås, lingonsylt, grönsaker och kokt potatis.
-2. Ala Carté.
+1. Stekt rödspätta med stuvade räkor samt citron och potatispuré.
+2. Korvstroganoff med smetana samt gurka och ris.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Tex mex biff med paprika-gräddsås, bondbönör och råstekt potatis.
+2. Köttfärsrulle med baconsås, grönsaker, gelé och kokt potatis.
 
 ### Onsdag
-1. Kyckling schnitzel med dragonsås, strimlad paprika och stekt potatis.
-2. Köttbullar brunsås, gurka , lingon samt potatismos.
+1. Helstekt fläskytterfilé med pepparsås, grönsaker och stekt potatis.
+2. Lasagne med sallad.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Vitvinkokt fiskfilé (Alaska) med citronsås samt grönsaker och ris.
+1. Sommarsoppa med korv samt tunna pannkakor, sylt och grädde. 
+2. Biff ala Lindström med rödvinsås samt grönsaker, persiljesmör och kokt potatis.
 
 ### Fredag  
-1. Strimlad fläskfilé i sherrysås samt grönsaker och potatispuré.
-2. Pytt i panna med ägg och rödbetor.
+1. Ung tupp i rödvinsås samt sallad och parmisanrisoto.
+2. Schweizisk fläsknoisette med ädelostsås, spenat, griljerad tomat och rösti potatis.
 
    SMAKLIG MÅLTID
-   ### Lördag & Söndag 
+  
+  ### Lördag & Söndag 
     DAGENS & ALA CARTÈ
     Välkommen
     
