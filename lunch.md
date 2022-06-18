@@ -23,7 +23,7 @@ Alla rätter: 90:- Take away: 75:-
 
 ### Torsdag
 1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde. 
-2. Schnitzel backman med rödbetor, kaprris, bacon samt sherrysås och stekt potatis.
+2. Schnitzel (backman) med rödbetor, kaprris, bacon samt sherrysås och stekt potatis.
 
 ### Fredag  
 1. Endast middsommar take away mellan 11-12,00.
