@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.24  2022
+title: Lunch V.25  2022
 permalink: /lunch/
 published: true
 ---
@@ -10,24 +10,24 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Stekt rödspätta med stuvade räkor samt citron och potatispuré.
-2. Korvstroganoff med smetana samt gurka och ris.
+1. Plommonfylld fläskkarré med körsbärsås, grönsaker och kokt potatis.
+2. Spaghetti Bolognese toppad med ost.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Köttfärsrulle med baconsås, grönsaker, gelé och kokt potatis.
+2. Kålpudding med gräddsås, lingon och kokt potatis.
 
 ### Onsdag
-1. Helstekt fläskytterfilé med pepparsås, grönsaker och stekt potatis.
-2. Lasagne med sallad.
+1. Dillköttgryta med morötter och kokt potatis.
+2. Texmex biff med mildsås, vitkål/anannas sallad samt potatismos.
 
 ### Torsdag
-1. Sommarsoppa med korv samt tunna pannkakor, sylt och grädde. 
-2. Biff ala Lindström med rödvinsås samt grönsaker, persiljesmör och kokt potatis.
+1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde. 
+2. Schnitzel backman med rödbetor, kaprris, bacon samt sherrysås och stekt potatis.
 
 ### Fredag  
-1. Ung tupp i rödvinsås samt sallad och parmisanrisoto.
-2. Schweizisk fläsknoisette med ädelostsås, spenat, griljerad tomat och rösti potatis.
+1. Endast middsommar take away mellan 11-12,00.
+2. Glad Midsommar önskar vi på restaurang Mäster Fälling.
 
    SMAKLIG MÅLTID
   
