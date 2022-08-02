@@ -15,7 +15,7 @@ Alla rätter: 90:- Take away: 75:-
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Inbakad säjfilé med hummersås samt grönsaker och potatismos.
+2. Inbakad sejfilé med hummersås samt grönsaker och potatismos.
 
 ### Onsdag
 1. Kycklinggryta ( Indiana) med banan, grönsaker och ris.
