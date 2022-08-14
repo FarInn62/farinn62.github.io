@@ -26,7 +26,7 @@ Alla rätter: 90:- Take away: 75:-
 2. Stekt rödspätta med citronsås, räkor och kokt potatis.
 
 ### Fredag  
-1. Skomakarlåda med fläskfilé, baconsås samt lingopuré och potatismos.
+1. Skomakarlåda med fläskfilé, baconsås samt lingonpuré och potatismos.
 2. Kålpudding med gräddsås, lingon, persilja och kokt potatis.
 
    SMAKLIG MÅLTID
