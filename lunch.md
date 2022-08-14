@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.32  2022
+title: Lunch V.33  2022
 permalink: /lunch/
 published: true
 ---
@@ -10,24 +10,24 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Grillkotlett med kantarellsås samt äpplemos och potatisgratäng.
-2. Stekt falukorv med stuvade makaroner och sallad.
+1. Kasslergryta med grönsaker och potatismos.
+2. Kokt torskfilé med äggsås, morötter och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Bondebiff med löksås, lingon och kokt potatis.
+2. Baconbiff med dragonsås samt gönsaker och kokt potatis.
 
 ### Onsdag
-1. Marinerad kycklingfilé med grädd-chillisås samt sallad och ris.
-2. Laxfrestelse med smörsås, räkor och grönsaker.
+1. Fläsk schnitzel med pepparsås samt stekt potatis och sallad.
+2. Lasagne med sallad.
 
 ### Torsdag
-1. Rödbetsoppa med smetana samt tunna pannkakor, sylt och grädde. 
-2. Korvstroganoff med inlagd gurka och ris.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Stekt rödspätta med citronsås, räkor och kokt potatis.
 
 ### Fredag  
-1. Fläsknoisette med tryffelsås, stekta grönsaker samt råstekt potatis.
-2. Spaghetti bolognese toppad med ost.
+1. Skomakarlåda med fläskfilé, baconsås samt lingopuré och potatismos.
+2. Kålpudding med gräddsås, lingon, persilja och kokt potatis.
 
    SMAKLIG MÅLTID
   
