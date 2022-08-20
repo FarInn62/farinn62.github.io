@@ -19,14 +19,14 @@ Alla rätter: 90:- Take away: 75:-
 
 ### Onsdag
 1. Kyckling noisette med chiligräddsås samt grönsaker och stekt potatis.
-2. Panerad sejfilé med sksgensås, grönsaker och potatispuré.
+2. Panerad sejfilé med skagensås, grönsaker och potatispuré.
 
 ### Torsdag
 1. Ärtsoppa samt tunna pannkakor, sylt och grädde. 
-2. Pannbiff med sås spanjole samt grönsaker och råstekt potatis.
+2. Pannbiff med såsspanjole samt grönsaker och råstekt potatis.
 
 ### Fredag  
-1. Fläskfilégryta med pepparsås, grönsaker och kokt potatis.
+1. Fläskfilégryta i pepparsås, grönsaker och kokt potatis.
 2. TexMex biff med milddressing samt sallad och strimlad potatis.
 
    SMAKLIG MÅLTID
