@@ -29,9 +29,9 @@ Alla rätter: 90:- Take away: 75:-
 ### Fredag  
 1. Fläskfilé noisette med sherrysås, broccoli och potatisgratäng.
 2. Älgskav med champinjonsås, gelé och potatismos.
+ 
 
-   
-   SMAKLIG MÅLTID
+     SMAKLIG MÅLTID
   
   ### Lördag & Söndag 
     DAGENS & ALA CARTÈ
