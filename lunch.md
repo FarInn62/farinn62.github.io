@@ -10,12 +10,12 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 75:-
                                 
 ### Måndag
-1. Kokt falukorv med pepparotaåa och rotmos.
+1. Köttfärslimpa med gräddsås samt grönsaker, lingon och kokt potatis.
 2. Spaghetti Bolognese med ost.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Köttfärslimpa med gräddsås samt grönsaker, lingon och kokt potatis.
+2. Kokt falukorv med pepparotsås och rotmos.
 
 
 ### Onsdag
