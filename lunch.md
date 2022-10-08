@@ -23,7 +23,7 @@ Alla rätter: 90:- Take away: 75:-
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Kycklinggryta (Indiana)med cuttysås, banan och ris .
+2. Kycklinggryta (Indiana) med currysås, banan och ris .
 
 ### Fredag  
 1. Helstekt fläskfilé med pepparsås, gelé, grönsaker och stekt potatis.
