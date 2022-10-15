@@ -27,7 +27,7 @@ Alla rätter: 90:- Take away: 75:-
 
 ### Fredag  
 1. Köttfärs frestelse med ostsås samt tomatsallad.
-2. Fläskfilé med London housesås, Wokgrönsaker och örtkryddadb potatis.
+2. Fläskfilé med London housesås, Wokgrönsaker och örtkryddad potatis.
  
 
      SMAKLIG MÅLTID
