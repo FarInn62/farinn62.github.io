@@ -15,7 +15,7 @@ Alla rätter: 90:- Take away: 80:-
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Spagheti Carbanore med ost.
+2. Spaghetti Carbanore med ost.
 
 ### Onsdag
 1. Jägarstek med champinjonsås, Äppelmos, grönsaker och kokt potatis.
