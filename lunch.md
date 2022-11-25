@@ -18,7 +18,7 @@ Alla rätter: 90:- Take away: 80:-
 2. Vitvinkokt Sejfilé med krabbsås, grönsaker och potatis.
 
 ### Onsdag
-1. Kebab med milddressing sant grönsaker och ris.
+1. Kebab med milddressing samt grönsaker och ris.
 2. Älgfärsjärpar med kantarellsås, lingon och kokt potatis.
 
 ### Torsdag
@@ -27,7 +27,7 @@ Alla rätter: 90:- Take away: 80:-
 
 ### Fredag  
 1. Schnitzel med sherrysås samt grönsaker och stekt potis.
-2. Pytt i panna topad med stekt ägg och inlagd rödbetor.
+2. Pytt i panna toppad med stekt ägg och inlagd rödbetor.
  
 
      SMAKLIG MÅLTID
