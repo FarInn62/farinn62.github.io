@@ -26,7 +26,7 @@ Alla rätter: 90:- Take away: 80:-
 2. Basel schnitzel med äpplevinsås, sallad coh strimlad potatis.
 
 ### Fredag  
-1. Jul lunch (liten jultallrik med små varmt). Pris 150:-
+1. Jul lunch. Pris 150:-
 2. Helstekt fläskfilé med murkelsås, lingon, grönsaker samt stekt potatis.
  
 
