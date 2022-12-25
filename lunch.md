@@ -10,7 +10,7 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 80:-
                                 
 ### Måndag
-1. Endast A LA Carté serviering.
+1. Endast ALA Carté serviering.
 2. .
 
 ### Tisdag
