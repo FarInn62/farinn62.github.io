@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.52  2022
+title: Lunch V.1 2023
 permalink: /lunch/
 published: true
 ---
@@ -10,24 +10,24 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 90:- Take away: 80:-
                                 
 ### Måndag
-1. Endast ALA Carté serviering.
-2. .
+1. Biff ala Backman med stekt ägg, potatis och sallad.
+2. Gratinerad pastalåda med bacon, broccoli och ostsås.
 
 ### Tisdag
-1. Stekt fläsk med löksås, lingon och potatismos.
-2. Stekt rödspätta med räkmajonnes samt citron, grönsaker och kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Stekt lunchkorv med bostongurka samt potatispuré.
 
 ### Onsdag
-1. Köttgryta med grönsaker och kokt potatis.
-2. Spaghetti Bolgnese med ost.
+1. Älgskav med kantarellsås samt lingon och potatismos.
+2. Stekt torskfilé med smörsås samt kräftsjärtar, grönsaker och ris.
 
 ### Torsdag
-1. Räksoppa samt tunna pannkakor, sylt och grädde. 
-2. Schnitzel med grönpepparsås samt gelé, grönsaker och stekt potatis.
+1. Köttfärssoppa samt tunna pannkakor, sylt och grädde. 
+2. Kycklinggryta (Indiana) banana, currysås samt stekt ris.
 
 ### Fredag  
-1. Fläkfilégryta i madeirasås samt ris och sallad.
-2. Kålpudding med gräddsås samt lingon och kokt potatis.
+1. Dagensrätt.
+2. Ala Carté.
  
 
      SMAKLIG MÅLTID
