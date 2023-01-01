@@ -7,7 +7,7 @@ published: true
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 14:30
-Alla rätter: 90:- Take away: 80:-
+Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 1. Biff ala Backman med stekt ägg, potatis och sallad.
