@@ -18,7 +18,7 @@ Alla rätter: 95:- Take away: 80:-
 2. Kycklinggryta med curryris och anannassallad.
 
 ### Onsdag
-1. Wiener schnitzelmed madeirasås, citron, ärter och stekt potatis.
+1. Wiener schnitzel med madeirasås, citron, ärter och stekt potatis.
 2. Stekt rödspätta med räksås, grönsaker och kokt potatis.
 3. Nöttlevergryta med lingon och ris.
 
