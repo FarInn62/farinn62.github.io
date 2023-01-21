@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.3 2023
+title: Lunch V.4 2023
 permalink: /lunch/
 published: true
 ---
@@ -10,25 +10,24 @@ Lunchtider  Mån-sön:11:00 - 14:30
 Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
-1. Marinerad karréstek med kantarellsås samt lingon, grönsaker och kokt potatis.
-2. Köttbullar med brunsås, inlagd gurka och potatismos.
+1. Fläskfilégryta med grönsaker och kokt potatis.
+2. Kokt sejfilé med vertesås, grönsaker och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kycklinggryta med curryris och anannassallad.
+2. Wiener färslimpa med pepparsås samt lingonpuré och kokt potatis.
 
 ### Onsdag
-1. Wiener schnitzel med madeirasås, citron, ärter och stekt potatis.
-2. Stekt rödspätta med räksås, grönsaker och kokt potatis.
-3. Nöttlevergryta med lingon och ris.
+1. Ostpanerad schnitzel med tomatlöksås, grönsaker och pastapenne.
+2. Stekt gösfilé med skagensås, grönsaker och potatispuré.
 
 ### Torsdag
-1. Köttfärssoppa med creme frsiche samt tunna pannkakor, sylt och grädde. 
-2. Korvstroganoff med smetana, gurka och ris.
+1. Ärtsoppa samt tunna pannkakor, sylt och grädde. 
+2. Skomakarlåda med baconsås. lingon och potatismos.
 
 ### Fredag  
-1. Herrgårdstek med gräddsås, rårörda lingon, buljonkokta grönsaker och kokt potatis.
-2. Pannbiff med löksky samt persiljesmör och potatismos.
+1. Pannbiff med stekt lök och brunsås samt lingon och kokt potatis.
+2. Nötlevergryta med ris och lingon.
  
 
      SMAKLIG MÅLTID
