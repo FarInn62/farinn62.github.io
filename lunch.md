@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.4 2023
+title: Lunch V.5 2023
 permalink: /lunch/
 published: true
 ---
@@ -11,7 +11,7 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 1. Ostsåsgratinerad sejfilé med räkor, grönsaker och potatismos.
-2. Pytt i panna med stekt ägg och rödabetor.
+2. Pytt i panna med stekt ägg och rödbetor.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
@@ -27,7 +27,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Fredag  
 1. Kyckling schnitzel med rosepepparsås, röd vinbärsgelé samt rostade potatis.
-2. Dansk sjömansbiff med lök-löksås, prsiljesmör och råstekt potatis.
+2. Dansk sjömansbiff med lök-löksås, persiljesmör och råstekt potatis.
  
 
      SMAKLIG MÅLTID
