@@ -23,7 +23,7 @@ Alla rätter: 95:- Take away: 80:-
 2. Stekt rödspätta med räksås, citron och kokt potatis.
 
 ### Torsdag
-1. Broccli och blomkålsoppa samt tunna pannkakor, sylt och grädde. 
+1. Broccoli och blomkålsoppa samt tunna pannkakor, sylt och grädde. 
 2. Äggpanerad schnitzel med dragonsås, wokgrönsaker och råstekt potatis.
 
 ### Fredag  
