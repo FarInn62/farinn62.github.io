@@ -11,7 +11,7 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Fläsk noisette med Moulin Rougesås, rosti potatis och grönsaker.
+1. Fläsk noisette med Moulin Rougesås, råstekt potatis och grönsaker.
 2. Baconlindad lunchkorv med persiljestuvad potatis samt sallad.
 
 ### Tisdag
@@ -28,7 +28,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Fredag  
 1. Lövbiff med rödvinsås, persiljesmör, grönsaker och pommes chateau.
-2. Rimmad fläsklägg med rotmus och senapsås, sallad.
+2. Rimmad fläsklägg med rotmos och senapsås, sallad.
  
 
      SMAKLIG MÅLTID
