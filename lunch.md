@@ -23,7 +23,7 @@ Alla rätter: 95:- Take away: 80:-
 2. Kycklinggryta med banan-currysås och ris.
 
 ### Torsdag
-1. Lax-räksoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+1. Lax-räksoppa samt tunna pannkakor, sylt och grädde. 
 2. Köttfärsrulle med madeirasås, gröna böner och kokt potatis.
 
 ### Fredag  
