@@ -11,24 +11,24 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Fläsk noisette med Moulin Rougesås, råstekt potatis och grönsaker.
-2. Baconlindad lunchkorv med persiljestuvad potatis samt sallad.
+1. Stroganoff av fläskfilé med smetana, gurka och ris.
+2. Mandelfisk med kaviarsås, räkor och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kalvfärslimpa med champinjonsås, äppelmos, morötter och kokt potatis.
+2. Friterad torskfilé med remouladsås, sallad och potatispuré.
 
 ### Onsdag
-1. Älgskav med kantarellsås samt lingon och potatismos.
-2. Kycklinggryta med banan-currysås och ris.
+1. Köttgryta med grönsaker och kokt potatis.
+2. Pannbiff med löksås, lingon och kokt potatis.
 
 ### Torsdag
-1. Lax-räksoppa samt tunna pannkakor, sylt och grädde. 
-2. Köttfärsrulle med madeirasås, gröna böner och kokt potatis.
+1. Sommarsoppa med bacon samt tunna pannkakor, sylt och grädde. 
+2. Dansk kotlett (paneraol) med dragonsås, grönsaker och stekt potatis.
 
 ### Fredag  
-1. Lövbiff med rödvinsås, persiljesmör, grönsaker och pommes chateau.
-2. Rimmad fläsklägg med rotmos och senapsås, sallad.
+1. Kycklingfilé med rosepepparsås, gelé, grönsaker samt örtpotatis.
+2. Lasagne med sallad.
  
 
      SMAKLIG MÅLTID
