@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V19. 2023
+title: Lunch V20. 2023
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Stekt kassler med senapsås, rotmos och sallad.
-2. Köttbullar med brunsås, lingon och potatismos.
+1. Biff ala Backman med madeirasås, kapris, rödbetor, stekt ägg samt stekt potatis.
+2. Stekt strömmings flundra med smörsås, räkor, lingon och potatismos.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Älgfärsbiff med kantarellsås, lingon, grönsaker och kokt potatis.
+2. Kycklingfilé med grädd-chilisås samt rostad paprika, gurka och ris.
 
 ### Onsdag
-1. Stekt rödspätta med skagensås, grönsaker och kokt potatis.
-2. Spaghetti Bolognese med ost.
+1. Schnitzel med stekt annanas, tomat, curry dragonsås samt råstekt potatis.
+2. Kokt torskfilé med äggsås, ärter och kokt potatis.
 
 ### Torsdag
-1. Sommarsoppa med bacon samt tunna pannkakor, sylt och grädde. 
-2. Ostpanerad schnitzel med Milanaisesås, pasta penne och sallad.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Tex mex biff med gurkadressing, sallad och strimad potatis.
 
 ### Fredag  
-1. Fläskfilé med bearnaisesås samt grönsaker och stekt potatis.
-2. Lasagne med sallad.
+1. Helstekt ytterfilé av fläsk med portvinkokta champinjoner, wokgrönsaker och stekt potatis.
+2. Friterad torskfilé med räkmajonnese, sallad och strimlad potatis.
  
 
      SMAKLIG MÅLTID
