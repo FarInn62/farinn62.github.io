@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V21. 2023
+title: Lunch V22. 2023
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Kalvfärsbiff med gräddsås, gurka, lingon och potatismos.
-2. Stekt falukorv med stuvad vitkål, senap och kokt potatis.
+1. Dillköttgryta med morötter och kokt potatis.
+2. Köttbullar med gräddsås, lingon och potatiamos.
 
 ### Tisdag
-1. Stekt fläsk med löksås samt lingon och kokt potatis.
-2. Stekt rödspätta med skagenröra, kokt potatis.
+1. Raggmunkar med stekt fläsk och lingonsylt.
+2. Pytt i panna med stekt ägg och rödbetor.
 
 ### Onsdag
-1. Fläskfilégryta med grönsaker och potatisgratäng.
-2. Köttfärsgratäng med brunsås, wokgrönsaker samt kokt potatis.
+1. Kycklinggryta (Indiana) med currysås och sallad samt ris.
+2. Panerad torskfilé med smörsås, räkor, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Grillkarré med potatisgratäng och sallad.
+1. Broccolisoppa samt tunna pannkakor, sylt och grädde. 
+2. Äggpanerad schnitzel med griljerad tomat, sparris och stekt potatis.
 
 ### Fredag  
-1. Baconlindad kycklingfilé med sås spanjol samt grönsaker och ris.
-2. Schnitzel med murkeisås, rårörda lingon, grönsaker och potatispuré.
+1. Entrecotskav med café de parissås samt stekt potatis.
+2. Pasta bolognese med ost.
  
 
      SMAKLIG MÅLTID
