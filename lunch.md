@@ -24,7 +24,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Torsdag
 1. Köttfärssoppa med creame fraiche samt tunna pannkakor, sylt och grädde. 
-2. Baselschnitzel med äppelvinsås, grönsaker och råstekt potatis.
+2. Basel schnitzel med äppelvinsås, grönsaker och råstekt potatis.
 
 ### Fredag  
 1. Älgfärsbiff med viltsås, lingon, grönsaker och kokt potatis.
