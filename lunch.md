@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V24. 2023
+title: Lunch V25. 2023
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Ossobuco (Italiensk kotlett) kokt i tomatsås och sallad samt pastapenne.
-2. Dansk sjömansbiff med lök-ölsås, persiljesmör och råstekt potatis.
+1. Köttfärslimpa med kantarellsås, lingon, grönsaker och kokt potatis.
+2. Rostbiff med potatissallad samt pikles och lingoncreame.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Pytt i panna med stekt ägg och rödbetor.
+2. Korvstroganoff med smetana, gurka och ris.
 
 ### Onsdag
-1. Schweizer schnitzel med sherrysås samt grönsaker och röstad potatis.
-2. Ångad torskfilé med äggsås samt ärter och kokt potatis.
+1. Friterad torskfilé med räkmajonäs, sallad och potatismos.
+2. Pannbiff med stekt lök samt brunsås, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Sommarsoppa samt tunna pannkakor, sylt och grädde. 
-2. Köttbullar med gräddsås, lingon, gurka och potatismos.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Ostpanerad noisette med baconsås, sallad och stekt potatis.
 
 ### Fredag  
-1. Fläskfilé noisette med pepparsås, gelé, grönsaker och stekt potatis.
-2. Spaghetti med skagensås och ost.
+1. Stängt.
+2. Glad midsommar.
  
 
      SMAKLIG MÅLTID
