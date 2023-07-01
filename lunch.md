@@ -28,7 +28,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Fredag  
 1. Fläskfilé med madera och bearnaisesås samt grönsaker och strimlad potatis.
-2. Spgghetti Bolgnese med ost.
+2. Spaghetti Bolgnese med ost.
  
 
      SMAKLIG MÅLTID
