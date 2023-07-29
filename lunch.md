@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V30. 2023
+title: Lunch V31. 2023
 permalink: /lunch/
 published: true
 ---
@@ -11,24 +11,24 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Kebabgryta med ris och sallad.
-2. Pytt ipanna med stekt ägg och röbetor.
+1. Rökmarinerad jägarstek med portvinkokda champinjoner, äpplemos och kokt potatis.
+2. Korv strganoff med ris och gurka.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Baconbiff med gräddsås samt grönsaker och kokt potatis.
+2. Wiener färslimpa med murkelsås, rårörda lingon och potatismos.
 
 ### Onsdag
-1. Dillkött med morötter och kokt potatis.
-2. Stekt torsfilé med räksås, sallad och kokt potatis.
+1. Vitvinkokt torskfilé med äggsås, sallad och kokt potatis.
+2. Benfri kotlett med kantarellsås, lingonsylt och stekt potatis.
 
 ### Torsdag
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Älgfärsbiff med viltsås samt gelé, grönsaker och kokt potatis.
+1. Hummersoppa samt tunna pannkakor, sylt och grädde. 
+2. Schnitzel med stekt anannas, dragonsås samt sallad och stekt potatis.
 
 ### Fredag  
-1. Lövbiff med sås Espaniole, persijesmör, sparris och potatisgratäng.
-2. Lasagne med sallas.
+1. Tex mex biff med mild dressing, sallad och potatispuré.
+2. Ungersk gulaschgryta med ris och paprika sallad.
  
 
      SMAKLIG MÅLTID
