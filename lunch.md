@@ -31,7 +31,7 @@ Alla rätter: 95:- Take away: 80:-
 2. Spaghetti med Bolognesesås och ost 
  
 
-     SMAKLIG MÅLTID
+     SMAKLIG MÅLTId
   
   ### Lördag & Söndag 
     DAGENS & ALA CARTÈ
