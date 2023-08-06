@@ -12,11 +12,11 @@ Alla rätter: 95:- Take away: 80:-
 ### Måndag
 
 1. Kålpudding med gräddsås , lingon,kokt potatis.
-2. Korv strganoff med ris och gurka.
+2. Korv stroganoff med ris och gurka.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Buljokokta kycklingfilé med currysås samt stekt ris och sallad.
+2. Buljongkokta kycklingfilé med currysås samt stekt ris och sallad.
 
 ### Onsdag
 1. Äggpanerad fläsk schnitzel med tomat-baconsås, broccoli och stekt potatis.
@@ -24,7 +24,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Torsdag
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Stekt tunfisk med smörjsås sam spinat och potatispuré.
+2. Stekt tonfisk med smörsås sam spenat och potatispuré.
 
 ### Fredag  
 1. Stekt fläskfilé med london house sås samt grönsaker och råstekt potatis.
