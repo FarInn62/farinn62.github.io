@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V35. 2023
+title: Lunch V36. 2023
 permalink: /lunch/
 published: true
 ---
@@ -11,23 +11,23 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Kasslergryta med kokt potatis samt sallad och äpplemos.
-2. Pytt i panna toppad med stekt ägg och rödbetor.
+1. Biff Wallenberg med gräddsås samt ärter lingon och potatismos.
+2. Panerad rödspätta med räkmajonnäs, citron sallad och kokt potatis.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Kebab med mildsås samt ris och sallad.
+2. Stekt lunchkorv med stuvad potatis,senapsås och grönsaker.
 
 ### Onsdag
-1. Köttfärsgratäng med ostsås och strimlad paprika.
-2. Biff lindström med rödvinsås, persiljesmör, grönsaker och kokt potatis.
+1. Älgskav med murkelsås samt lingon och potatismos.
+2. Benfrikotlett med champinjonsås samt äpplemos, grönsaker och kokt potatis.
 
 ### Torsdag
-1. Gulaschsoppa samt tunna pannkakor, sylt och grädde. 
-2. Grillstekt kycklingnoisette med ädelostsås, spenat och stekt potatis.
+1. Köttfärssoppa samt tunna pannkakor, sylt och grädde. 
+2. Basel schnitzel med äpplevinsås, stekta grönsaker och kokt potatis.
 
 ### Fredag  
-1. Fläskfilé noisette med madeirasås samt grönsaker och råstekt potatis.
+1. Grillbiff med sås Moulin Rouge samt stekta grönsaker och potatisgratäng.
 2. Nöttlevergryta med lingon och ris. 
  
 
