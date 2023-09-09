@@ -12,7 +12,7 @@ Alla rätter: 95:- Take away: 80:-
 ### Måndag
 
 1. Biff Backman med stekt ägg och rödvinsås, rödbetor, kapris samt stekt potatis.
-2. Korv stroganoff med ris, gurka, smetana
+2. Korvstroganoff med ris, gurka, smetana
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
