@@ -20,7 +20,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Onsdag
 1. Chili Con Carne med ris och sallad.
-2. Kyckling schnitzel med peprikasås samt potatispuré.
+2. Kyckling schnitzel med paprikasås samt potatispuré.
 
 ### Torsdag
 1. Lax och räksoppa samt tunna pannkakor, sylt och grädde. 
