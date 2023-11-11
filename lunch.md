@@ -16,7 +16,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt och pnerad Alaskafilé med skagenröra,citron och potatismos.
+2. Stekt och panerad Alaskafilé med skagenröra,citron och potatismos.
 
 ### Onsdag
 1. Schweizer schnitzel med äppelvinsås, grönaböner och stekt potatis.
