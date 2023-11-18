@@ -28,7 +28,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Fredag  
 1. Baselschnitzel med äppelcidersås, grönsaker och stekt potatis.
-2. Stekt Alaskafilémed smörsås och räkor samt grönsaker och potatismos. 
+2. Stekt Alaskafilé med smörsås och räkor samt grönsaker och potatismos. 
  
 
      SMAKLIG MÅLTId
