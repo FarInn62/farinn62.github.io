@@ -11,24 +11,24 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Köttgryta med grönsaker, lingon och kokt potatis.
-2. Stekt lunchkorv med senapsås och potatismos.
+1. Köttbullar i gräddsås,gurka, lingon och potatismos.
+2. Pytt i panna toppad med stekt ägg och rödbetor.
 
 ### Tisdag
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt och panerad Alaskafilé med skagenröra,citron och potatismos.
+2. Vildfärsbiff med kantarellsås, grönsaker, gelé och kokt potatis.
 
 ### Onsdag
-1. Schweizer schnitzel med äppelvinsås, grönaböner och stekt potatis.
-2. Spaghetti Bolognese toppad med ost.
+1. Kålpudding med brunsås, lingon och kokt potatis.
+2. Kokt lax med vitvinsås, grönsaker, räkor och kokt potatis.
 
 ### Torsdag
-1. Broccolisoppa med bacon samt tunna pannkakor, sylt och grädde. 
-2. Helstekt fläskytterfilé med kantarellsås, grönsaker , lingon och kokt potatis .
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Kycklinggryta med chilisås, banan, saltanötter och ris .
 
 ### Fredag  
-1. Pannbiff med baconsås, lingon, potatismos och sallad.
-2. Lasagne med sallad. 
+1. Baselschnitzel med äppelcidersås, grönsaker och stekt potatis.
+2. Stekt Alaskafilémed smörsås och räkor samt grönsaker och potatismos. 
  
 
      SMAKLIG MÅLTId
