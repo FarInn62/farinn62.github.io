@@ -19,16 +19,16 @@ Alla rätter: 95:- Take away: 80:-
 2. Pannbiff med stektlök och brunsås, lingon, gurka och kokt potatis.
 
 ### Onsdag
-1. Stroganoff av flästfilé med creme fraiche samt inlagd gurka och potatismos.
+1. Stroganoff av fläskfilé med creme fraiche samt inlagd gurka och potatismos.
 2. Stekt Alskafilé med skagensås, grönsaker och kokt potatis.
 
 ### Torsdag
 1. Broccolisoppa med strimlad bacon samt tunna pannkakor, sylt och grädde. 
-2. Kalvfärs jäger med murkelsås, gelé, grönsaker och råstekt potatis.
+2. Kalvfärs järpar med murkelsås, gelé, grönsaker och råstekt potatis.
 
 ### Fredag  
-1. Biffstek med tomatiserad bearnesesås (sås charon) samt grönsaker och råstekt potatis.
-2. Nötlevrgryta med lingon och ris. 
+1. Biffstek med tomatiserad bearnesesås (såscharon) samt grönsaker och råstekt potatis.
+2. Nöttlevrgryta med lingon och ris. 
  
 
      SMAKLIG MÅLTId
