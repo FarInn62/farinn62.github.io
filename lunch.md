@@ -31,7 +31,7 @@ Alla rätter: 95:- Take away: 80:-
 2. Lasagne med sallad. 
  
 
-     SMAKLIG MÅLTId
+     SMAKLIG MÅLTID
   
   ### Lördag & Söndag 
     DAGENS & ALA CARTÈ
