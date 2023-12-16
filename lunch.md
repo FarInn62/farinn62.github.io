@@ -21,7 +21,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Onsdag
 
-1. Kasslekarrégryta samt broccoli, äpplemos och kokt potatis.
+1. Kasslerkarrégryta samt broccoli, äpplemos och kokt potatis.
 2. Kycklingcurrygryta med ris och sallad.
 
 ### Torsdag
