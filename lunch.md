@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V52. 2023
+title: Lunch V1. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. GOD JUL.
+1. GOTT NYTT ÅR.
 2. STÄNGT.
 
 ### Tisdag
 
-1. Rökmarinerad kyckling noisette med curry och dragonsås, sallad
-2. A LA Carte finns.
+1. Raggmunkar med stekt fläsk och lingonsylt
+2. Korvstroganoff med ris, smetana, gurka.
 
 ### Onsdag
 
-1. Kålpudding med gräddsås samt kokt potatis, lingon.
-2. Pastagratäng med köttfärs samt ostsås och sallad.
+1. Fläskfilégryta med grönsaker och stekt potatis.
+2. Ångad Sejfilé med hummersås, grönsaker och potatispuré.
 
 ### Torsdag
 
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Köttfärslimpa med kantarellsås, grönsaker och kokt potatis.
+2. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
 
 ### Fredag  
 
-1. Wiener schnitzel med rödvinsås, ärter, citron samt stekt potatis.
-2. Friterad torskfilé med pepparotsås och potatismos. 
+1. Schweizer schnitzel med rödvinsky, grönsaker och stekt potatis.
+2. Lasagne med sallad. 
  
 
 SMAKLIG MÅLTID
