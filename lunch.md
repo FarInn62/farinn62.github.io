@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V1. 2024
+title: Lunch V 2. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. GOTT NYTT ÅR.
-2. STÄNGT.
+1. Köttgryta med potatismos och sallad.
+2. Stekt falukorv med stuvade makaroner, tomatdressing.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt
-2. Korvstroganoff med ris, smetana, gurka.
+2. Panerad sejfilé med remoulad dressing samt citron, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Fläskfilégryta med grönsaker och stekt potatis.
-2. Ångad Sejfilé med hummersås, grönsaker och potatispuré.
+1. Kyckling noisette med chilisås, ris och sallad.
+2. Grekisk biff med tzatziki, sallad samt potatispuré.
 
 ### Torsdag
 
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Dansk sjömansbiff med öl-löksås, persiljesmör och råstekt potatis.
+2. Spaghetti med italiensk köttfärssås samt ost.
 
 ### Fredag  
 
-1. Schweizer schnitzel med rödvinsky, grönsaker och stekt potatis.
-2. Lasagne med sallad. 
+1. Baselschnitzel med äppelvinsås, wokgrönsaker, äpplemos samt strimlad potatis.
+2. Pastagratäng med ostsås. 
  
 
 SMAKLIG MÅLTID
