@@ -17,7 +17,7 @@ Alla rätter: 95:- Take away: 80:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt
-2. Pastagratäng med ost-bearnesesås samt sallad. 
+2. Pastagratäng med ost-baconsås samt sallad. 
 
 ### Onsdag
 
@@ -31,8 +31,8 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Fredag  
 
-1. Ostpanerad schnitzel med tomat-löksås samt pastapenne och vitkålsallad.
-2. Nötlevergryta med risoch lingon.
+1. Ostpanerad schnitzel med tomat-löksås samt pasta penne och vitkålsallad.
+2. Nötlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID
   
