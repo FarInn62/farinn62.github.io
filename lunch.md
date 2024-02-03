@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 5. 2024
+title: Lunch V 6. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Köttfärsbiff med grönpepparsås, lingon, grönsaker och stekt potatis.
-2. Stekt falukorv med stuvad vitkål samt kokt potatis.
+1. Ostbringa med rotmos, pepparotsås och rödbetor.
+2. Stroganoff med ris, smetana, gurka.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt
-2. Biff ala backman med stekt ägg, rödbetor, kapris och potatismos.
+2. Pastagratäng med ost-bearnesesås samt sallad. 
 
 ### Onsdag
 
-1. Panerad rödspätta med remouladsås, grönsaker samt kokt potatis.
-2. Spaghetti Bolognese med ost.
+1. Stekt Alaskafilé med citronsås, ärter och kokt potatis.
+2. Köttbullar med gräddsås samt lingon, gurka och potatismos.
 
 ### Torsdag
 
-1. Baconsoppa med broccoli samt tunna pannkakor, sylt och grädde. 
-2. Benfri kotlett med jägmästarsås, äpplemos och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Panerad kotlett med dragonsås, gelé, grönsaker och stekt potatis.
 
 ### Fredag  
 
-1. Fäskfilé med rödvinsås och bearnesesås, samt sparris och råstekt potatis.
+1. Ostpanerad schnitzel med tomat-löksås samt pastapenne och vitkålsallad.
 2. Nötlevergryta med risoch lingon.
 
 SMAKLIG MÅLTID
