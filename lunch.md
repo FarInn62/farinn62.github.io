@@ -34,10 +34,8 @@ Alla rätter: 95:- Take away: 80:-
 1. Fläskfilé med grönpepparsås, gelé, grönsaker och stekt potatis.
 2. Tex mex biff med mild chilisås, sallad och råstekt potatis.
 
-SMAKLIG MÅLTID
-  
+SMAKLIG MÅLTID  
 ### Lördag & Söndag 
-    
 DAGENS & ALA CARTÈ
 Välkommen
     
