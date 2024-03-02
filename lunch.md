@@ -21,7 +21,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Onsdag
 
-1. Frityrstekt torskfilé med kräftsås,citron och kokt potatis.
+1. Frityrstekt torskfilé med kräftsås, citron och kokt potatis.
 2. Benfri kotlett med pepparsås, gelé, grönsaker och stekt potatis.
 
 ### Torsdag
