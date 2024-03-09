@@ -22,7 +22,7 @@ Alla rätter: 95:- Take away: 80:-
 ### Onsdag
 
 1. Kasslergryta med grönsaker, äpplemos och kokt potatis.
-2. Biff Backman med rödvinsås och stekt äggm samt rödbetor, kapris och kokt potatis.
+2. Biff Backman med rödvinsås och stekt ägg samt rödbetor, kapris och kokt potatis.
 
 ### Torsdag
 
