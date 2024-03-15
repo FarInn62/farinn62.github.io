@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 11. 2024
+title: Lunch V 12. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Kycklingschnitzel med stekt annanas och cidersås samt haricotverts och stekt potatis.
-2. Stekt falukorv med stuvade makaroner.
+1. Chili con carne med ris och sallad.
+2. Stekt rödspätta med skagensås samt citron och potatispuré.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt
-2. Stekt rödspätta med räkmajonnäs, citron och potatispuré. 
+2. Kålpudding med gräddsås och lingon samt gurka och kokt potatis. 
 
 ### Onsdag
 
-1. Kasslergryta med grönsaker, äpplemos och kokt potatis.
-2. Biff Backman med rödvinsås och stekt ägg samt rödbetor, kapris och kokt potatis.
+1. Grillkarré med milanaisesås, potatisgratäng.
+2. Pytt i panna med rödbetor och stekt ägg.
 
 ### Torsdag
 
-1. Broccolisoppa med bacon samt tunna pannkakor, sylt och grädde. 
-2. Vitvinkokt Lax med hummersås, skaldjur, citron och ris.
+1. Köttfärssoppa med creame fraiche samt tunna pannkakor, sylt och grädde. 
+2. Schweizer schnitzel med rödvinsås samt grönsaker och stekt potatis.
 
 ### Fredag  
 
-1. Baselschnitzel med sherrysås, stekt äpple, grönsaker och strimlad potatis.
-2. Baconbiff med rödvinsås samt persiljesmör, potatismos och sallad.
+1. Fläskfilé noisett med Londonhouse sås, ungstekta grönsaker och potatis.
+2. Lasagne med sallad.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
