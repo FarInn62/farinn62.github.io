@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 14. 2024
+title: Lunch V 15. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Dagensrätt.
-2. Ala Carte.
+1. Dillköttgryta med morötter och kokt potatis.
+2. Senapmarinerad strömmingflundra med smörsås, lingon, räkor och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt
-2. Kebab med vitlöksdressing, ris och sallad. 
+2. Pastagratäng med köttfärs, ostsås och sallad. 
 
 ### Onsdag
 
-1. Chilikrydad färsbiff med örtsås och stekt potatis.
-2. Stekt falukorv med stuvade makaroner och senapderssing.
+1. Wiener schnitzel med anjuvissmör, ärter, citron samt rödvinsås och stekt potatis.
+2. Kokt torsfilé med äggsås, grönsaker och kokt potatis.
 
 ### Torsdag
 
-1. Köttsoppa samt tunna pannkakor, sylt och grädde. 
-2. Biff Wallenberg med gräddsås, potatismos, ärter och lingon.
+1. Spenatsoppa med ägghalva samt tunna pannkakor, sylt och grädde. 
+2. Dansk sjömansbiff med lök-ölsås samt persiljesmör och råstekta potatis.
 
 ### Fredag  
 
-1. Biff rydberg med tärnad potatis, stekt lök och senapsås.
-2. Laxfrestelse med räkor, smörsås och sallad.
+1. Fläskfilé noisette med pepparsås, gelé, grönsaker och stekt potatis.
+2. Lasagne med sallad.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
