@@ -16,8 +16,8 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Tisdag
 
-1. Stekt fläsk med lök-brunsås, lingon och kokt potatis.
-2. Smörstekt torsfilé med hummersås, räkor och potatispuré. 
+1. Stekt fläsk med löksås, lingon och kokt potatis.
+2. Smörstekt torskfilé med hummersås, räkor och potatispuré. 
 
 ### Onsdag
 
