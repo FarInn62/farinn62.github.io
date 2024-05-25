@@ -21,7 +21,7 @@ Alla rätter: 95:- Take away: 80:-
 
 ### Onsdag
 
-1. Helstekt fläskytterfile med vinbärssås, grönsaker och råstekt potis.
+1. Helstekt fläskytterfile med vinbärssås, grönsaker och råstekt potatis.
 2. Panerad Sejfilé med krabbsås, sallad och kokt potatis.
 
 ### Torsdag
