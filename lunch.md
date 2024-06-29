@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 26. 2024
+title: Lunch V 27. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 95:- Take away: 80:-
                                 
 ### Måndag
 
-1. Fläsknoisette med jägarmästarsås, grönsaker och kokt potatis.
-2. Ostsåsgratinerad pastapenne med köttfärs, sallad.
+1. Schnitzel med stekt annanas, griljerad tomat samt currysås och ris.
+2. Köttbullar i gräddsås, gurka, lingon och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Köttfärslimpa med pepparsås, grönsaker, kokt potatis. 
+2. Lasagne med sallad. 
 
 ### Onsdag
 
-1. Fransk köttgryta med potatismos, sallad.
-2. Gratinerad Alaskafilé med räksås, citron och potatispuré.
+1. Tex mexbiff med chilisås, stekt potatis samt grekisksallad.
+2. Stekt strömmingsflundra med smörsås, rårörda lingon och potatismos.
 
 ### Torsdag
 
-1. Sommarsoppa samt tunna pannkakor, sylt och grädde. 
-2. Helstekt fläskfilé med sherrysås samt grönsaker och råstekt potatis.
+1. Laxsoppa samt tunna pannkakor, sylt och grädde. 
+2. Skomakarlåda med baconsås, lingon och potatispuré.
 
 ### Fredag  
 
-1. Kalvfärsjärpar med kantarellsås, lingon, grönsaker och kokt potatis.
-2. Skaldjursallad med citrondressing.
+1. Fläskfilégryta i madeirasås, grönsaker och potatismos.
+2. Kycklinggryta med banan, jordnötter samt chilisås och ris.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
