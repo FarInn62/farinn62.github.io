@@ -1,38 +1,38 @@
 ---
 layout: foodmenu
-title: Lunch V 27. 2024
+title: Lunch V 28. 2024
 permalink: /lunch/
 published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 14:30  
-Alla rätter: 95:- Take away: 80:-
+Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Schnitzel med stekt annanas, griljerad tomat samt currysås och ris.
-2. Köttbullar i gräddsås, gurka, lingon och potatismos.
+1. Kålpudding med gräddsås, lingon och kokt potatis.
+2. Ostgratinerad falukorv med senapsås, grönsaker och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Lasagne med sallad. 
+2. Stekt rödspätta med remouladsås och kokt potatis samt sallad. 
 
 ### Onsdag
 
-1. Tex mexbiff med chilisås, stekt potatis samt grekisksallad.
-2. Stekt strömmingsflundra med smörsås, rårörda lingon och potatismos.
+1. Ostpanerad fläsknoisette med Milanaisesås samt pasta penne och sallad.
+2. Räksallad med citrondressing.
 
 ### Torsdag
 
-1. Laxsoppa samt tunna pannkakor, sylt och grädde. 
-2. Skomakarlåda med baconsås, lingon och potatispuré.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Marinerad kycklingfilé med dragonsås, stekt paprika och ris.
 
 ### Fredag  
 
-1. Fläskfilégryta i madeirasås, grönsaker och potatismos.
-2. Kycklinggryta med banan, jordnötter samt chilisås och ris.
+1. Laxfrestelse med räksås, citron och sallad.
+2. Kalvbiff med murkelsås, grönsaker, lingon och potatismos.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
