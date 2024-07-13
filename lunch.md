@@ -1,3 +1,4 @@
+
 layout: foodmenu
 title: Lunch V 29. 2024
 permalink: /lunch/
@@ -30,7 +31,7 @@ Alla rätter: 100:- Take away: 85:-
 
 ### Fredag  
 
-1. Helstekt fläskfilé med kräftstjärtar, sparris och tomatiserad bearnaisesås samt pommes chateau.
+1. Helstekt fläskfilé med kräftstjärtar, sparris, tomatiserad bearnaisesås samt pommes chateau.
 2. Nötlevergryta med ris, lingon.
 
 SMAKLIG MÅLTID  
