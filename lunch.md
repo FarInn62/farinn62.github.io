@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Dillköttgryta med morötter, kokt potatis.
-2. Köttbullar med brunsås, lingon, gurka samt potatismos.
+1. Kålpudding med gräddsås, kokt potatis och lingon.
+2. Kebab med mild chilisås, ris och sallad.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingonsylt.
-2. Friterad Sejfilé med räkmajonnäs, sallad och potatispuré. 
+2. Lasagne med sallad. 
 
 ### Onsdag
 
-1. Farmarbiff med café de parissås samt grönsaker och stekt potatis.
-2. Strömmingflundra med tomatiserad skagensås samt kokt potatis och sallad.
+1. Dillköttgryta med grönsaker, kokt potatis.
+2. Pannbiff med löksås, persiljesmör samt råstekt potatis.
 
 ### Torsdag
 
-1. Sommarsoppa med bacon samt tunna pannkakor, sylt och grädde. 
-2. Korvstroganoff med ris, smetana och inlagd gurka.
+1. Köttfärssoppa med cream fraiche samt tunna pannkakor, sylt och grädde. 
+2. Smörstekt rödspätta med vitvinkokta räkor, citron och potatispuré.
 
 ### Fredag  
 
-1. Helstekt fläskfilé med kräftstjärtar, sparris, tomatiserad bearnaisesås samt pommes chateau.
-2. Nötlevergryta med ris, lingon.
+1. Fläskfilé noisette med sherry-tryffelsås samt grönsaker och potatisgratäng.
+2. Spaghetti Bolognese med sallad.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
