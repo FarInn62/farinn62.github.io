@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 29. 2024
+title: Lunch V 30. 2024
 permalink: /lunch/
 published: true
 ---
