@@ -22,7 +22,7 @@ Alla rätter: 100:- Take away: 85:-
 ### Onsdag
 
 1. Kålpudding med brunsås, lingon och kokt potatis.
-2. Kokt torkrygg med ägg-persiljesås samt kokt potatis och sallad.
+2. Kokt torskrygg med ägg-persiljesås samt kokt potatis och sallad.
 
 ### Torsdag
 
@@ -32,7 +32,7 @@ Alla rätter: 100:- Take away: 85:-
 ### Fredag  
 
 1. Fläskfilé med murkelsås, gelé, broccoli och potatisgratäng.
-2. Laxferestelse med hummersås samt grönsaker.
+2. Laxfrestelse med hummersås samt grönsaker.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
