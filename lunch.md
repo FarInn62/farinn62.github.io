@@ -11,7 +11,7 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Kycklinggryta i paprika-chilisås, frönsaksrisotto.
+1. Kycklinggryta i paprika-chilisås, grönsaksrisotto.
 2. Stekt strömming med hummersås, räkor och potatismos.
 
 ### Tisdag
