@@ -17,12 +17,12 @@ Alla rätter: 100:- Take away: 85:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon.
-2. Köttfärslimpa med portvinkokta chaminjoner samt äpplemos och kokt potatis. 
+2. Köttfärslimpa med portvinkokta champinjoner samt äpplemos och kokt potatis. 
 
 ### Onsdag
 
 1. Biff ala Backman med rödvinsås, kapris, rödbetor, stekt ägg samt påotatispuré.
-2. Pytt i panna med stekt gg och röbetor.
+2. Pytt i panna med stekt ägg och röbetor.
 
 ### Torsdag
 
@@ -31,7 +31,7 @@ Alla rätter: 100:- Take away: 85:-
 
 ### Fredag  
 
-1. Fläskfilé med sparris, kräftstjärtor smt tomatiserad bearnaisesås och rostad potatis.
+1. Fläskfilé med sparris, kräftstjärtor samt tomatiserad bearnaisesås och rostad potatis.
 2. Nöttlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID  
