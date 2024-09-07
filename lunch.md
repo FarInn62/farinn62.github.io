@@ -21,7 +21,7 @@ Alla rätter: 100:- Take away: 85:-
 
 ### Onsdag
 
-1. Biff ala Backman med rödvinsås, kapris, rödbetor, stekt ägg samt påotatispuré.
+1. Biff ala Backman med rödvinsås, kapris, rödbetor, stekt ägg samt potatispuré.
 2. Pytt i panna med stekt ägg och röbetor.
 
 ### Torsdag
