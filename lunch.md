@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 37. 2024
+title: Lunch V 38. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Stekt kassler med rotmos, sallad och pepparotdressing.
-2. Stekt falukorv med stuvad vitkål, kokt potatis.
+1. Kalvfärsbiff med trattkantarellsås, lingon, grönsaker och kokt potatis.
+2. Kokt Alaskafilé med äggsås samt ärter och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon.
-2. Köttfärslimpa med portvinkokta champinjoner samt äpplemos och kokt potatis. 
+2. Buljonkokt kycklingfilé med Milanaisesås och ris. 
 
 ### Onsdag
 
-1. Biff ala Backman med rödvinsås, kapris, rödbetor, stekt ägg samt potatispuré.
-2. Pytt i panna med stekt ägg och röbetor.
+1. Panerad kotlett med pepparsås samt sallad och kokt potatis.
+2. Stekt lunchkorv med potatismos och bostongurka.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
-2. Helstekt ytterfilé med dragonsås samt grönsaker och råstekt potatis.
+1. Baconsoppa med grönsaker samt tunna pannkakor, sylt och grädde. 
+2. Marinerad jägarstek med kantarellsås, grönsaker och kokt potatis.
 
 ### Fredag  
 
-1. Fläskfilé med sparris, kräftstjärtor samt tomatiserad bearnaisesås och rostad potatis.
-2. Nöttlevergryta med ris och lingon.
+1. Texmex biff med paprika-chilisås samt grekisk sallad och stekt potatis.
+2. Spaghetti Bolognese med ost.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
