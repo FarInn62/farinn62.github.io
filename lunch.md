@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 42. 2024
+title: Lunch V 43. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Dillkött med morötter och kokt potatis.
-2. Pytt i panna med stekt ägg och röbetsdressing.
+1. Biff Wallenberg med såscreme samt ärtor, lingon och potatismos.
+2. Spaghetti Bolognese med ost.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon.
-2. Baconlindrad lunchkorv med persiljastuvade potatis samt sallad. 
+2. Stekt lunchkorv med senapsås och potatispuré. 
 
 ### Onsdag
 
-1. Äggpanerad schnitzel med pepparsås samt grönsaker och råstekt potatis.
-2. Pastagratäng med sallad.
+1. Kyckling schnitzel med curry-dragonsås samt grönsaker och ris.
+2. Friterad Sejfilé med räksås, kokt potatis och sallad.
 
 ### Torsdag
 
-1. Rödbetssoppa med smetana samt tunna pannkakor, sylt och grädde. 
-2. Stekt Gösfilé med hummersås, räkor, grönsaker och kokt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+2. Oxjärpar med kantarellsås, lingonpuré och stekt potatis.
 
 ### Fredag  
 
-1. Helstekt ytterfilé med madeirasås, grönsaker och potatisgratäng.
-2. Nöttlevergryta med ris och lingon.
+1. Biff ala rydberg med tärnad potatis, stekt lök och senapsdressing.
+2. Fläskfilégryta i pepparsås samt stekt potatis och sallad.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
