@@ -32,7 +32,7 @@ Alla rätter: 100:- Take away: 85:-
 ### Fredag  
 
 1. Dansk sjömansbiff med lök-ölsås persiljesmör och råstekt potatis.
-2. Ostgratinerad falukorv samt potatismos och tomatsallad.
+2. Ostgratinerad falukorv samt potatismos och tomatsallad
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
