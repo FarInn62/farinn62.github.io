@@ -11,7 +11,7 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Ostpanerad schnitzel med milanaisesås, pasata penne och grönsaker.
+1. Ostpanerad schnitzel med milanaisesås, pasta penne och grönsaker.
 2. Kalvfärsjärpar med kantarellsås samt potatismos och lingon .
 
 ### Tisdag
@@ -26,7 +26,7 @@ Alla rätter: 100:- Take away: 85:-
 
 ### Torsdag
 
-1. Köfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor, sylt och grädde. 
 2. Stekt lax med hummersås, grönsaker, räkor och kokt potatis.
 
 ### Fredag  
