@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 49. 2024
+title: Lunch V 50. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Kassler karrégryta med grönsaker och kokt potatis.
-2. Korvstroganoff med ris, smetana and gurka.
+1. Älgkorv med champinjonsås och potatismos, lingon.
+2. Strömmingsflundra med vitvinsås, räkor och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon.
-2. Spaghetti Bolognese med ost. 
+2. Stekt falukorv med stuvade makaroner och tomatdressing. 
 
 ### Onsdag
 
-1. Pannbiff med kantarellsås samt grönsaker, lingon och kokt potatis.
-2. Stekt Alaskafilé med skagensås, potatispuré och sallad.
+1. Kyckling noisette med rosépepparsås samt ris och sallad.
+2. Kålpudding med gräddsås, koktpotatis och lingon.
 
 ### Torsdag
 
-1. Rödbetssoppa med creme fraiche samt tunna pannkakor med sylt och grädde. 
-2. Fläsk noisette med tryffelsås, wokgrönsaker och råstekt potatis.
+1. Ärtsoppa samt tunna pannkakor med sylt och grädde. 
+2. Köttbullar med brunsås, inlaggd gurka, lingon samt potatismos.
 
 ### Fredag  
 
-1. Grekisk biff med ostsås, potatismos och paprikasallad.
-2. Nötlevergryta med ris och lingon.
+1. Skomakarlåda med potatismos, baconsås och lingon.
+2. Panerad rödspätta, räkmajonäs och kokt potatis, sallad.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
