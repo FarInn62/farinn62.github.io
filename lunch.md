@@ -11,7 +11,7 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Älgkorv med champinjonsås och potatismos, lingon.
+1. Älgskav med champinjonsås och potatismos, lingon.
 2. Strömmingsflundra med vitvinsås, räkor och kokt potatis.
 
 ### Tisdag
