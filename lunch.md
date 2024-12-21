@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V 51. 2024
+title: Lunch V 52. 2024
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,27 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Wienerfärslimpa med portvinkokta champinjoner samt applemos och kokt potatis.
-2. Baconlindad lunchkorv med persiljastuvad potatis.
+1. Julskinka med rotmos, prinskorv, köttbullar samt rödbetssallad och senap.
+2. Pytt i panna med ägg och rödbetor.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingon.
-2. Kokt torskfilé med äggsås, ärter och potatismos. 
+1. Endast avhämtning av jultallrikar, Restaurangen stängt.
+2.. 
 
 ### Onsdag
 
-1. Kasslergryta med purjolök, morötter och kokt potatis.
-2. Ostpanerad schnitzel med chilisås samt sallad och stekt potatis.
-
+1. Juldagen Stängt.
+2. .
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och grädde. 
-2. Fläskfilé noisette med pepparsås, grönsaker och råstekt potatis.
+1. Kycklingfilé med curry och dragonsås, sallad, ris. 
+2. A la carté.
 
 ### Fredag  
 
-1. Kycklinggryta med banan, chlisås och ris.
-2. Pastagratäng med baconsås samt grönsaker och soltorkade tomater.
+1. Helstekt fläsfilé med kantarellsås, potatisgratäng och sallad.
+2. Spaghetti Carbonara.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
