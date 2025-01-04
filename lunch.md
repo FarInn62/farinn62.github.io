@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.1 2025
+title: Lunch V.2 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Panerad torskfilé med räksås, citron och potatismos.
-2. Benfri kotlett med med pepparsås, grönsaker och stekt potatis.
+1. Kålfärsbiff med gräddsås, lingon samt kokt potatis.
+2. Ala Cart.
 
 ### Tisdag
 
-1. Fläskfilé med choronsås, kräftstjärtor, sparris samt råstekt potatis.
-2. Pasta penne med köttfärssås. 
+1. Raggmunkar med stekt fläsk, lingon.
+2. Köttfärslimpa med kantarellsås samt lingon , grönsaker och kokt potatis. 
 
 ### Onsdag
 
-1. Stängt.
-2. Stängt.
+1. Kebab med mildsås, sallad.
+2. Stekt rödspätta med dil-räksås samt grömsaker och potatismos.
 
 ### Torsdag
 
-1. Laxsoppa med räkor samt tunna pannkakor med sylt och grädde. 
-2. Skomakarlåda med baconsås samt potatismos och lingon.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
+2. Älgfärslimpa med viltsås, grönsaker, gele och kokt potatis.
 
 ### Fredag  
 
-1. Schnitzel med madeira och beaenaisesås, grönsaker och stekt potatis.
-2. Nöttlevergryta med ris och lingon.
+1. Schweizer schnitzel med örtsås, grönsaker, råstekt potatis.
+2. Spaghetti Carbonara med ost.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
