@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.3 2025
+title: Lunch V.4 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Honungmarienerad karréstek med murkelsås, kokt potatis och sallad.
-2. Stekt falukorv och stuvade makaroner, tommatdressing.
+1. Chili con carne med ris och sallad.
+2. Stekt lunchkorv med persiljestuvad potatis samt senap majonnäs.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingon.
-2. Köttbullar i gräddsås, gurka lingon och potatismos. 
+2. Stekt panerad Alaskafilé med räksås, grönsaker och kokt potatis. 
 
 ### Onsdag
 
-1. Fransk köttgryta med potatispuré, sallad.
-2. Stekt lax med smörsås, räkor och kokt potatis.
+1. Oxjärpar med kantarellsås samt kokt potatis och lingon.
+2. Pastagratäng med köttfärssås, sallad.
 
 ### Torsdag
 
-1. Broccolisoppa samt tunna pannkakor sylt och grädde. 
-2. Italiensk kycklinggryta med grönsaker och pasta penne.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
+2. Panbiff med löksås, potatismos och lingon.
 
 ### Fredag  
 
-1. Helstekt fläskytterfilé med sherrysås, sparris samt stekt potatis.
-2. Lasagne med sallad.
+1. Kålpudding med gräddsås samt kokt potatis och lingon.
+2. Jägarstek med kantarellsås, grönsaker, äpplemos och kokt potatis.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
