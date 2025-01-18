@@ -27,7 +27,7 @@ Alla rätter: 100:- Take away: 85:-
 ### Torsdag
 
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Panbiff med löksås, potatismos och lingon.
+2. Pannbiff med löksås, potatismos och lingon.
 
 ### Fredag  
 
