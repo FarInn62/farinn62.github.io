@@ -11,8 +11,8 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. kasler med rotmos, pepparotsås och rödbetor.
-2. mandelfisk med citronsås, ärter och kokt potatis.
+1. Kassler med rotmos, pepparotsås och rödbetor.
+2. Mandelfisk med citronsås, ärter och kokt potatis.
 
 ### Tisdag
 
