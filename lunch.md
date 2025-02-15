@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.7 2025
+title: Lunch V.8 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Kassler med rotmos, pepparotsås och rödbetor.
-2. Mandelfisk med citronsås, ärter och kokt potatis.
+1. Biff ala stroganoff med ris, creme fraiche, inlagd gurka.
+2. Fiskgratäng med skagensås och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingon.
-2. Ost och skinkfylld köttfärslimpa med champinjonsås, lingon och kokt potatis. 
+2. Pytt i panna med stekt ägg och rödbetor. 
 
 ### Onsdag
 
-1. Kycklinggryta med kremig currysås samt grönsaker och ris.
-2. Spaghetti med lax och räksås, ost och sallad.
+1. Biff backman med Madeirasås, ägg, rödbetor, kapris och stekt potatis.
+2. Stekt falukorv med stuvade makaroner samt tomatdressing.
 
 ### Torsdag
 
-1. Broccoli och bloomkålsoppa samt tunna pannkakor sylt och grädde. 
-2. Biff ala Wallinberg med gräddsås samt ärter, lingon och potatismos.
+1. Köttfärssoppa med smetana samt tunna pannkakor sylt och grädde. 
+2. Kålpudding med brunsås, kokt potatis och lingon.
 
 ### Fredag  
 
-1. Herrgårdsstek med gräddsås, grönsaker, lingon och kokt potatis.
-2. Friterad torskfilé med vitvinsås samt kräfttjärtar och potatispuré.
+1. Dansk sjömansbiff med lök-ölsås, persiljasmör, råstekt potatis.
+2. Gösfilé med hummersås, grönsaker, räkor och kokt potatis.
 
 SMAKLIG MÅLTID  
 ### Lördag & Söndag 
