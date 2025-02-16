@@ -38,7 +38,7 @@ SMAKLIG MÅLTID
 
 ### Lördag & Söndag 
 
-DAGENS & ALA CARTÈ. 
+DAGENS & ALA CARTÈ  
 Välkommen
     
        
