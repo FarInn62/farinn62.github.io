@@ -35,8 +35,10 @@ Alla rätter: 100:- Take away: 85:-
 2. Gösfilé med hummersås, grönsaker, räkor och kokt potatis.
 
 SMAKLIG MÅLTID  
+
 ### Lördag & Söndag 
-DAGENS & ALA CARTÈ
+
+DAGENS & ALA CARTÈ. 
 Välkommen
     
        
