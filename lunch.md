@@ -11,7 +11,7 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Oxbringa med pepparotsås och rotmos.
+1. Oxbringa m pepparotsås och rotmos.
 2. Stekt lunchkorv med persiljestuvad potatis.
 
 ### Tisdag
