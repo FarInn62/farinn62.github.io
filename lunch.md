@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.15 2025
+title: Lunch V.16 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Biff ala Backman med vinsås, stekt ägg, rödbeter och strimlad potatis.
-2. Filé stroganoff med ris och creme fraiche.
+1. Kassler med rotmos, senapsås och rödbetor.
+2. Stekt lunchkorv med baconsås, potatispuré och sallad.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk och lingon.
-2. Ångad Sejfilé med äggsås, grönsaker och kokt potatis samt lingon. 
+2. Smörstekt rödspätta med räkmajonnäs, citron och kokt potatis. 
 
 ### Onsdag
 
-1. Älgfärsbiff med kantarellsås och kokt potatis samt lingon.
-2. Gratinerad kebab med broccoli och chili-ostsås samt sallad.
+1. Fläskfilé noisette med murkelsås, gelé och stekt potatis.
+2. Pytt i panna med stekt ägg och rödbetor.
 
 ### Torsdag
 
-1. Rödbetssoppa med smetana samt tunna pannkakor sylt och grädde. 
-2. Helstekt fläskytterfilé med dragonsås, grönsaker och stekt potatis.
+1. Grönsakssoppa med bacon samt tunna pannkakor sylt och grädde. 
+2. Biff a la Wallenberg med gräddsås, ärter, rårörda lingon samt potatismos.
 
 ### Fredag  
 
-1. Dansk sjömansbiff med öl-löksås samt persiljesmör och råstekt potatis.
-2. Marinerad kycklingfilé med tryffelsås samt sparris och stek potatis.
+1. Wienerschnitzel med rödvinsås, ärter, citron och stekt potatis.
+2. Nötlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID  
 
