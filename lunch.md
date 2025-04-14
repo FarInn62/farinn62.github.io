@@ -36,10 +36,12 @@ Alla rätter: 100:- Take away: 85:-
 
 SMAKLIG MÅLTID  
 
-### Lördag & Söndag 
+### Lördag Ala carte
 
-DAGENS & ALA CARTÈ  
 Välkommen
+
+__Söndag stängt__
+
     
        
     
