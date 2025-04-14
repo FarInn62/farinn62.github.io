@@ -38,7 +38,6 @@ SMAKLIG MÅLTID
 
 ### Lördag Ala carte
 
-Välkommen
 
 __Söndag stängt__
 
