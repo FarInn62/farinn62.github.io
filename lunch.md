@@ -17,17 +17,17 @@ Alla rätter: 100:- Take away: 85:-
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk och lingon.
-2. Köttbullar med sås, inlaggd gurka samt lingon och potatismos
+2. Köttbullar med sås, inlagd gurka samt lingon och potatismos
 
 ## Onsdag
 
-1. Stekt rödspätta med skageröra, kokt potatis.
+1. Stekt rödspätta med skagenröra, kokt potatis.
 2. Köttfärslimpa med pepparsås, kokt potatis och lingon.
 
 ### Torsdag
 
 1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Jägastek med champinjonsås samt äpplemos och grönsaker, Kokt potatis.
+2. Jägarstek med champinjonsås samt äpplemos och grönsaker, Kokt potatis.
 
 ### Fredag  
 
@@ -36,10 +36,11 @@ Alla rätter: 100:- Take away: 85:-
 
 SMAKLIG MÅLTID  
 
-### Lördag Ala carte
+### Lördag Söndag Ala carte
 
 
-__Söndag stängt__
+
+
 
     
        
