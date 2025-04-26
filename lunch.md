@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.17 2025
+title: Lunch V.18 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Kycklinggryta Indiana med ris och currydressing.
-2. Lasagne med sallad.
+1. Kålpudding med gräddsås och rårörda lingon, kokt potatis.
+2. Stekt Falukorv med stuvade makaroner, sallad.
 
 ### Tisdag
 
 1. Raggmunkar och stekt fläsk och lingon.
-2. Köttbullar med sås, inlagd gurka samt lingon och potatismos
+2. Tex Mex biff med chili-paprikasås samt ris och sallad.
 
 ## Onsdag
 
-1. Stekt rödspätta med skagenröra, kokt potatis.
-2. Köttfärslimpa med pepparsås, kokt potatis och lingon.
+1. Bömisk schnitzel med sherrysås, äpplemos samt stekta grönsaker och potatis.
+2. Stekt panerad Alaskafilé med vitvinsås, skaldjur och potatispuré.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Jägarstek med champinjonsås samt äpplemos och grönsaker, Kokt potatis.
+1. Baconsoppa med grönsaker samt tunna pannkakor sylt och grädde. 
+2. Helstekt fläskfilé med madeirasås, broccoli och potatisgratäng.
 
 ### Fredag  
 
-1. Kalvfärsbiff med kantarellsås, grönsaker, potatismos samt rårörda lingon.
-2. Fiskgratäng med räksås, grönsaker och kokt potatis.
+1. Kyckling schnitzel med äpplevinsås samt grönsaker och stekt potatis.
+2. Spaghetti Carbonara med ost.
 
 SMAKLIG MÅLTID  
 
