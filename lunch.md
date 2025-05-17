@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.20 2025
+title: Lunch V.21 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 85:-
                                 
 ### Måndag
 
-1. Älgfärsbiff med kantarellsås, rårörda lingon och potatismos.
-2. Stekt falukorv med stuvade makaroner och tomatdressing.
+1. Kålpudding med gräddsås, lingon och kokt potatis.
+2. Pastagratäng med köttfärs och ostsås.
 
 ### Tisdag
 
-1. Raggmunkar och stekt fläsk och lingon.
-2. Köttfärsgratäng med gräddsås, grönsaker och kokt potatis.
+1. Stekt fläsk med löksås, lingon och kokt potatis.
+2. Stekt lunchkorv med stuvade potatis, sallad.
 
 ## Onsdag
 
-1. Dillköttgryta med morötter och kokt potatis.
-2. Stekt gösfilé med smörsås, skaldjur och kokt potatis.
+1. Stekt Sejfilé med spenat och skagensås samt kokt potatis.
+2. Biff Lindström med rödvinsås, grönsaker, persiljesmör och kokt potatis.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Schnitzel med grönpepparsås samt grönsaker och stekt potatis.
+1. Gulaschsoppa samt tunna pannkakor sylt och grädde. 
+2. Jägarstek med kantarellsås, grönsaker och kokt potatis.
 
 ### Fredag  
 
-1. Fläskfilé noisette med baconsås, lingon och potatismos.
-2. Strömmingsflundra med smörsås, lingon, räkor och potatismos.
+1. Kycklingfilé med ädelostsås, spenat och griljerad tomat samt stekt potatis.
+2. Stekt rödspätta med remouladsås, räkor och kokt potatis.
 
 SMAKLIG MÅLTID  
 
