@@ -26,8 +26,8 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Torsdag
 
-1. Sommarsoppa med princekorv samt tunna pannkakor sylt och grädde. 
-2. Köttfärsbiff med stekt lök, röktskincka samt ägg och stekt potatis.
+1. Sommarsoppa med prinskorv samt tunna pannkakor sylt och grädde. 
+2. Köttfärsbiff med stekt lök, röktskinka samt ägg och stekt potatis.
 
 ### Fredag  
 
