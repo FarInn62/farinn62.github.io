@@ -1,38 +1,38 @@
 ---
 layout: foodmenu
-title: Lunch V.23 2025
+title: Lunch V.24 2025
 permalink: /lunch/
 published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 14:30  
-Alla rätter: 100:- Take away: 85:-
+Alla rätter: 110:- Take away: 90:-
                                 
 ### Måndag
 
-1. Fransk köttgryta med potatismos och sallad.
-2. Spaghetti med skagensås och ost.
+1. Biff Wallenberg med gräddsås, ärter, lingon samt inlagd gurka och potatismos.
+2. Stekt falukorv med stuvade makaroner, senapdressing.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Currykycklinggryta med ris och sallad.
+2. Stekt rödspätta med räkmajonäs, sallad och kokt potatis.
 
 ## Onsdag
 
-1. Panerad kotlett med svart vinbärssås samt grönsaker och stekt potatis.
-2. Fritystekt Alaskafilé med remouladsås, potatispuré och sallad.
+1. Kebab med mildsås, rostad potatis eller ris och sallad.
+2. Farmarbiff med dragonsås, potatispuré och sallad.
 
 ### Torsdag
 
-1. Laxräksoppa samt tunna pannkakor sylt och grädde. 
-2. Tex Mex Biff med vitlöksdressing, tomatsalsa och stekt potatis.
+1. Sommarsoppa med princekorv samt tunna pannkakor sylt och grädde. 
+2. Köttfärsbiff med stekt lök, röktskincka samt ägg och stekt potatis.
 
 ### Fredag  
 
-1. Marinerad Jägarstek med kantarellsås, ingeferalingon och potatismos.
-2. Lasagne med sallad.
+1. Fläsk Schnitzel med chilipepparsås, grönsaker och råstekt potatis.
+2. Kokt lax med vitvinsås, räkor samt grönsaker och kokt potatis.
 
 SMAKLIG MÅLTID  
 
