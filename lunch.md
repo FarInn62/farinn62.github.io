@@ -7,7 +7,7 @@ published: true
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
 Menyn gäller följande tider:  
 Lunchtider  Mån-sön:11:00 - 14:30  
-Alla rätter: 110:- Take away: 90:-
+Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
