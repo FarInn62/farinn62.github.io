@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.24 2025
+title: Lunch V.25 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. Biff Wallenberg med gräddsås, ärter, lingon samt inlagd gurka och potatismos.
-2. Stekt falukorv med stuvade makaroner, senapdressing.
+1. Grillkarré med potatisgratäng, örtsås och sallad.
+2. Pytt i panna med ägg och rödbetor.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Stekt rödspätta med räkmajonäs, sallad och kokt potatis.
+2. Vitvinkokt Sejfilé med äggsås, grönsaker och kokt potatis.
 
 ## Onsdag
 
-1. Kebab med mildsås, rostad potatis eller ris och sallad.
-2. Farmarbiff med dragonsås, potatispuré och sallad.
+1. Paprikafylld kycklingfilé med chlisås och sallad.
+2. Jägarschnitzel med kantarellsås, lingon och stekt potatis.
 
 ### Torsdag
 
-1. Sommarsoppa med prinskorv samt tunna pannkakor sylt och grädde. 
-2. Köttfärsbiff med stekt lök, röktskinka samt ägg och stekt potatis.
+1. Köttfärssoppa med creame fraiche samt tunna pannkakor sylt och grädde. 
+2. Stekt och panerad Alaskafilé med skagenröra, kokt potatis och sallad.
 
 ### Fredag  
 
-1. Fläsk Schnitzel med chilipepparsås, grönsaker och råstekt potatis.
-2. Kokt lax med vitvinsås, räkor samt grönsaker och kokt potatis.
+1. MIDSOMMARAFTON GLAD MIDSOMMAR ÖNKAR PERONALEN.
+   SILLTALLRIK MED TILLBEHÖR.
 
 SMAKLIG MÅLTID  
 
