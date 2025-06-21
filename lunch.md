@@ -11,13 +11,13 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. kålpudding med gräddså, lingon och kokt potatis. .
+1. kålpudding med gräddsås, lingon och kokt potatis. .
 2. Stekt falukorv med stuvade makaroner och sallad. .
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. winerfärslimpa med cafe de parissås, grönsaker och kokt potatis.
+2. Weinerfärslimpa med cafe de parissås, grönsaker och kokt potatis.
 
 ## Onsdag
 1. Fiskgratäng med hummer- ostsås, skaldjur och potatismos. 
