@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.28 2025
+title: Lunch V.29 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. Kalvfärsjärpar med kantarellsås, rårörda lingon och potatismos.
-2. Stekt falukorv med stuvade makaroner, sallad.
+1. Kålpudding med gräddsås, kokt potatis och lingon.
+2. Stekt lunchkorv med bostongurka och potatismos.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Pytt i panna med stekt ägg, rödbetor.
+2. Stekt torskfilé med räkmajonäs, potatispuré och sallad.
 
 ## Onsdag
-1. Vitvinkokt Sejfilé med skagensås, grönsaker och kokt potatis. 
-2. Lasagne med sallad. 
+1. Dillköttgryta med morötter och kokt potatis. 
+2. Pannbiff med pepparsås, grönsaker och stekt potatis. 
 
 ### Torsdag
 
 1. Rödbetssoppa med smetana samt tunna pannkakor sylt och grädde. 
-2. Älgskav med svampsås, lingon och potatismos.
+2. Bömisk scnitzel med äppelvinsås, wokade grönsaker och örtpotatis.
 
 ### Fredag  
 
-1. Ost-skinkfylld schnitzel med rödvinsås, stekta grönsaker och råstekt potatis .
-2. Kokt lax med krabbsås samt spenat och kokt potatis.
+1. Kycklingfilé med spenat, ädelostsås samt broccoli och stekt potatis.
+2. Lasagne med sallad.
 
 SMAKLIG MÅLTID  
 
