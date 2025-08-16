@@ -21,7 +21,7 @@ Alla rätter: 110:- Take away: 95:-
 
 ## Onsdag
 1. Biff ala Backman med brunsås, stekt ägg, rödbetor, kapris samt stekt potatis. 
-2. Makarolåda med bacon, köttfärs och ostsås. 
+2. Makaronlåda med bacon, köttfärs och ostsås. 
 
 ### Torsdag
 
