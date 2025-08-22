@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.34 2025
+title: Lunch V.35 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. Helstekt fläskytterfilé med kantarellsås, lingon och kokt potatis.
-2. Köttbullar med gräddsås, lingon, inlagdgurka och potatismos.
+1. Ossobucco med potatismos och sallad.
+2. Stekt falukorv med stuvad vitkål.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Fiskgratäng med grönsaker och räk-hummersås samt kokt potatis.
+2. Strummingflundra med smörsås, räkor, lingon och potatispuré.
 
 ## Onsdag
-1. Biff ala Backman med brunsås, stekt ägg, rödbetor, kapris samt stekt potatis. 
-2. Makaronlåda med bacon, köttfärs och ostsås. 
+1. Biff Wallenberg med gräddsås, rårörda lingon, ärtor och kokt potatis. 
+2. Frityrstekt Sejfilé med räkmajonnäs. 
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Viltfärsbiff med murkelsås, gelé samt grönsaker och kokot potatis.
+1. Broccolisoppa med purjelök och potatis samt tunna pannkakor sylt och grädde. 
+2. Tex mess biff med chilisås och ris.
 
 ### Fredag  
 
-1. Thaikyckling med saffranris och paprikasallad.
-2. Stekt rödspätta med räkmjonnäs, citron och kokt potatis.
+1. Fläsfilé noisette med dragonsås, wokgrönsaker samt stekt potatis.
+2. Nötlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID  
 
