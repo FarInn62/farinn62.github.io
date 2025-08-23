@@ -17,7 +17,7 @@ Alla rätter: 110:- Take away: 95:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Strummingflundra med smörsås, räkor, lingon och potatispuré.
+2. Strömmingflundra med smörsås, räkor, lingon och potatispuré.
 
 ## Onsdag
 1. Biff Wallenberg med gräddsås, rårörda lingon, ärtor och kokt potatis. 
@@ -25,12 +25,12 @@ Alla rätter: 110:- Take away: 95:-
 
 ### Torsdag
 
-1. Broccolisoppa med purjelök och potatis samt tunna pannkakor sylt och grädde. 
-2. Tex mess biff med chilisås och ris.
+1. Broccolisoppa med purjolök och potatis samt tunna pannkakor sylt och grädde. 
+2. Tex mex biff med chilisås och ris.
 
 ### Fredag  
 
-1. Fläsfilé noisette med dragonsås, wokgrönsaker samt stekt potatis.
+1. Fläskfilé noisette med dragonsås, wokgrönsaker samt stekt potatis.
 2. Nötlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID  
