@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.41 2025
+title: Lunch V.42 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. Kebab med vitlöksås samt ris och sallad.
-2. Korv stroganoff med potatismos, smetana och inlagd gurka.
+1. Ost och skinkfylld köttfärsrulle med brunsås, grönsaker, lingon och kokt potatis.
+2. Fiskgratäng med vitvinsås, grönsaker, räkor och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Rödspetta med remouladsås, citron och kokt potatis.
+2. Kyckling noisette med ädelostsås, spinat samt griljerad tomat och stekt potatis.
 
 ## Onsdag
-1. Köttfärsbiff med gräddsås, kokt potatis, lingon. 
-2. Spaghetti Bolognese toppad med ost. 
+1. Köttbullar med gräddsås, lingon, gurka och kokt potatis. 
+2. Stekt rödspätta med räkmajonnäs, grönsaker och kokt potatis. 
 
 ### Torsdag
 
-1. Baconsoppa med grönsaker samt tunna pannkakor sylt och grädde. 
-2. Wiener schnitzel med madeirasås, ärtor, citon och stekt potatis.
+1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
+2. Helstekt fläskfilé med bearnaisesås samt grönsaker och rostad potatis.
 
 ### Fredag  
 
-1. Fläskfilégryta med potatisgratäng och tomatsallad.
-2. Nöttlevergryta med ris och lingon.
+1. Schweizer schnitzel med bearnaisesås, grönsaker och stekt potatis.
+2. Laxfärsbiff med skagensås, kokt potatis och citron.
 
 SMAKLIG MÅLTID  
 
