@@ -17,7 +17,7 @@ Alla rätter: 110:- Take away: 95:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk , lingon.
-2. Kyckling noisette med ädelostsås, spinat samt griljerad tomat och stekt potatis.
+2. Kyckling noisette med ädelostsås, senat samt griljerad tomat och stekt potatis.
 
 ## Onsdag
 1. Köttbullar med gräddsås, lingon, gurka och kokt potatis. 
