@@ -26,12 +26,12 @@ Alla rätter: 110:- Take away: 95:-
 ### Torsdag
 
 1. Spenatsoppa med ägghalva samt tunna pannkakor sylt och grädde. 
-2. Kebabgratäng med broccoli och blomkål samt sallad och streemlad potatis.
+2. Kebabgratäng med broccoli och blomkål samt sallad och strimlad potatis.
 
 ### Fredag  
 
 1. Lövbiff med sherrysås, stekta grönsaker och potatisgratäng.
-2. Nöttlevergryta med ris och lingon.
+2. Nötlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID  
 
