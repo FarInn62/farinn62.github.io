@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.44 2025
+title: Lunch V.45 2025
 
 permalink: /lunch/
 published: true
@@ -12,27 +12,27 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. Pytt i panna med stekt ägg och rödbetor.
-2. Korv stroganoff med ris och smetana, inlagd gurka.
+1. Plommonfyld fläskkarré med kanel-gräddsås, applemos, kokt potatis.
+2. Stekt falukorv med pepparotsås, morotspuré, sallad.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk , lingon.
-2. Lasagne med sallad.
+1. Bruna böner med stekt fläsk , lingon.
+2. Fiskgratäng med ostsås, skaldjur och potatispuré.
 
 ## Onsdag
-1. Älgfärsbiff med kantarellsås, grönsaker, lingon och kokt potatis. 
-2. Stekt Alaskafilé med kräftsås, citron och potatismos. 
+1. Dansk kotlett med dragon-senapsås, grönsaker och kokt potatis. 
+2. Pytt i panna med stekt ägg och rödbetor. 
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Kycklinggrta med currysmak samt annanassallad och ris.
+1. Lax och skaldjursoppa samt tunna pannkakor sylt och grädde. 
+2. Köttfärs tornado med ädelostsås, grönsaker och stekt potatis.
 
 ### Fredag  
 
-1. Fransk köttgryta med potatismos, sallad.
-2. Dansk sjömansbiff med öl-löksås samt persiljasmör och råstekt potatis.
+1. Porterstek med sherrysås, grönsaker, lingon och kokt potatis.
+2. Stekt gösfilé med grädd-hummersås, räkor och grönsaker samt potatispuré.
 
 SMAKLIG MÅLTID  
 
