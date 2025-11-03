@@ -17,7 +17,7 @@ Alla rätter: 110:- Take away: 95:-
 
 ### Tisdag
 
-1. Bruna böner med stekt fläsk och kokt potatis alt. löksås och lingon, lingon.
+1. Bruna böner med stekt fläsk och kokt potatis alt. löksås och lingon.
 2. Fiskgratäng med ostsås, skaldjur och potatispuré.
 
 ## Onsdag
