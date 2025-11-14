@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.46 2025
+title: Lunch V.47 2025
 
 permalink: /lunch/
 published: true
@@ -12,27 +12,27 @@ Alla rätter: 110:- Take away: 95:-
                                 
 ### Måndag
 
-1. Skånsk kalops med rödbetor och kokt potatis.
-2. Pastagratäng med ostsås, köttfärs och sallad.
+1. Fylld kötfärsbulle (Äggämma) med tryffelsås, grönsaker och potatismos.
+2. Stekt Falukorv med stuvade makaroner, tomatdressing.
 
 ### Tisdag
 
 1. Ragmunkar med stekt fläsk och lingon.
-2. Kåldolmar med gräddsås, lingon och kokt potatis.
+2. Lasagne med sallad.
 
 ## Onsdag
-1. Pannbiff med stekt lök, brunsås samt grönsaker och kokt potatis. 
-2. Panerad rödspätta med dill och räksås amt citron och kokt potatis. 
+1. Köttgryta med grönsaker och kokt potatis. 
+2. Stekt Sejfilé med dillmajonnäs, räkor, citron och potatispuré. 
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor sylt och grädde. 
-2. Kålpudding med brunsås, lingon och kokt potatis.
+1. Kycklingsoppa samt tunna pannkakor sylt och grädde. 
+2. Grekisk biff med fetaostsås, råstekt potatis, sallad.
 
 ### Fredag  
 
-1. Wiener schnitzel med sås Espanjole, ärtor, citron och stekt potatis.
-2. Skomakarlåda med baconsås, lingon och potatismos.
+1. Fläskfilé noisette med wokgrönsaker samt bearnaisesås och potatisgratäng.
+2. Spaghetti med skaldjursås, ost.
 
 SMAKLIG MÅLTID  
 
