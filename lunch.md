@@ -17,12 +17,12 @@ Alla rätter: 100:- Take away: 90:-
 
 ### Tisdag
 
-1. Ragmunkar med stekt fläsk och lingon.
+1. Raggmunkar med stekt fläsk och lingon.
 2. Stekt lax med smörsås, grönsaker, räkor, citron och kokt potatis.
 
 ## Onsdag
 1. Kalvfärsjärpar med murkelsås, potatismos och rårörda lingon. 
-2. Pytt i panna(gröddstuvad) samt stekt ägg och röbetor. 
+2. Pytt i panna(gräddstuvad) samt stekt ägg och röbetor. 
 
 ### Torsdag
 
