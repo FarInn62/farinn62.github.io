@@ -27,7 +27,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Torsdag
 
 1. Ärtsoppa samt tunna pannkakor sylt och grädde. 
-2. Fläskflé noisette med inodeirasås samt grönsaker och råstekt potatis.
+2. Fläskflé noisette med madeirasås samt grönsaker och råstekt potatis.
 
 ### Fredag  
 
