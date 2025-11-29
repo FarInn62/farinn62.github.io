@@ -12,26 +12,27 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Dillköttgryta med morötter,kokt potatis.
+1. Dillköttgryta med morötter, kokt potatis.
 2. Köttfärsgratäng med såscreme och kokt potatis.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk och lingon.
-2. Skomakarlåda med baconsås samt potatismos och lingon.
+1. Raggmunkar med stekt fläsk, lingonsylt.
+2. Skomakarlåda med baconsås, potatismos och lingon.
 
-## Onsdag
-1. Norrländs köttgryta med rotgrönsaker och kokt potatis. 
-2. Stekt rödspätta med remouladsås, citron och kokt potatis. 
+### Onsdag
+
+1. Norrländsk köttgryta med rotgrönsaker och kokt potatis.
+2. Stekt rödspätta med remouladsås, citron och kokt potatis.
 
 ### Torsdag
 
-1. Ärtsoppa samt tunna pannkakor sylt och grädde. 
-2. Fläskflé noisette med madeirasås samt grönsaker och råstekt potatis.
+1. Ärtsoppa samt tunna pannkakor med sylt och grädde.
+2. Fläskfilé noisette med madeirasås, grönsaker och råstekt potatis.
 
 ### Fredag  
 
-1. Tex Mex biff med mildsås samt grönsaker och stekt potatis.
+1. Tex Mex biff med mild sås, grönsaker och stekt potatis.
 2. Lasagne med sallad.
 
 SMAKLIG MÅLTID  
