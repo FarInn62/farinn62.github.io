@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.50 2025
+title: Lunch V.51 2025
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Stekt kassler med rotmos och pepparrotsdressing.
-2. Köttbullar med brunsås, lingon, gurka och potatismos.
+1. Italienska köttbullar i tomat-gräddsås, pasta penne och sallad.
+2. Stekt lunchkorv med persiljestuvad potatis och senapssås.
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, kokt potatis och lingon.
-2. Stekt falukorv med stuvade makaroner och tomatdressing.
+1. Raggmunkar med stekt fläsk, lingon.
+2. Kokt sejfilé med äggsås, ärter och kokt potatis.
 
 ### Onsdag
 
-1. Biff à la Backman med stekt ägg, kapris, rödbetor, sås espagnole och stekt potatis.
-2. Köttgryta med rödbetor och kokt potatis.
+1. Skomakarlåda med baconsås, potatismos och lingon.
+2. Stekt strömmingsfilé med saffrans-smörsås, räkor, lingon och kokt potatis.
 
 ### Torsdag
 
-1. Köttfärssoppa med creme fraiche samt tunna pannkakor med sylt och grädde.
-2. Helstekt ytterfilé med grönpepparsås, grönsaker och potatisgratäng.
+1. Laxsoppa + tunna pannkakor med sylt och grädde.
+2. Ost- och skinkschnitzel med ädelostsås, tomat och rårstekt potatis.
 
 ### Fredag  
 
-1. Fläskfilé Stroganoff med ris och smetana.
-2. Spaghetti Bolognese med ost.
+1. Viltfärsbiff med kantarellsås, grönsaker, lingon och kokt potatis.
+2. Kebab med ris, vitlöksdressing och sallad.
 
 
 SMAKLIG MÅLTID  
