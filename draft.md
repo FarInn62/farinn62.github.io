@@ -1,7 +1,7 @@
 ---
 layout: foodmenu
 title: New Utkast
-permalink: /lunch/
+permalink: /utkast/
 published: true
 ---
 Salladsbuffé, bröd och smör, kaffe och glass ingår.
