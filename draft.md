@@ -11,7 +11,7 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Italienska köttbullar i tomat-gräddsås, pasta penne och sallad.
+1. Italienska2 köttbullar i tomat-gräddsås, pasta penne och sallad.
 2. Stekt lunchkorv med persiljestuvad potatis och senapssås.
 
 ### Tisdag
