@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Utkast
+title: New Utkast
 permalink: /lunch/
 published: true
 ---
