@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.51 2025
+title: Utkast
 permalink: /lunch/
 published: true
 ---
