@@ -26,7 +26,7 @@ Alla rätter: 100:- Take away: 90:-
 
 ### Torsdag
 
-   STÄNGT
+      STÄNGT
 
 
 ### Fredag  
