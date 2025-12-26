@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.52 2025
+title: Lunch V.01 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,17 +11,17 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Kålpudding i gräddsås, kokt potatis och lingon.
-2. Hummersåsgratinerad torsfilé med räkor och potatispuré.
+1. Kebab med broccoli, provencalsås, sallad.
+2. Stekt rödspätta med remouladsås samt grönsaker och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk, lingon.
-2. Julskinka med köttbullar, prinskorv, janssons samt kokt potatis.
+2. Pepparbiff med grönpepparsås, gelé och stekt potatis.
 
 ### Onsdag
 
-1. Endast avhämyning mellan 11.00-12.00.
+1. Fläskfilé noisette med hummer och sparris samt bearnaisesås, råstekt potatis.
 
 
 ### Torsdag
@@ -31,8 +31,8 @@ Alla rätter: 100:- Take away: 90:-
 
 ### Fredag  
 
-1. Fläskfilé med sherry-tryffelsås ocg pommes strips.
-2. Kycklingfilé med currysås, Ris och sallad.
+1. Ostpanerad schnitzel med café de parissås, grönsaker och stekt potatis.
+2. Lasagne med sallad.
 
 
 SMAKLIG MÅLTID  
