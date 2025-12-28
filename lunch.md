@@ -12,7 +12,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Måndag
 
 1. Kebab med broccoli, provencalsås, sallad.
-2. Stekt rödspätta med remouladsås samt grönsaker och kokt potatis.
+2. Stekt gös med räksås samt grönsaker och kokt potatis.
 
 ### Tisdag
 
