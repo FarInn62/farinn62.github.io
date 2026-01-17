@@ -22,7 +22,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Onsdag
 
 1. Ugnstekt mandelfisk med citrondressing, tomater och kokt potatis.
-2. Ostgratinerad falukorv med senapsås och tomatpuré.
+2. Ostgratinerad falukorv med senapsås, tomatpuré och potatispure. 
 
 ### Torsdag
 1.  Baconsoppa med purjolök samt tunna pankakor, sylt och grädde.
@@ -31,7 +31,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Fredag  
 
 1. Tupp i vin med ris och sallad.
-2. Skomakarlåda med beconsås samt lingon och potatismos.
+2. Skomakarlåda med baconsås, lingon och potatismos. 
 
 SMAKLIG MÅLTID  
 
