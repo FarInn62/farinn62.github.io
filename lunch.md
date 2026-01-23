@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.04 2026
+title: Lunch V.05 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Kalvbringa med rotmos, rödbetor och pepparotsås.
-2. Pytt i panna med stekt ägg och rödbetor.
+1. Fläskfilé noisette med pepparsås, grönsaker och stekt potatis.
+2. Stekt lunchkorv med persiljestuvad potatis.
 
 ### Tisdag
 
-1. Raggmunkar med stekt fläsk, lingon.
-2. Oxjärpar med kantarellsås samt potatismos och lingon.
+1. Stekt fläskmed löksås samt kokt potatis och lingon.
+2. Kokt Alaskafilé med räksås, grönsaker och kokt potatis.
 
 ### Onsdag
 
-1. Ugnstekt mandelfisk med citrondressing, tomater och kokt potatis.
-2. Ostgratinerad falukorv med senapsås, tomatpuré och potatispure. 
+1. Dansk sjömansbiff med lök-ölsås samt persiljesmör och råstekt potatis.
+2. Nötlevergryta med ris och lingon. 
 
 ### Torsdag
-1.  Baconsoppa med purjolök samt tunna pankakor, sylt och grädde.
-2.  Böhmisk schnitzel med äpplemos, cidersås och stekt potatis.
+1.  Köttfärssoppa med creme fraiche samt tunna pankakor, sylt och grädde.
+2.  Stekt rödspätta med räkmajonnäs grönsaker och kokt potatis.
 
 ### Fredag  
 
-1. Tupp i vin med ris och sallad.
-2. Skomakarlåda med baconsås, lingon och potatismos. 
+1. Honungsmarinerad ytterfilé med vinbärssås, wokgrönsaker och råstekt potatis.
+2. Lasagne med sallad. 
 
 SMAKLIG MÅLTID  
 
