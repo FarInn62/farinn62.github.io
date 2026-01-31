@@ -22,7 +22,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Onsdag
 
 1. Köttfärslimpa med champinjonsås, äpplemos och kokt potatis.
-2. Panerad torsfilé med vitvnsås och skaldjur samt kokt potatis. 
+2. Panerad torskfilé med vitvnsås och skaldjur samt kokt potatis. 
 
 ### Torsdag
 
@@ -32,7 +32,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Fredag  
 
 1. Laxfrestelse med saffransås och skagensöra.
-2. Tex Mex biff med provencalsås, stekt potatis och sallad. 
+2. Tex Mex biff med provencalesås, stekt potatis och sallad. 
 
 SMAKLIG MÅLTID  
 
