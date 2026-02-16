@@ -11,7 +11,7 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Kålpudding med gräddsås, lingonsylt och kokt potatis.
+1. Kålpudding med gräddsås, lindgonsylt och kokt potatis.
 2. Pytt Bellman med stekt ägg och rödbetdressing.
 
 ### Tisdag
