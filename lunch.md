@@ -17,7 +17,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt falukorv med stekt makaroner.
+2. Stekt falukorv med stuvade makaroner.
 
 ### Onsdag
 
