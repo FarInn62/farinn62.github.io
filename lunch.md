@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.10 2026
+title: Lunch V.11 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Älgskav med kantarellsås, rårörda lingon och potatismos.
-2. Korv Stroganoff med ris och gurka samt lingon.
+1. Benfri kotlett med pepparsås, grönsaker, gelé och stekt potatis.
+2. Ångad torkfilé med äggsås, ärter och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Köttfärslimpa med svampsås, lingon och potatispuré.
+2. Stekt rödspätta med remouladsås, potatispuré och sallad.
 
 ### Onsdag
 
-1. Kycklinggryta med chilisås, salta nötter, banan och potatismos.
-2. Fiskgratäng med skagensås, spenat och potatisduchesse. 
+1. Fläskfilégryta med sherrysås, grönsaker och ris.
+2. Stekt lunchkorv med stuvade potatis och rödbetor. 
 
 ### Torsdag
 
-1.  Köttfärssoppa med creme fraiche, tunna pannkakor, sylt och grädde.
-2.  Skomakarlåda med baconsås, lingon och potatismos.
+1.  Laxsoppa med räkor, tunna pannkakor, sylt och grädde.
+2.  Schnitzel(Hawaii)med stekt annanas samt paprikasås, haricot vert och stekt potatis.
 
 ### Fredag  
 
-1. Ostpanerad schnitzel med milanaisesås samt grönsaks mix och pasta penne.
-2. Nöttlevergryta med ris och lingon. 
+1. Älgfärsbiff med kantarellsås och lingon samt grönsaker och kokt potatis.
+2. Köttfärsgratäng med pasta och sallad. 
 
 SMAKLIG MÅLTID  
 
