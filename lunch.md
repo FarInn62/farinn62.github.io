@@ -27,7 +27,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Torsdag
 
 1.  Laxsoppa med räkor, tunna pannkakor, sylt och grädde.
-2.  Schnitzel(Hawaii)med stekt annanas samt paprikasås, haricot vert och stekt potatis.
+2.  Schnitzel (Hawaii) med stekt annanas samt paprikasås, haricot vert och stekt potatis.
 
 ### Fredag  
 
