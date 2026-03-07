@@ -12,7 +12,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Måndag
 
 1. Benfri kotlett med pepparsås, grönsaker, gelé och stekt potatis.
-2. Ångad torkfilé med äggsås, ärter och kokt potatis.
+2. Ångad torskfilé med äggsås, ärter och kokt potatis.
 
 ### Tisdag
 
