@@ -22,7 +22,7 @@ Alla rätter: 100:- Take away: 90:-
 ### Onsdag
 
 1. Jägarstek med kantarellsås samt grönsaker, rårörda lingon och kokt potatis.
-2. Potatiskaka fyld med bacon och stekt lök samt ärtor, lingon och såsbechamel. 
+2. Potatiskaka fylld med bacon och stekt lök samt ärtor, lingon och såsbechamel. 
 
 ### Torsdag
 
