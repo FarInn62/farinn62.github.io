@@ -31,7 +31,7 @@ Alla rätter: 100:- Take away: 90:-
 
 ### Fredag  
 
-1. PÅSKAFTON
+1. LÅNG FREDAG STÄNGT
 2. GLAD PÅSK ÖNSKAR PERSONALEN
 
 SMAKLIG MÅLTID  
