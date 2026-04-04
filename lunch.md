@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.14 2026
+title: Lunch V.15 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,27 @@ Alla rätter: 100:- Take away: 90:-
                                 
 ### Måndag
 
-1. Dillkött med morötter och kokt potatis.
-2. Stekt falukorv med stuvad vitkål samt sallad och kokt potatis.
+1. Al A Carte.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Pytt Bellman med stekt ägg och rödbetsallad.
+2. Spaghetti Carbanora.
 
 ### Onsdag
 
-1. Köttfärslimpa med kantarellsås, grönsaker, lingon och kokt potatis.
-2. Stekt rödspätta med remouladsås, sallad och kokt potatis. 
+1. Panbiff med stekt lök samt brunsås, grönsaker och stekt potatis.
+2. Stekt rödspätta med dillstuvade räkor och potatispuré samt sallad. 
 
 ### Torsdag
 
-1.  Baconsoppa med grönsaker samt tunna pankakor, sylt och grädde.
-2.  Piccata Milanaise med tomatsås, bandspagehti och sallad.
+1.  Köttfärssoppa med creme fraiche samt tunna pankakor, sylt och grädde.
+2.  Kebabgryta med ris och sallad.
 
 ### Fredag  
 
-1. LÅNG FREDAG STÄNGT
-2. GLAD PÅSK ÖNSKAR PERSONALEN
+1. Laxfrestelse med hollandaisesås samt räkor och grönsaker.
+2. Tex Mex biff med mild vitlökssås, sallad och potatismos.
 
 SMAKLIG MÅLTID  
 
