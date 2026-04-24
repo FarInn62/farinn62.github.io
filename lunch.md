@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.17 2026
+title: Lunch V.18 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 110:- Take away: 90:-
                                 
 ### Måndag
 
-1. Oxjärpar med kantarellsås, grönsaker, lingon och kokt potatis.
-2. Korv stroganoff med creme fraiche, ris och inlagd gurka.
+1. Kålpudding med brunsås och kokt potatis, lingon.
+2. Makaronlåda med falukorv och ostsås, sallad.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingonsylt.
-2. Stekt rödspätta med räksås samt potatispuré och sallad.
+2. Köttbullar med gräddsås, inlagd gurka, lingon och potatismos
 
 ### Onsdag
 
-1. Kebab med provancalesås potatismos och sallad.
-2. Panerad Schnitzel med madeira-bearnaisesås samt grönsaker och stekt potatis. 
+1. Kycklingfilé med rose´pepparsås, grönsaker och ris.
+2. Stekt flundrafile´med hollandaisesås samt skaldjur och kokt potatis. 
 
 ### Torsdag
 
-1.  Gulaschsoppa samt tunna pankakor, sylt och grädde.
-2.  Böhmisk kotlett med baconsås, grönsaker och stekt potatis.
+1.  Hummersoppa med räkor samt tunna pankakor, sylt och grädde.
+2.  Peppar schnitzel med svart vinbärssås samt stekta grönsaker och strimlad potatis.
 
 ### Fredag  
 
-1. Fläskfilé noisette med sherrysås samt grönsaker och potatismunkar.
-2. Spaghetti Bolognese med ost.
+1. ALA CARTE`
+2. .
 
 SMAKLIG MÅLTID  
 
