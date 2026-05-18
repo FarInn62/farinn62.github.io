@@ -26,7 +26,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Torsdag
 
-1.  Gulaschsoppa och räkor samt tunna pankakor, sylt och grädde.
+1.  Gulaschsoppa och samt tunna pankakor, sylt och grädde.
 2.  Biff lindström med rödvinsås och grönsaker samt persiljesmör och kokt potatis.
 
 ### Fredag  
