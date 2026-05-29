@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.22 2026
+title: Lunch V.23 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 110:- Take away: 90:-
                                 
 ### Måndag
 
-1. Helstekt fläskytterfilé med kantarellås samt grönsaker, lingon och kokt potatis.
-2. Lunchtallrik med köttbullar, stektkorv, bostongurks och potatismos.
+1. Kalvfärsjärpar med kantarellsås, grönsaker, lingon och kokt potatis.
+2. Stekt lunchkorv med bostongurka och kokt potatis.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk samt lingonsylt.
-2. Stekt falukorv med stuvad vitkål, kokt potatis och sallad.
+2. Jägarstek med champijonsås, äpplemos och kokt potatis.
 
 ### Onsdag
 
-1. Kycklinggryta med chilisås, saltanötter, banan och ris.
-2. Stekt flundrafilé med räksås, sallad och kokt potatis. 
+1. Bondebiff med pepparsås, lingon och stekt potatis.
+2. Panerad sejfilé med smörsås, räkor och kokt potatis. 
 
 ### Torsdag
 
-1.  Sommarsoppa med prinskorv samt tunna pankakor, sylt och grädde.
-2.  Chili con carne med ris och sallad.
+1.  Köttfärssoppa med creme fraiche samt tunna pankakor, sylt och grädde.
+2.  Benfri kotlett med dragonsås, grönsaker och råstekt potatis.
 
 ### Fredag  
 
-1. Lax Wallenberg med Hollandaisesås, ärtor, skaldjur och potatismos.
-2. Tex Mex biff med provencalesås samt sallad och stekt potatis.
+1. Fläskfilé med madeira och bearnaisesås samt grönsaker och stekt potatis.
+2. Spagheti Bolognese med ost.
 
 SMAKLIG MÅLTID  
 
