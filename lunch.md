@@ -20,7 +20,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Onsdag
 
-1. Porterstek med sherrysås, grönsaker och kokt potatis.
+1. Fläskfilégryta med grönsaker och kokt potatis.
 2. Smörstekt rödspätta med remouladsås, kokt potatis och sallad.
 
 ### Torsdag
