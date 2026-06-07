@@ -9,6 +9,7 @@ Menyn gäller följande tider:
 Lunchtider  Mån-sön:11:00 - 14:30  
 Alla rätter: 110:- Take away: 90:-
 
+### Måndag
 
 1. Kycklingfilé med spenat, ädelostsås, grillad tomat och ris.
 2. Stekt falukorv med stuvade makaroner och senapsdressing.
