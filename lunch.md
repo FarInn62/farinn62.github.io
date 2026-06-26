@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.26 2026
+title: Lunch V.27 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Måndag
 
-1. Kalvfärsbiff med murkelsås, hjortronsylt, grönsaker och kokt potatis. 
-2. Nötlevergryta med ris och lingon. 
+1. Fransk köttgryta med potatismos, grönsaker. 
+2. Strömmingsrullader med tomatmajonnässås, kokt potatis, sallad. 
 
 ### Tisdag
 
-1. Stekt fläsk med löksås, kokt potatis och lingon. 
-2. Rostbiff med lingoncrème, potatissallad och pickles. 
+1. Raggmunkar med stekt fläsk, lingon. 
+2. Köttbullar i gräddsås, gurka, lingon, potatismos. 
 
 ### Onsdag
 
-1. Stekt rödspätta med remouladsås, sallad och kokt potatis. 
-2. Lasagne med sallad
+1. Italiensk Osso Bucco (Benfri kotlett i tomat- och grönsakssås), ris. 
+2. Fiskgratäng med skagensås, potatispuré, rödkål. 
 
 ### Torsdag
 
-1. Spenatsoppa med ägghalva samt tunna pannkakor med sylt och grädde.
-2. Currykycklinggryta med ris och ananassallad
+1. Sommarsoppa med bacon + tunna pannkakor med sylt och grädde. 
+2. Fläskfilé noisette med pinjonpepparsås, grönsaker, råstekt potatis. 
 
 ### Fredag
-1. Kålpudding med gräddsås, kokt potatis och lingon
-2. Vitvinkokt torskfilé med äggsås, ärtor och kokt potatis
+1. Stekt flundrafilé med hummersmörsås, grönsaker, kokt potatis. 
+2. Älgfärsbiff med kantarellsås, lingon, kokt potatis, sallad. 
 
 SMAKLIG MÅLTID  
 
