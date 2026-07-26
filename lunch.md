@@ -30,7 +30,7 @@ Alla rätter: 110:- Take away: 90:-
 2. Skomakarlåda med baconsås, kokt potatis och lingon.
 
 ### Fredag
-1.  Pytt i panna med rökt skinka, stekt ägg, Café de Paris-sås och rostad potatis.
+1.  Patentbiff med rökt skinka, stekt ägg, Café de Paris-sås och rostad potatis.
 2.  Stekt gösfilé med vitvinssås, kräftstjärtar, räkor, grönsaker och kokt potatis.
 
 SMAKLIG MÅLTID  
