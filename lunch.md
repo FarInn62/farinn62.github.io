@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.31 2026
+title: Lunch V.32 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Måndag
 
-1. Marinerad jägarstek med krämig kantarellsås, röda vinbär och kokt potatis.
-2. Ångad Alaska-filé med klassisk äggsås, kokt potatis och sallad.
+1. Chili con carne med ris och sallad.
+2. Spaghetti bolognese med ost.
 
 ### Tisdag
 
 1. Raggmunk med stekt fläsk och lingonsylt. 
-2. Köttfärsrulle fylld med skinka och ost, serverad med murkelsås, grönsaker och kokt potatis. 
+2. Stekt torskfilé med citronsås, grönsaker och kokt potatis. 
 
 ### Onsdag
 
-1. Stekt rödspätta med remouladsås, grönsaker och potatispuré.
-2. Dillkött med morötter och kokt potatis.
+1. Stekt kassler med rotmos, senapssås och sallad.
+2. Pytt i panna med ägg och rödbetor.
 
 ### Torsdag
 
-1. Potatis- och purjolökssoppa, serverad med tunna pannkakor, sylt och vispad grädde.
-2. Skomakarlåda med baconsås, kokt potatis och lingon.
+1. Köttfärssoppa med crème fraiche samt tunna pannkakor med sylt och grädde.
+2. Baconinbakad lunchkorv med tomatsallad och persiljestuvad potatis.
 
 ### Fredag
-1.  Patentbiff med rökt skinka, stekt ägg, Café de Paris-sås och rostad potatis.
-2.  Stekt gösfilé med vitvinssås, kräftstjärtar, räkor, grönsaker och kokt potatis.
+1.  Fläskfilé med tryffelsås, stekta grönsaker och råstekt potatis.
+2.  Nötlevergryta med ris och lingon.
 
 SMAKLIG MÅLTID  
 
