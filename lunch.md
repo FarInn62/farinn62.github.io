@@ -31,7 +31,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Fredag
 1.  Schnitzel med grönpepparsås, gelé, grönsaker och stekt potatis
-2.  Stekt lax med hollandaisesås, heta handskalade räkor och potatispuré.
+2.  Stekt lax med hollandaisesås, heta räkor och potatispuré.
 
 SMAKLIG MÅLTID  
 
