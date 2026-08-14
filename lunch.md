@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V.33 2026
+title: Lunch V.34 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,27 +11,27 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Måndag
 
-1. Vitkålsbiff med gräddsås, kokt potatis och lingon.
-2. Stekt falukorv med stuvade makaroner och sallad.
+1. Biff à la Wallenberg med sås crème, ärtor, lingon och potatismos.
+2. Stekt röspätta med remouladsås, kokt potatis och sallad.
 
 ### Tisdag
 
 1. Raggmunk med stekt fläsk och lingonsylt. 
-2. Fiskgratäng med ostsås, räkor och potatismos. 
+2. Italienska köttbullar med mild sås och tagliatelle.
 
 ### Onsdag
 
-1. Fransk köttgryta med kokt potatis och sallad.
-2. Kycklingfilé med ädelostsås, spenat, grillad tomat och pommes chateau.
+1. Köttfärslimpa med kantarellsås, vinbärsgelé och kokt potatis.
+2. Kokt Alaskafilé med äggsås, grönsaker och kokt potatis.
 
 ### Torsdag
 
-1. Köttfärssoppa med crème fraiche, serveras med tunna pannkakor, sylt och grädde.
-2. Fläskfilégryta med ris och sallad.
+1. Hummersoppa med kräftstjärtar och tunna pannkakor med sylt och grädde.
+2. Wienerschnitzel med rödvinssås, persiljesmör, ärtor och stekt potatis.
 
 ### Fredag
-1.  Schnitzel med grönpepparsås, gelé, grönsaker och stekt potatis
-2.  Stekt lax med hollandaisesås, heta räkor och potatispuré.
+1.  Benfri kotlett med portvinsstuvade champinjoner, äppelmos och råstekt potatis.
+2.  Stekt flundrafilé med smör- och saffranssås, grönsaker och kokt potatis.
 
 SMAKLIG MÅLTID  
 
