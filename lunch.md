@@ -16,7 +16,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Tisdag
 
-1. Raggmunk med stekt fläsk och lingonsylt. 
+1. Stekt fläsk med löksås, kokt potatis och lingonsylt. 
 2. Kalvfärsjärpar med murkelsås, kokt potatis och lingon.
 
 ### Onsdag
