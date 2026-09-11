@@ -31,7 +31,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Fredag
 1.  Dansk sjömansbiff med lök-ölssås, persiljesmör och råstekt potatis.   
-2.  Havets frestelse med smörsås, skaldjur och citron. 
+2.  laxfrestelse med smörsås, skaldjur och citron. 
 
 SMAKLIG MÅLTID  
 
