@@ -21,7 +21,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Onsdag
 
-1. Baconinbakad oxytterfilé med ädelostsås, grönsaker och kokt potatis. 
+1. Baconinbakad oxjärpar med ädelostsås, grönsaker och kokt potatis. 
 2. Spaghetti Bolognese med ost. 
 
 ### Torsdag
