@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V. 41 2026
+title: Lunch V. 42 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Måndag
 
-1. Bacon-kycklingwok med mild dressing, ris & sallad.  
-2. Lunchkorv med potatismos & bostongurka. 
+1. Älgskav med champinjonsås, potatismos och lingon.  
+2. Korv stroganoff med ris, gurka och smetana. 
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon
-2. Panerad rödspätta med remouladsås, räkor & kokt potatis.  
+2. Lasagne med sallad.  
 
 ### Onsdag
 
-1. Skomakarlåda med baconsås, potatispuré & lingon. 
-2. Pastagratäng med tomat- och ostsås, strimlad fläskfilé. 
+1. Biff Lindström med rödbetssås, persiljesmör, grönsaker och kokt potatis. 
+2. Stekt flundrafilé med spenat, hollandaisesås och kokt potatis. 
 
 ### Torsdag
 
-1. Kycklingsoppa + tunna pannkakor med sylt & grädde + tunna pannkakor m. sylt & grädde.   
-2. Fläskfilé med murkelsås, grönsaker & strimlad potatis. 
+1. Köttfärssoppa med crème fraîche och tunna pannkakor med sylt och grädde.   
+2. Kebab med mild sås och ris. 
 
 ### Fredag
 
-1.  Panerad kotlett med sherrysås, vinbärsgelé & stekt potatis. 
-2.  Spaghetti Bella de Mare med ost (skaldjur). 
+1.  Stekt lax med spenat, vitvinssås, grönsaker och kokt potatis. 
+2.  Kalvfärsbiff med sås, crème fraîche, lingon, ärtor och potatispuré. 
 
 SMAKLIG MÅLTID  
 ### Lördag Söndag Ala carte
