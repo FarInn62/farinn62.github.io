@@ -21,7 +21,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Onsdag
 
-1. Biff Lindström med rödbetssås, persiljesmör, grönsaker och kokt potatis. 
+1. Biff Lindström med rödvinsås, persiljesmör, grönsaker och kokt potatis. 
 2. Stekt flundrafilé med spenat, hollandaisesås och kokt potatis. 
 
 ### Torsdag
@@ -32,7 +32,7 @@ Alla rätter: 110:- Take away: 90:-
 ### Fredag
 
 1.  Stekt lax med spenat, vitvinssås, grönsaker och kokt potatis. 
-2.  Kalvfärsbiff med sås, crème fraîche, lingon, ärtor och potatispuré. 
+2.  Kalvfärsbiff med cremesås, lingon, ärtor och potatispuré. 
 
 SMAKLIG MÅLTID  
 ### Lördag Söndag Ala carte
