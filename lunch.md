@@ -31,7 +31,7 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Fredag
 
-1.  Fläskfilégryta med dijonsås och stekta grönsaker. 
+1.  Fläskfilégryta med dijonsås och stekta grönsaker samt kokt potatis. 
 2.  Smörstekt gösfilé med kräftsås, citron och potatispuré. 
 
 SMAKLIG MÅLTID  
