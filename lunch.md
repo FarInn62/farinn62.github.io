@@ -32,7 +32,7 @@ Alla rätter: 110:- Take away: 90:-
 ### Fredag
 
 1.  Fläskkotlett med kokt potatis, tomat- och grönsakssås, pennepasta och sallad.. 
-2.  Laxferestelse med saffranssås, räkor och sallad. 
+2.  Laxfrestelse med saffranssås, räkor och sallad. 
 
 SMAKLIG MÅLTID  
 ### Lördag Söndag Ala carte
