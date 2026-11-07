@@ -12,7 +12,7 @@ Alla rätter: 110:- Take away: 90:-
 ### Måndag
 
 1. Kålpudding med gräddsås, lingon och kokt potatis.  
-2. Lunchkorv med stuvad potatissallad.
+2. Lunchkorv med stuvad potatis och sallad.
 
 ### Tisdag
 
@@ -27,11 +27,11 @@ Alla rätter: 110:- Take away: 90:-
 ### Torsdag
 
 1. Blomkålssoppa med bacon och tunna pannkakor med sylt och grädde.   
-2. Ostpanerad schnitzel med chilisås, gröna bönor och stekt potatis. 
+2. Ostpanerad schnitzel med chili-paprikasås, gröna bönor och stekt potatis. 
 
 ### Fredag
 
-1.  Fläskfilé noisette med bearnaisesås, sparriskroketter och rostad potatis.
+1.  Fläskfilé noisette med bearnaisesås, sparris och kräftsjärtar samt rostad potatis.
 2.  Pannbiff med bacon, grönsaker, Madeirasås och potatismos. 
 
 SMAKLIG MÅLTID  
