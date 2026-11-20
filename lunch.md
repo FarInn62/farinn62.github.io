@@ -1,6 +1,6 @@
 ---
 layout: foodmenu
-title: Lunch V. 47 2026
+title: Lunch V. 48 2026
 permalink: /lunch/
 published: true
 ---
@@ -11,28 +11,28 @@ Alla rätter: 110:- Take away: 90:-
 
 ### Måndag
 
-1. Köttfärsgratäng med kantarellsås, lingon och kokt potatis.  
-2. Stekt falukorv med stuvade morötter, strimlad potatis och sallad.
+1. Dillköttgryta med morötter och kokt potatis.  
+2. Pytt i panna med ägg och rödbetor.
 
 ### Tisdag
 
 1. Raggmunkar med stekt fläsk och lingon
-2. Skomakarlåda med baconsås, potatismos och lingon.  
+2. Köttbullar i gräddsås med lingon, gurka och potatismos.  
 
 ### Onsdag
 
-1. Böhmisk schnitzel med äppelvinssås, sallad och stekt potatis. 
-2. Stekt Alaskafilé med dill och räksås, citron och potatispuré. 
+1. Köttfärsbiffar med kantarellsås, grönsaker, lingon och kokt potatis. 
+2. Panerad torskfilé med skagensås, grönsaker och potatispuré. 
 
 ### Torsdag
 
-1. Gulaschsoppa med crème fraîche, tunna pannkakor med sylt och grädde.   
-2. Kålmaja med gräddsås, lingon och kokt potatis. 
+1. Köttfärssoppa med crème fraîche, tunna pannkakor med sylt och grädde.   
+2. Fläskfilé Stroganoff med ris och smetana. 
 
 ### Fredag
 
-1.  Benfri kycklingklubba med Café de Paris-sås och grönsaksris.
-2.  Ångad torskfilé med äggsås, grönsaker och kokt potatis. 
+1.  Wienerschnitzel med sherrysås, ärtor, citron och stekt potatis.
+2.  Lasagne med sallad. 
 
 SMAKLIG MÅLTID  
 ### Lördag Söndag Ala carte
