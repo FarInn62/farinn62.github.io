@@ -22,7 +22,7 @@ Alla rätter: 110:- Take away: 90:-
 ### Onsdag
 
 1. Köttfärsbiffar med kantarellsås, grönsaker, lingon och kokt potatis. 
-2. Panerad torskfilé med skagensås, grönsaker och potatispuré. 
+2. Ångad lax med skagensås, grönsaker och potatispuré. 
 
 ### Torsdag
 
